@@ -1,74 +1,46 @@
-# Puppeteer Scraper
-
-- This project is a web scraping CLI application using Node.js and Puppeteer.
-- This will also crawl recursively by using CSS selectors for the sample URL as command line argument.
-- Main service(recursiveScraper) will crawl all pages in the given URL recursively by visiting to links
-- Solo service(soloScraper) will crawl the given array of pages without crawling inside links
-
+# Spider Ease
+- This project is a web scraping CLI application using Node.js and Puppeteer
+- Solo service (`soloScraper`) will crawl the given page without crawling inside links
+- Recursive service (`recursiveScraper`) will crawl all pages in the given URL recursively by visiting the links
 
 ## Installation
-
-All the required node modules has been installed to the project. Use below commands
-
-to import node packages
+All the required node modules have been installed in the project. Use the below command to import node packages
 
 ```
 npm install
 ```
 
-
 ## Usage
 
-The CLI tool can be installed globally using 
-```npm i -g``` or ```npm link```
-To remove use the command,
-```npm uninstall -g``` or ```npm unlink```
+### 1. To run the solo service for the single page books
 
-
-#### 1. To run the main service
-
-* If installed globally, use the following command,
+Command:
 ```
-recursiveScraper --url="<URL>" --css="<DOMAIN>"
-```
-* If not installed globally, you can still run the scripts using,
-```
-npm run recursive -- --url="<URL>" --css="<DOMAIN>"
+npm run solo -- --urls="<URL>" --sp="<STARTPOINT>"
 ```
 
-e.g.
+Example:
 ```
-npm run recursive -- --retry=3 --url="https://govt.westlaw.com/mdc/Browse/Home/Maryland/MarylandCodeCourtRules?guid=N34273650A5AA11DB9BCF9DAC28345A2A&originationContext=documenttoc&transitionType=Default&contextData=(sc.Default)" --css="govt.westlaw.com"
-```
-Files will get downloaded to folder
-```
-.\downloads\7424df04b3fec24ad60c3b024744ed5c89a39eeb\
+npm run solo -- --retry=0 --urls="https://www.statcan.gc.ca/en/about/policy/admin_data" --css="CA--STATCAN--REG--ADMIN-DATA"
 ```
 
-#### 2. To run the solo service
-
-* If installed globally, use the following command,
+Download Folder
 ```
-soloScraper --urls="<URL>" "<URL>" --css="<DOMAIN>"
-```
-* If not installed globally, you can still run the scripts using,
-```
-npm run solo -- --urls="<URL>" "<URL>" --css="<DOMAIN>"
+.\downloads\CA--STATCAN--REG--ADMIN-DATA\
 ```
 
-e.g.
+Download Files
 ```
-npm run solo -- --retry=3 --urls="https://govt.westlaw.com/mdc/Browse/Home/Maryland/MarylandCodeCourtRules?guid=N34273650A5AA11DB9BCF9DAC28345A2A&originationContext=documenttoc&transitionType=Default&contextData=(sc.Default)" "https://foobar.com" --css="govt.westlaw.com"
+.\downloads\CA--STATCAN--REG--ADMIN-DATA\5b4a8759d60739f644324f2c734493cf0030ca32.html
+.\downloads\CA--STATCAN--REG--ADMIN-DATA\5b4a8759d60739f644324f2c734493cf0030ca32
+.\downloads\CA--STATCAN--REG--ADMIN-DATA\index.html
 ```
-Files will get downloaded to folder
-```
-.\downloads\7424df04b3fec24ad60c3b024744ed5c89a39eeb\
-```
+- `5b4a8759d60739f644324f2c734493cf0030ca32.html` original HTML file download
+- `5b4a8759d60739f644324f2c734493cf0030ca32` recreated HTML file matching with sha1 converted filename
+- `index.html` easy viewer file to view the recreated HTML on the browser
 
-Files will get downloaded to folder
-```
-.\downloads\
-```
+### 2. To run the recursive service for the muti page books
+<TBD>
 
 ## Technologies Used
 ![Image](https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png)
