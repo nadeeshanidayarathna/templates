@@ -21,7 +21,7 @@ npm run solo -- --urls="<URL>" --sp="<STARTPOINT>"
 
 Example:
 ```
-npm run solo -- --retry=0 --urls="https://www.statcan.gc.ca/en/about/policy/admin_data" --css="CA--STATCAN--REG--ADMIN-DATA"
+npm run solo -- --retry=0 --urls="https://www.statcan.gc.ca/en/about/policy/admin_data" --sp="CA--STATCAN--REG--ADMIN-DATA"
 ```
 
 Download Folder
