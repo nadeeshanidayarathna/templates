@@ -16,12 +16,12 @@ npm install
 
 Command:
 ```
-npm run solo -- --urls="<URL>" --sp="<STARTPOINT>"
+npm run solo -- --sp="<STARTPOINT>" --url="<URL>"
 ```
 
 Example:
 ```
-npm run solo -- --retry=0 --urls="https://www.statcan.gc.ca/en/about/policy/admin_data" --sp="CA--STATCAN--REG--ADMIN-DATA"
+npm run solo -- --retry=0 --sp="CA--STATCAN--REG--ADMIN-DATA" --url="https://www.statcan.gc.ca/en/about/policy/admin_data"
 ```
 
 Download Folder
