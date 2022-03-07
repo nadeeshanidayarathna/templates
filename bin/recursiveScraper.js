@@ -2,12 +2,11 @@
 'use strict';
 const recursiveScraper = require('../lib')
 const yargs = require('yargs')
-    .usage('Usage $0 --url="<URL>" --css="<CSS_SELECTOR>" --retry=<Number>')
+    .usage('Usage $0 --url=["<URL>"] --sp="<STARTPOINT>"')
     .demand('url')
-    .demand('css')
-    .describe('url','Given a url  can crawl the page and save html to fs')
-    .describe('css', 'Mention the css selector class to scrap')
-    .describe('retry', 'Limit the number of times new browser instance initiated to continue crawl')
+    .describe('url', 'Mention the url to scrap')
+    .demand('sp')
+    .describe('sp', 'Mention the startpoint class to scrap')
     .argv
 
-    recursiveScraper(yargs.url,yargs.css,yargs.retry)
+recursiveScraper(yargs.url, yargs.sp, yargs.retry)

@@ -23,4 +23,3 @@ fs.lstat(path.join(__dirname, '../lib', yargs.sp), function (err, stat) {
     soloScraper = require(`../lib/${yargs.sp}/soloScraper`)
     soloScraper(yargs.url, yargs.sp)
 })
-
