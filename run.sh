@@ -1,8 +1,8 @@
 echo "calling run.sh"
 
 # execution specific variables
-export SP="CA--STATCAN--REG--ADMIN-DATA"
-export URL="https://www.statcan.gc.ca/en/about/policy/admin_data"
+export SP="$1"
+export URL="$2"
 
 # fixed variables
 export OUTPUT_PATH="C:\Users\dinusha.ambagahawita\projects\git\spider.ease\downloads"
@@ -14,8 +14,8 @@ export SPIDER_TEMPLATE_HOME="C:\Users\dinusha.ambagahawita\projects\git\spider.t
 #########################
 echo "step1: run spider ease"
 cd $SPIDER_EASE_HOME
-#npm install
-#npm run solo -- --retry=0 --urls="$URL" --css="$SP"
+npm install
+npm run solo -- --retry=0 --urls="$URL" --sp="$SP"
 
 ############################
 # step2: run spider prepare
