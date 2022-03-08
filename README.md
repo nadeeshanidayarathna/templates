@@ -62,10 +62,7 @@ bash run.sh "CA--STATCAN--REG--ADMIN-DATA" "https://www.statcan.gc.ca/en/about/p
 ```
 
 ## Technologies Used
-![Image](https://static.javatpoint.com/images/javascript/javascript_logo.png)
-|
-![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png)
-|
+![Image](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
 ![Image](https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png)
 
 ## References
