@@ -11,9 +11,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "solo": "node bin/soloScraper",
-    "recursive": "node bin/recursiveScraper"
+    "solo": "node bin/soloScraper"
   },
   "author": "",
   "license": "ISC",

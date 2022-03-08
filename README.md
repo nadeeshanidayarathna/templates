@@ -16,12 +16,12 @@ npm install
 
 Command:
 ```
-npm run solo -- --sp="<STARTPOINT>" --url="<URL>"
+npm run solo -- --sp="<STARTPOINT>" --url="<URL>" --path="<DOWNLOAD_PATH>"
 ```
 
 Example:
 ```
-npm run solo -- --retry=0 --sp="CA--STATCAN--REG--ADMIN-DATA" --url="https://www.statcan.gc.ca/en/about/policy/admin_data"
+npm run solo -- --sp="CA--STATCAN--REG--ADMIN-DATA" --url="https://www.statcan.gc.ca/en/about/policy/admin_data" --path="C:\Users\dinusha.ambagahawita\Downloads"
 ```
 
 Download Folder
@@ -42,10 +42,7 @@ Download Files
 
 - `index.html` easy viewer file to view the recreated HTML on the browser
 
-### 2. To run the recursive service for the muti page books
-<TBD>
-
-### 3. To run the entire spidering pipeline in local which does below steps
+### 2. To run the entire spidering pipeline in local which does below steps
 - Clear output folder
 - Run spider ease
 - Run spider prepare

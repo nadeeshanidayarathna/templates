@@ -32,7 +32,7 @@ echo "[step1]: run spider ease"
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 cd $SPIDER_EASE_HOME
 npm install
-npm run solo -- --retry=0 --sp="$SP" --url="$URL"
+npm run solo -- --retry=0 --sp="$SP" --url="$URL" --path="$OUTPUT_PATH"
 
 ###############################
 # [step2]: run spider prepare #
