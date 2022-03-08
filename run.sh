@@ -5,14 +5,15 @@ printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 # execution specific variables
 export SP="$1"
 export URL="$2"
+export OUTPUT_PATH="$3"
+export SPIDER_EASE_HOME="$4"
+export SPIDER_TEMPLATE_HOME="$5"
 
 echo "SP:$SP"
 echo "URL:$URL"
-
-# fixed variables
-export OUTPUT_PATH="C:\Users\dinusha.ambagahawita\projects\git\spider.ease\downloads"
-export SPIDER_EASE_HOME="C:\Users\dinusha.ambagahawita\projects\git\spider.ease"
-export SPIDER_TEMPLATE_HOME="C:\Users\dinusha.ambagahawita\projects\git\spider.templates"
+echo "OUTPUT_PATH:$OUTPUT_PATH"
+echo "SPIDER_EASE_HOME:$SPIDER_EASE_HOME"
+echo "SPIDER_TEMPLATE_HOME:$SPIDER_TEMPLATE_HOME"
 
 ################################
 # [step0]: clear output folder #
@@ -48,10 +49,10 @@ if compgen -G "*.html" > /dev/null; then
 fi
 
 #################################
-# [step3]: run spider templates #
+# [step3]: run spider template #
 #################################
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
-echo "[step3]: run spider templates"
+echo "[step3]: run spider template"
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 cd $SPIDER_TEMPLATE_HOME
 ./Spider.Console/bin/Debug/netcoreapp3.1/Spider.Console.exe "$OUTPUT_PATH" "UNIVERSAL--DEFAULT--REG--LEVEL-10" "$SP" "$URL" true
