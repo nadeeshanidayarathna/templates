@@ -64,7 +64,7 @@ bash run.sh "CA--STATCAN--REG--ADMIN-DATA" "https://www.statcan.gc.ca/en/about/p
 ## Technologies Used
 ![Image](https://static.javatpoint.com/images/javascript/javascript_logo.png)
 ![Image](https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png)
-![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZxVauwvK9ORMtJaQf1oRvmaZhAHhx3feXyaleyiYd3Q3BnFrtqAvkN9K2F069mfwEFQ&usqp=CAU)
+![Image](https://www.pinclipart.com/picdir/middle/102-1024697_related-wallpapers-node-js-logo-png-clipart.png)
 
 ## References
 [Public Tutorial Reference](https://www.digitalocean.com/community/tutorials/how-to-scrape-a-website-using-node-js-and-puppeteer)
