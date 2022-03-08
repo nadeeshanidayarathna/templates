@@ -31,15 +31,12 @@ Download Folder
 Download Files
 ```
 .\downloads\CA--STATCAN--REG--ADMIN-DATA\5b4a8759d60739f644324f2c734493cf0030ca32.html
-.\downloads\CA--STATCAN--REG--ADMIN-DATA\5b4a8759d60739f644324f2c734493cf0030ca32
-.\downloads\CA--STATCAN--REG--ADMIN-DATA\index.html
+.\downloads\CA--STATCAN--REG--ADMIN-DATA\5b4a8759d60739f644324f2c734493cf0030ca32.html
 ```
 
-- `5b4a8759d60739f644324f2c734493cf0030ca32.html` original HTML file download
+- `5b4a8759d60739f644324f2c734493cf0030ca32_original.html` original HTML file download
 
-- `5b4a8759d60739f644324f2c734493cf0030ca32` recreated HTML file matching with sha1 converted filename
-
-- `index.html` easy viewer file to view the recreated HTML on the browser
+- `5b4a8759d60739f644324f2c734493cf0030ca32.html` recreated HTML file matching with sha1 converted filename
 
 ### 2. To run the entire spidering pipeline in local which does below steps
 - Clear output folder
