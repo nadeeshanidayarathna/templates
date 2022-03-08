@@ -14,9 +14,18 @@ export OUTPUT_PATH="C:\Users\dinusha.ambagahawita\projects\git\spider.ease\downl
 export SPIDER_EASE_HOME="C:\Users\dinusha.ambagahawita\projects\git\spider.ease"
 export SPIDER_TEMPLATE_HOME="C:\Users\dinusha.ambagahawita\projects\git\spider.templates"
 
-#########################
-# [step1]: run spider ease
-#########################
+################################
+# [step0]: clear output folder #
+################################
+printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
+echo "[step0]: clear output folder"
+if [ -d "$OUTPUT_PATH/$SP" ]; then rm -Rf "$OUTPUT_PATH/$SP"; fi
+echo "deleted $OUTPUT_PATH/$SP"
+printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
+
+############################
+# [step1]: run spider ease #
+############################
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 echo "[step1]: run spider ease"
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
@@ -24,9 +33,9 @@ cd $SPIDER_EASE_HOME
 npm install
 npm run solo -- --retry=0 --sp="$SP" --url="$URL"
 
-############################
-# [step2]: run spider prepare
-############################
+###############################
+# [step2]: run spider prepare #
+###############################
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 echo "[step2]: run spider prepare"
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
@@ -38,9 +47,9 @@ if compgen -G "*.html" > /dev/null; then
     done
 fi
 
-##############################
-# [step3]: run spider templates
-##############################
+#################################
+# [step3]: run spider templates #
+#################################
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 echo "[step3]: run spider templates"
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
