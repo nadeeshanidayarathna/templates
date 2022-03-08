@@ -67,6 +67,7 @@ bash run.sh "CA--STATCAN--REG--ADMIN-DATA" "https://www.statcan.gc.ca/en/about/p
 ![Image](https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png)
 |
 ![Image](https://static.javatpoint.com/images/javascript/javascript_logo.png)
+|
 
 ## References
 [Public Tutorial Reference](https://www.digitalocean.com/community/tutorials/how-to-scrape-a-website-using-node-js-and-puppeteer)
