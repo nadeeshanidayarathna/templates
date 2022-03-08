@@ -1,7 +1,6 @@
 # Spider Ease
 - This project is a web scraping CLI application using Node.js and Puppeteer
 - Solo service (`soloScraper`) will crawl the given page without crawling inside links
-- Recursive service (`recursiveScraper`) will crawl all pages in the given URL recursively by visiting the links
 
 ## Installation
 All the required node modules have been installed in the project. Use the below command to import node packages
