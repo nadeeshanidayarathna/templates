@@ -66,8 +66,9 @@ bash run.sh "CA--STATCAN--REG--ADMIN-DATA" "https://www.statcan.gc.ca/eng/about/
 - Issue date
 - Effective date
 - Levels 1-10
-![Screenshot](colors.png)
-![Screenshot](sample.png)
+
+![Screenshot](colors.png =250x250)
+![Screenshot](sample.png =250x250)
 
 ## Technologies Used
 ![Image](https://static.javatpoint.com/images/javascript/javascript_logo.png)
