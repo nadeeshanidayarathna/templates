@@ -1,6 +1,6 @@
 # Spider Ease
-- This project is a web scraping CLI application using Node.js and Puppeteer
-- Scraper service (`scraper`) will scrape the given page via the scraper template available
+- This project is a web scraping CLI application using `Node.js` and `Puppeteer`
+- The scraper service (`scraper`) will scrape the given page via the JS template available in the `lib` folder
 
 ## Installation
 All the required node modules have been installed in the project. Use the below command to import node packages
@@ -8,7 +8,14 @@ All the required node modules have been installed in the project. Use the below 
 ```
 npm install
 ```
-
+## Features
+- Run the `JS` scrapers to perform rule base HTML simplification to match the universal `C#` template
+- Run the `JS` simplification both offline and online modes with local cache
+- Browser level debugging ability to put the breakpoints on actual eval functions
+- Tryout the code in the browser developer console before creating the `JS` template
+- Run the full pipeline if required at the end (`JS Conversion` + `Universal Template Caller` + `Spidering Output`)
+- JS templates are located in the `lib` folder with the SP code standard. Example: `.\lib\CA--STATCAN--REG--ADMIN-DATA.js`
+ 
 ## Usage
 
 ### 1. To run the scraper service for the single page books
@@ -30,13 +37,13 @@ Download Folder
 
 Download Files
 ```
-.\downloads\CA--STATCAN--REG--ADMIN-DATA\5b4a8759d60739f644324f2c734493cf0030ca32.html
-.\downloads\CA--STATCAN--REG--ADMIN-DATA\5b4a8759d60739f644324f2c734493cf0030ca32.html
+.\downloads\CA--STATCAN--REG--ADMIN-DATA\cccf739ae90f8a898e62c13c28b630d9db4bc6d1_original.html
+.\downloads\CA--STATCAN--REG--ADMIN-DATA\cccf739ae90f8a898e62c13c28b630d9db4bc6d1.html
 ```
 
-- `5b4a8759d60739f644324f2c734493cf0030ca32_original.html` original HTML file download
+- `cccf739ae90f8a898e62c13c28b630d9db4bc6d1_original.html` original HTML file downloaded with URL `SHA-1` filename
 
-- `5b4a8759d60739f644324f2c734493cf0030ca32.html` recreated HTML file matching with sha1 converted filename
+- `cccf739ae90f8a898e62c13c28b630d9db4bc6d1.html` recreated HTML file matching with URL `SHA-1` filename
 
 ### 2. To run the entire spidering pipeline in local which does below steps
 - Clear output folder
