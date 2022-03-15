@@ -68,6 +68,8 @@ bash run.sh "CA--STATCAN--REG--ADMIN-DATA" "https://www.statcan.gc.ca/eng/about/
 - Levels 1-10
 
 ![Screenshot](colors.png)
+
+Example:
 ![Screenshot](sample.png)
 
 ## Technologies Used
