@@ -1,6 +1,6 @@
 # Spider Ease
 - This project is a web scraping CLI application using Node.js and Puppeteer
-- Solo service (`soloScraper`) will crawl the given page without crawling inside links
+- Scraper service (`scraper`) will scrape the given page via the scraper template available
 
 ## Installation
 All the required node modules have been installed in the project. Use the below command to import node packages
@@ -11,16 +11,16 @@ npm install
 
 ## Usage
 
-### 1. To run the solo service for the single page books
+### 1. To run the scraper service for the single page books
 
 Command:
 ```
-npm run solo -- --sp="<STARTPOINT>" --url="<URL>" --path="<DOWNLOAD_PATH>"
+npm run scraper -- --sp="<STARTPOINT>" --url="<URL>" --path="<DOWNLOAD_PATH>"
 ```
 
 Example:
 ```
-npm run solo -- --sp="CA--STATCAN--REG--ADMIN-DATA" --url="https://www.statcan.gc.ca/eng/about/policy/admin_data" --path="C:\Users\dinusha.ambagahawita\Downloads"
+npm run scraper -- --sp="CA--STATCAN--REG--ADMIN-DATA" --url="https://www.statcan.gc.ca/eng/about/policy/admin_data" --path="C:\Users\dinusha.ambagahawita\Downloads"
 ```
 
 Download Folder

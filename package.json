@@ -3,15 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "bin": {
-    "soloScraper": "./bin/soloScraper.js",
-    "recursiveScraper": "./bin/recursiveScraper.js"
+    "scraper": "./bin/scraper.js"
   },
   "engines": {
     "node": ">=14.16"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "solo": "node bin/soloScraper"
+    "scraper": "node bin/scraper"
   },
   "author": "",
   "license": "ISC",
