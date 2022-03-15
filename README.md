@@ -67,6 +67,7 @@ bash run.sh "CA--STATCAN--REG--ADMIN-DATA" "https://www.statcan.gc.ca/eng/about/
 - Effective date
 - Levels 1-10
 
+Style Guide:
 ![Screenshot](colors.png)
 
 Example:
