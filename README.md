@@ -61,6 +61,14 @@ Example:
 bash run.sh "CA--STATCAN--REG--ADMIN-DATA" "https://www.statcan.gc.ca/eng/about/policy/admin_data" "C:\Users\dinusha.ambagahawita\Downloads" "C:\Users\dinusha.ambagahawita\projects\git\spider.ease" "C:\Users\dinusha.ambagahawita\projects\git\spider.templates"
 ```
 
+## Simplified HTML Style Standards
+- Root title
+- Issue date
+- Effective date
+- Levels 1-10
+![Screenshot](colors.png)
+![Screenshot](sample.png)
+
 ## Technologies Used
 ![Image](https://static.javatpoint.com/images/javascript/javascript_logo.png)
 ![Image](https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png)
