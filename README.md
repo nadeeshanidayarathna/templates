@@ -62,10 +62,10 @@ bash run.sh "CA--STATCAN--REG--ADMIN-DATA" "https://www.statcan.gc.ca/eng/about/
 ```
 
 ## Simplified HTML Style Standards
-- Root title
+- Root title (level1)
 - Issue date
 - Effective date
-- Levels 1-10
+- Levels 2-10
 
 ---
 Style Guide:
