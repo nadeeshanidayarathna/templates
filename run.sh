@@ -55,6 +55,6 @@ printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 echo "[step3]: run spider template"
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 cd $SPIDER_TEMPLATE_HOME
-./Spider.Console/bin/Debug/netcoreapp3.1/Spider.Console.exe "UNIVERSAL--DEFAULT--REG--LEVEL-10" "$OUTPUT_PATH" "$SP" "$URL" true
+./Spider.Console/bin/Debug/netcoreapp3.1/Spider.Console.exe -s "UNIVERSAL--DEFAULT--REG--LEVEL-10" -o "$OUTPUT_PATH" -k true -f "$SP" -u "$URL"
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 echo "ending run.sh"
