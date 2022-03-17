@@ -20,7 +20,7 @@ fs.lstat(path.join(__dirname, '../lib', yargs.sp), function () {
         scraper(yargs.url, yargs.sp, yargs.path);
         console.log(line);
     } catch (e) {
-        console.error("scraper not found! e:" + e);
+        console.error("scraper not found!", e);
         console.log(line);
         process.exit(1);
     }
