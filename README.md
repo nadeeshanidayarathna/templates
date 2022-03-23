@@ -28,6 +28,8 @@ npm run scraper -- --sp="<STARTPOINT>" --url="<URL>" --path="<DOWNLOAD_PATH>"
 Example:
 ```
 npm run scraper -- --sp="CA--STATCAN--REG--ADMIN-DATA" --url="https://www.statcan.gc.ca/eng/about/policy/admin_data" --path="C:\Users\dinusha.ambagahawita\Downloads"
+npm run scraper -- --sp="CA--STATCAN--REG--ADMIN-DATA2" --url="https://www.statcan.gc.ca/eng/about/policy/admin_data" --path="C:\Users\dinusha.ambagahawita\Downloads"
+npm run scraper -- --sp="CA--CG--REG--CRIMINAL-CODE-R" --url="https://laws-lois.justice.gc.ca/eng/acts/C-46/FullText.html" --path="C:\Users\dinusha.ambagahawita\Downloads"
 ```
 
 Download Folder
