@@ -15,7 +15,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "get-xpath": "^3.0.1",
     "js-sha1": "^0.6.0",
     "puppeteer": "^13.4.1",
     "puppeteer-extra": "^3.2.3",
