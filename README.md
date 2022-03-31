@@ -61,8 +61,8 @@ Example:
 bash run.sh "CA--STATCAN--REG--ADMIN-DATA" "https://www.statcan.gc.ca/eng/about/policy/admin_data" "C:\Users\dinusha.ambagahawita\Downloads" "C:\Users\dinusha.ambagahawita\projects\git\spider.ease" "C:\Users\dinusha.ambagahawita\projects\git\spider.templates"
 ```
 ## HTML Wrapping Standard
-- Root information => `<span class='root'></span>`
-- Content information => `<span class='content'></span>`
+- Main Root information => `<span class='root'></span>`
+- Main Content information => `<span class='content'></span>`
 - Root title => `<span class='level1'></span>`
 - Root Issue date => `<span class='issue-date'></span>`
 - Root Effective date => `<span class='effective-date'></span>`
