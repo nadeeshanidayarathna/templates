@@ -27,19 +27,18 @@ npm run scraper -- --sp="<STARTPOINT>" --url="<URL>" --path="<DOWNLOAD_PATH>"
 
 Example:
 ```
-npm run scraper -- --sp="CA--STATCAN--REG--ADMIN-DATA_v1" --url="https://www.statcan.gc.ca/eng/about/policy/admin_data" --path="C:\Users\dinusha.ambagahawita\Downloads"
-npm run scraper -- --sp="CA--STATCAN--REG--ADMIN-DATA_v2" --url="https://www.statcan.gc.ca/eng/about/policy/admin_data" --path="C:\Users\dinusha.ambagahawita\Downloads"
+npm run scraper -- --sp="CA--STATCAN--REG--ADMIN-DATA" --url="https://www.statcan.gc.ca/eng/about/policy/admin_data" --path="C:\Users\dinusha.ambagahawita\Downloads"
 ```
 
 Download Folder
 ```
-.\downloads\CA--STATCAN--REG--ADMIN-DATA_v1\
+.\downloads\CA--STATCAN--REG--ADMIN-DATA\
 ```
 
 Download Files
 ```
-.\downloads\CA--STATCAN--REG--ADMIN-DATA_v1\cccf739ae90f8a898e62c13c28b630d9db4bc6d1_original.html
-.\downloads\CA--STATCAN--REG--ADMIN-DATA_v1\cccf739ae90f8a898e62c13c28b630d9db4bc6d1.html
+.\downloads\CA--STATCAN--REG--ADMIN-DATA\cccf739ae90f8a898e62c13c28b630d9db4bc6d1_original.html
+.\downloads\CA--STATCAN--REG--ADMIN-DATA\cccf739ae90f8a898e62c13c28b630d9db4bc6d1.html
 ```
 
 - `cccf739ae90f8a898e62c13c28b630d9db4bc6d1_original.html` original HTML file downloaded with URL `SHA-1` filename
@@ -59,21 +58,16 @@ bash run.sh "<STARTPOINT>" "<URL>" "<OUTPUT_FOLDER>" "<SPIDER_EASE_HOME>" "<SPID
 
 Example:
 ```
-bash run.sh "CA--STATCAN--REG--ADMIN-DATA_v1" "https://www.statcan.gc.ca/eng/about/policy/admin_data" "C:\Users\dinusha.ambagahawita\Downloads" "C:\Users\dinusha.ambagahawita\projects\git\spider.ease" "C:\Users\dinusha.ambagahawita\projects\git\spider.templates"
-bash run.sh "CA--STATCAN--REG--ADMIN-DATA_v2" "https://www.statcan.gc.ca/eng/about/policy/admin_data" "C:\Users\dinusha.ambagahawita\Downloads" "C:\Users\dinusha.ambagahawita\projects\git\spider.ease" "C:\Users\dinusha.ambagahawita\projects\git\spider.templates"
+bash run.sh "CA--STATCAN--REG--ADMIN-DATA" "https://www.statcan.gc.ca/eng/about/policy/admin_data" "C:\Users\dinusha.ambagahawita\Downloads" "C:\Users\dinusha.ambagahawita\projects\git\spider.ease" "C:\Users\dinusha.ambagahawita\projects\git\spider.templates"
 ```
-## Ease Template Types
-- _v1 template: The template has to `sibling-fy` the content + `wrap` the style standards above using a new DOM
-- _v2 template: The template has to `wrap` the style standards above using the same DOM
-
-*Sibling-fy refers to all the levels are in the same immediate parent
-
-## Ease HTML Wrapping Standard
-- Root title => `level1`
-- Issue date => `issue-date`
-- Effective date => `effective-date`
-- Levels 2-10 => `level2`, `level3`, `level4`, `level5`, `level6`, `level7`, `level8`, `level9`, `level0`
-- Footnotes => `footnote`
+## HTML Wrapping Standard
+- Root information => `<span class='root'></span>`
+- Content information => `<span class='content'></span>`
+- Root title => `<span class='level1'></span>`
+- Issue date => `<span class='issue-date'></span>`
+- Effective date => `<span class='effective-date'></span>`
+- Levels 2-10 => `<span class='level2'></span>`, `<span class='level3'></span>`, `<span class='level4'></span>`, `<span class='level5'></span>`, `<span class='level6'></span>`, `<span class='level7'></span>`, `<span class='level8'></span>`, `<span class='level9'></span>`, `<span class='level0'></span>`
+- Footnotes => `<span class='footnote'></span>`
 
 ---
 Style Guide:
