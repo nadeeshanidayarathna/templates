@@ -61,12 +61,21 @@ Example:
 bash run.sh "CA--STATCAN--REG--ADMIN-DATA" "https://www.statcan.gc.ca/eng/about/policy/admin_data" "C:\Users\dinusha.ambagahawita\Downloads" "C:\Users\dinusha.ambagahawita\projects\git\spider.ease" "C:\Users\dinusha.ambagahawita\projects\git\spider.templates"
 ```
 ## HTML Wrapping Standard
+
+### Top Level
 - Main Root information => `<span class='root'></span>`
+
 - Main Content information => `<span class='content'></span>`
+
+### Sub Level
 - Root title => `<span class='level1'></span>`
+
 - Root Issue date => `<span class='issue-date'></span>`
+
 - Root Effective date => `<span class='effective-date'></span>`
+
 - Content Levels 2-10 => `<span class='level2'></span>`, `<span class='level3'></span>`, `<span class='level4'></span>`, `<span class='level5'></span>`, `<span class='level6'></span>`, `<span class='level7'></span>`, `<span class='level8'></span>`, `<span class='level9'></span>`, `<span class='level0'></span>`
+
 - Content Footnotes => `<span class='footnote'></span>`
 
 ---
