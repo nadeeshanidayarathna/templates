@@ -47,6 +47,8 @@ if compgen -G "*.html" > /dev/null; then
         mv -- "$file" "${file%%.html}"
     done
 fi
+echo "removing txt file generated from test"
+rm -f *.txt
 
 #################################
 # [step3]: run spider template #
