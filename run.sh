@@ -33,6 +33,10 @@ printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 cd $SPIDER_EASE_HOME
 npm install
 npm run scraper -- --sp="$SP" --url="$URL" --path="$OUTPUT_PATH"
+if [[ "$?" != "0" ]]; then
+    echo "run.sh FAILED with run spider ease"
+    exit 1
+fi
 
 ###############################
 # [step2]: run spider prepare #
@@ -58,5 +62,9 @@ echo "[step3]: run spider template"
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 cd $SPIDER_TEMPLATE_HOME
 ./Spider.Console/bin/Debug/netcoreapp3.1/Spider.Console.exe -s "UNIVERSAL--DEFAULT--REG--LEVEL-10" -o "$OUTPUT_PATH" -k true -f "$SP" -u "$URL"
+if [[ "$?" != "0" ]]; then
+    echo "run.sh FAILED with run spider template"
+    exit 1
+fi
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 echo "ending run.sh"
