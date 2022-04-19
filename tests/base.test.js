@@ -73,4 +73,6 @@ async function runTest(browser, originalHtmlPath, originalTextPath, buildHtmlPat
     console.log(line);
 }
 
+exports.write = write;
+exports.htmlToText = htmlToText;
 exports.runTest = runTest;
