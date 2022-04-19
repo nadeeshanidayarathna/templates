@@ -10,6 +10,7 @@ async function write(path, tags) {
     for (tag of tags) {
         fileWriter.write(tag);
     }
+    fileWriter.end();
 }
 
 async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelectors) {
