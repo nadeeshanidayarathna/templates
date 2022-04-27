@@ -11,3 +11,6 @@ npm run scraper -- --sp="UN--UG--REG--THE-176" --url="https://www.legislation.go
 npm run scraper -- --sp="UN--UG--REG--THE-136" --url="https://www.legislation.gov.uk/uksi/2018/539" --path="C:\Users\Raveendran Pirarthan\Downloads"
 npm run scraper -- --sp="UN--FDICF--REG--POL-3" --url="https://www.fdic.gov/regulations/laws/rules/5000-2600.html#fdic5000policyso" --path="C:\Users\Raveendran Pirarthan\Downloads"
 npm run scraper -- --sp="UN--FDICF--REG--GUI-3" --url="https://www.fdic.gov/regulations/laws/rules/5000-5300.html#fdic5000guidelinesamsd" --path="C:\Users\Raveendran Pirarthan\Downloads"
+npm run scraper -- --sp="SP--SG--REG--L3OF28DONVAT" --url="https://www.boe.es/buscar/act.php?id=BOE-A-1992-28740" --path="C:\Users\Raveendran Pirarthan\Downloads"
+npm run scraper -- --sp="SP--DGDSYFDP--REG--ROYAL-DECREE-NO" --url="http://www.boe.es/buscar/act.php?id=BOE-A-2007-6820" --path="C:\Users\Raveendran Pirarthan\Downloads"
+npm run scraper -- --sp="SP--SG--REG--ACT-NO" --url="https://www.boe.es/buscar/act.php?id=BOE-A-2003-20254" --path="C:\Users\Raveendran Pirarthan\Downloads"
