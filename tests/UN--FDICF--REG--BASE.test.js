@@ -69,9 +69,9 @@ async function runTest(browser, originalHtmlPath, originalTextPath, buildHtmlPat
 
     console.log(line);
     if (originalTextHash != buildTextHash) {
-        throw "[TEST]:content hashes - failed!!! please compare the original HTML content and build HTML content." + " original:" + originalTextHash + " build:" + buildTextHash;
+        throw "[TEST]:content hashes - failed!!! please compare the original HTML content and build HTML content." + " (original:" + originalTextHash + " build:" + buildTextHash + ")";
     } else {
-        console.log("[TEST]:content hashes - success!" + " original:" + originalTextHash + " build:" + buildTextHash);
+        console.log("[TEST]:content hashes - success!" + " (original:" + originalTextHash + " build:" + buildTextHash + ")");
     }
     console.log(line);
 }
