@@ -5,6 +5,13 @@ const test = require("./base.test");
 
 async function htmlToTextOriginal(browser, htmlPath, textPath, rootScope, removeSelectors) {
     {
+        console.log(line);
+        if (rootScope.includes(",")) {
+            throw "[TEST]:single root - failed!!! please check the root scopes whether it contains multiple selectors which is not allowed.";
+        } else {
+            console.log("[TEST]:single root - success!");
+        }
+
         const page = await browser.newPage();
         const contentHtml = fs.readFileSync(htmlPath, "utf8");
         await page.setContent(contentHtml, { waitUntil: "domcontentloaded", timeout: 0 });
@@ -58,16 +65,13 @@ async function runTest(browser, originalHtmlPath, originalTextPath, buildHtmlPat
 
     // ignoring root level optional attributes from test comparision
     buildRemoveSelectors.push(".issue-date", ".effective-date");
-    const buildTextHash = await test.htmlToText(browser, buildHtmlPath, buildTextPath, buildRootScope, buildRemoveSelectors);
+    const buildTextHash = await test.htmlToText(browser, buildHtmlPath, buildTextPath, buildRootScope, buildRemoveSelectors, true);
 
     console.log(line);
-    console.log("hash:" + originalTextHash + " (original)");
-    console.log("hash:" + buildTextHash + " (build)");
-    console.log(line);
     if (originalTextHash != buildTextHash) {
-        throw "text content hashes mismatches!!! please compare the original HTML content and build HTML content.";
+        throw "[TEST]:content hashes - failed!!! please compare the original HTML content and build HTML content." + " original:" + originalTextHash + " build:" + buildTextHash;
     } else {
-        console.log("text content hashes matches successfully!");
+        console.log("[TEST]:content hashes - success!" + " original:" + originalTextHash + " build:" + buildTextHash);
     }
     console.log(line);
 }
