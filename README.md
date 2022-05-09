@@ -30,12 +30,22 @@ Example:
 npm run scraper -- --sp="CA--STATCAN--REG--ADMIN-DATA" --url="https://www.statcan.gc.ca/eng/about/policy/admin_data" --path="C:\Users\dinusha.ambagahawita\Downloads"
 ```
 
-Download Folder
+Tests Cases: It's mandatory to pass `ALL` these tests for each template which will ensure valid root scopes are used for tests, valid level order is created, valid image paths exist, valid anchor paths exist, and no content missing between 2 HTMLs.
+```
+[TEST]:single root - success!
+[TEST]:single root - success!
+[TEST]:level order - success!
+[TEST]:image path - success!
+[TEST]:anchor path - success!
+[TEST]:content hashes - success!
+```
+
+Download Folder:
 ```
 .\downloads\CA--STATCAN--REG--ADMIN-DATA\
 ```
 
-Download Files
+Download Files:
 ```
 .\downloads\CA--STATCAN--REG--ADMIN-DATA\cccf739ae90f8a898e62c13c28b630d9db4bc6d1_original.html
 .\downloads\CA--STATCAN--REG--ADMIN-DATA\cccf739ae90f8a898e62c13c28b630d9db4bc6d1.html
@@ -45,7 +55,7 @@ Download Files
 
 - `cccf739ae90f8a898e62c13c28b630d9db4bc6d1.html` recreated HTML file matching with URL `SHA-1` filename
 
-### 2. To run the entire spidering pipeline in local which does below steps
+### 2. To run the entire spidering pipeline in local which does the below steps
 - Clear output folder
 - Run spider ease
 - Run spider prepare
@@ -53,7 +63,7 @@ Download Files
 
 Command:
 ```
-bash run.sh "<STARTPOINT>" "<URL>" "<OUTPUT_FOLDER>" "<SPIDER_EASE_HOME>" "<SPIDER_TEMPLATE_HOME>"
+bash run.sh "<STARTPOINT>" "<URL>" "<OUTPUT_FOLDER>" "<SPIDER_EASE_HOME>" "<SPIDER_TEMPLATE_HOME>" "COMMANDS"
 ```
 
 Example:

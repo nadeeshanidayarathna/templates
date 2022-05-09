@@ -13,7 +13,7 @@ async function write(path, tags) {
     fileWriter.end();
 }
 
-async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelectors, runLevelTest) {
+async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelectors, runBuildHtmlOnlyTest) {
     {
         console.log(line);
         if (rootScope.includes(",")) {
@@ -27,7 +27,7 @@ async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelector
         await page.setContent(contentHtml, { waitUntil: "domcontentloaded", timeout: 0 });
         await page.waitForSelector(rootScope);
         page.on("console", (msg) => console.log(msg.text()));
-        var tags = await page.evaluate(function process(rootScope, removeSelectors, line, runLevelTest) {
+        var tags = await page.evaluate(function process(rootScope, removeSelectors, line, runBuildHtmlOnlyTest) {
             var tags = [];
             function ToText(tags, node) {
                 const childNodes = node.childNodes;
@@ -50,31 +50,68 @@ async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelector
                 ToText(tags, node);
             }
 
-            if (runLevelTest) {
-                const levels = document.querySelectorAll(".level1,.level2,.level3,.level4,.level5,.level6,.level7,.level8,.level9,.level10");
-                var levelNumbers = [];
-                for (const level of levels) {
-                    levelNumbers.push(Number(level.className.replaceAll("level", "")));
-                }
-                var previousLevelNumber = 0;
-                var levelOrderIssue = false;
-                for (const levelNumber of levelNumbers) {
-                    if (levelNumber > previousLevelNumber + 1) {
-                        levelOrderIssue = true;
-                        break;
+            if (runBuildHtmlOnlyTest) {
+                {
+                    // level test
+                    const levels = document.querySelectorAll(".level1,.level2,.level3,.level4,.level5,.level6,.level7,.level8,.level9,.level10");
+                    var levelNumbers = [];
+                    for (const level of levels) {
+                        levelNumbers.push(Number(level.className.replaceAll("level", "")));
                     }
-                    previousLevelNumber = levelNumber;
+                    var previousLevelNumber = 0;
+                    var levelOrderIssue = false;
+                    for (const levelNumber of levelNumbers) {
+                        if (levelNumber > previousLevelNumber + 1) {
+                            levelOrderIssue = true;
+                            break;
+                        }
+                        previousLevelNumber = levelNumber;
+                    }
+                    console.log(line);
+                    if (levelOrderIssue) {
+                        throw "[TEST]:level order - failed!!! please check the build HTML level order.";
+                    } else {
+                        console.log("[TEST]:level order - success!");
+                    }
                 }
-                console.log(line);
-                if (levelOrderIssue) {
-                    throw "[TEST]:level order - failed!!! please check the build HTML level order.";
-                } else {
-                    console.log("[TEST]:level order - success!");
+
+                {
+                    // image test
+                    const images = document.querySelectorAll("img");
+                    var imagePathIssue = false;
+                    for (const image of images) {
+                        if (!image.src.toLocaleUpperCase().startsWith("HTTP")) {
+                            imagePathIssue = true;
+                        }
+                    }
+                    console.log(line);
+                    if (imagePathIssue) {
+                        throw "[TEST]:image path - failed!!! please check the build HTML image src whether its an absolute link.";
+                    } else {
+                        console.log("[TEST]:image path - success!");
+                    }
+                }
+
+                {
+                    // anchor test
+                    const anchors = document.querySelectorAll("a");
+                    var anchorPathIssue = false;
+                    for (const anchor of anchors) {
+                        if (!anchor.href.toLocaleUpperCase().startsWith("HTTP")) {
+                            anchorPathIssue = true;
+                        }
+                    }
+                    console.log(line);
+                    if (anchorPathIssue) {
+                        throw "[TEST]:anchor path - failed!!! please check the build HTML anchor href whether its an absolute link.";
+                    } else {
+                        console.log("[TEST]:anchor path - success!");
+                    }
                 }
             }
 
             return Promise.resolve(tags);
-        }, rootScope, removeSelectors, line, runLevelTest);
+        }, rootScope, removeSelectors, line, runBuildHtmlOnlyTest);
 
         const content = tags.join("").trim().replaceAll("\n", "").replaceAll(" ", "");
         const hash = sha1(content);
