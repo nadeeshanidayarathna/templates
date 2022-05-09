@@ -56,15 +56,14 @@ async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelector
                 for (const level of levels) {
                     levelNumbers.push(Number(level.className.replaceAll("level", "")));
                 }
-                const uniqueLevelNumbers = [...new Set(levelNumbers)];
-                var previousUniqueLevelNumber = 0;
+                var previousLevelNumber = 0;
                 var levelOrderIssue = false;
-                for (const uniqueLevelNumber of uniqueLevelNumbers) {
-                    if (uniqueLevelNumber > previousUniqueLevelNumber + 1) {
+                for (const levelNumber of levelNumbers) {
+                    if (levelNumber > previousLevelNumber + 1) {
                         levelOrderIssue = true;
                         break;
                     }
-                    previousUniqueLevelNumber = uniqueLevelNumber;
+                    previousLevelNumber = levelNumber;
                 }
                 console.log(line);
                 if (levelOrderIssue) {
