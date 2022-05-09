@@ -13,14 +13,21 @@ async function write(path, tags) {
     fileWriter.end();
 }
 
-async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelectors) {
+async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelectors, runLevelTest) {
     {
+        console.log(line);
+        if (rootScope.includes(",")) {
+            throw "[TEST]:single root - failed!!! please check the root scopes whether it contains multiple selectors which is not allowed.";
+        } else {
+            console.log("[TEST]:single root - success!");
+        }
+
         const page = await browser.newPage();
         const contentHtml = fs.readFileSync(htmlPath, "utf8");
         await page.setContent(contentHtml, { waitUntil: "domcontentloaded", timeout: 0 });
         await page.waitForSelector(rootScope);
         page.on("console", (msg) => console.log(msg.text()));
-        var tags = await page.evaluate(function process(rootScope, removeSelectors) {
+        var tags = await page.evaluate(function process(rootScope, removeSelectors, line, runLevelTest) {
             var tags = [];
             function ToText(tags, node) {
                 const childNodes = node.childNodes;
@@ -42,8 +49,32 @@ async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelector
             for (node of document.querySelectorAll(rootScope)) {
                 ToText(tags, node);
             }
+
+            if (runLevelTest) {
+                const levels = document.querySelectorAll(".level1,.level2,.level3,.level4,.level5,.level6,.level7,.level8,.level9,.level10");
+                var levelNumbers = [];
+                for (const level of levels) {
+                    levelNumbers.push(Number(level.className.replaceAll("level", "")));
+                }
+                var previousLevelNumber = 0;
+                var levelOrderIssue = false;
+                for (const levelNumber of levelNumbers) {
+                    if (levelNumber > previousLevelNumber + 1) {
+                        levelOrderIssue = true;
+                        break;
+                    }
+                    previousLevelNumber = levelNumber;
+                }
+                console.log(line);
+                if (levelOrderIssue) {
+                    throw "[TEST]:level order - failed!!! please check the build HTML level order.";
+                } else {
+                    console.log("[TEST]:level order - success!");
+                }
+            }
+
             return Promise.resolve(tags);
-        }, rootScope, removeSelectors);
+        }, rootScope, removeSelectors, line, runLevelTest);
 
         const content = tags.join("").trim().replaceAll("\n", "").replaceAll(" ", "");
         const hash = sha1(content);
@@ -55,20 +86,17 @@ async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelector
 }
 
 async function runTest(browser, originalHtmlPath, originalTextPath, buildHtmlPath, buildTextPath, originalRootScope, originalRemoveSelectors, buildRootScope, buildRemoveSelectors) {
-    const originalTextHash = await htmlToText(browser, originalHtmlPath, originalTextPath, originalRootScope, originalRemoveSelectors);
+    const originalTextHash = await htmlToText(browser, originalHtmlPath, originalTextPath, originalRootScope, originalRemoveSelectors, false);
 
     // ignoring root level optional attributes from test comparision
     buildRemoveSelectors.push(".issue-date", ".effective-date");
-    const buildTextHash = await htmlToText(browser, buildHtmlPath, buildTextPath, buildRootScope, buildRemoveSelectors);
+    const buildTextHash = await htmlToText(browser, buildHtmlPath, buildTextPath, buildRootScope, buildRemoveSelectors, true);
 
     console.log(line);
-    console.log("hash:" + originalTextHash + " (original)");
-    console.log("hash:" + buildTextHash + " (build)");
-    console.log(line);
     if (originalTextHash != buildTextHash) {
-        throw "text content hashes mismatches!!! please compare the original HTML content and build HTML content.";
+        throw "[TEST]:content hashes - failed!!! please compare the original HTML content and build HTML content." + " (original:" + originalTextHash + " build:" + buildTextHash + ")";
     } else {
-        console.log("text content hashes matches successfully!");
+        console.log("[TEST]:content hashes - success!" + " (original:" + originalTextHash + " build:" + buildTextHash + ")");
     }
     console.log(line);
 }

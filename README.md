@@ -58,7 +58,7 @@ bash run.sh "<STARTPOINT>" "<URL>" "<OUTPUT_FOLDER>" "<SPIDER_EASE_HOME>" "<SPID
 
 Example:
 ```
-bash run.sh "CA--STATCAN--REG--ADMIN-DATA" "https://www.statcan.gc.ca/eng/about/policy/admin_data" "C:\Users\dinusha.ambagahawita\Downloads" "C:\Users\dinusha.ambagahawita\projects\git\spider.ease" "C:\Users\dinusha.ambagahawita\projects\git\spider.templates"
+bash run.sh "CA--STATCAN--REG--ADMIN-DATA" "https://www.statcan.gc.ca/eng/about/policy/admin_data" "C:\Users\dinusha.ambagahawita\Downloads" "C:\Users\dinusha.ambagahawita\projects\git\spider.ease" "C:\Users\dinusha.ambagahawita\projects\git\spider.templates" "CLEAR|EASE|PREPARE|SPIDER"
 ```
 ## HTML Wrapping Standard
 
