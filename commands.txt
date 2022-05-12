@@ -14,3 +14,6 @@ npm run scraper -- --sp="UN--FDICF--REG--GUI-3" --url="https://www.fdic.gov/regu
 npm run scraper -- --sp="SP--SG--REG--L3OF28DONVAT" --url="https://www.boe.es/buscar/act.php?id=BOE-A-1992-28740" --path="C:\Users\Raveendran Pirarthan\Downloads"
 npm run scraper -- --sp="SP--DGDSYFDP--REG--ROYAL-DECREE-NO" --url="http://www.boe.es/buscar/act.php?id=BOE-A-2007-6820" --path="C:\Users\Raveendran Pirarthan\Downloads"
 npm run scraper -- --sp="SP--SG--REG--ACT-NO" --url="https://www.boe.es/buscar/act.php?id=BOE-A-2003-20254" --path="C:\Users\Raveendran Pirarthan\Downloads"
+npm run scraper -- --sp="AU--ASICA--REG--RG-83" --url="https://asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-166-licensing-financial-requirements/" --path="C:\Users\Raveendran Pirarthan\Downloads"
+npm run scraper -- --sp="MO--MG--REG--LAW-NO-1" --url="https://www.legimonaco.mc/305/legismclois.nsf/db3b0488a44ebcf9c12574c7002a8e84/052f1a7a7a60326ac125773f003d77d4!OpenDocument" --path="C:\Users\Raveendran Pirarthan\Downloads"
+npm run scraper -- --sp="MO--SDEDCSLCFS--REG--LAW-NO-0" --url="https://www.legimonaco.mc/305/legismclois.nsf/ViewTNC/699F368D4F730C36C125773F003D5ABC!OpenDocument" --path="C:\Users\Raveendran Pirarthan\Downloads"
