@@ -3,7 +3,9 @@
 - The scraper service (`scraper`) will scrape the given page via the JS template available in the `lib` folder
 
 ## Installation
-All the required node modules have been installed in the project. Use the below command to import node packages
+- Step1: Install the `NodeJS`(version 16.+ or latest)
+- Step2: Install the VSCode (latest version)
+- Step3: All the required node modules have been installed in the project. Use the below command to import node packages
 
 ```
 npm install
@@ -100,6 +102,26 @@ Example:
 ![Image](https://static.javatpoint.com/images/javascript/javascript_logo.png)
 ![Image](https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png)
 ![Image](https://miro.medium.com/max/600/1*AJTB4eViV7eQeOC9uUGABw.png)
+
+## FAQs
+---
+(Q) Unable to run the run scraper command in the readme?
+
+(A) Check the NodeJS version whether it has the latest or given in the readme
+
+---
+(Q) VS code basic debug points are not working?
+
+(A) Enable the VS Code auto to attach the debugger
+Press: `CTRL+SHIFT+P` => select `Debug: Toggle Auto Attach` => select `Always`
+
+---
+(Q) Puppeteer browser debug points are not working?
+
+(A) Enable the dev tools parameter in the code
+`devtools: true`
+
+---
 
 ## References
 [Public Tutorial Reference](https://www.digitalocean.com/community/tutorials/how-to-scrape-a-website-using-node-js-and-puppeteer)
