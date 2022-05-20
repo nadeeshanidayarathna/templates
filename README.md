@@ -3,7 +3,9 @@
 - The scraper service (`scraper`) will scrape the given page via the JS template available in the `lib` folder
 
 ## Installation
-All the required node modules have been installed in the project. Use the below command to import node packages
+- Step1: Install the `NodeJS`(version 16.+ or latest)
+- Step2: Install the VSCode (latest version)
+- Step3: All the required node modules have been installed in the project. Use the below command to import node packages
 
 ```
 npm install
@@ -22,12 +24,12 @@ npm install
 
 Command:
 ```
-npm run scraper -- --sp="<STARTPOINT>" --url="<URL>" --path="<DOWNLOAD_PATH>"
+npm run scraper -- --sp='<STARTPOINT>' --url='<URL>' --path='<DOWNLOAD_PATH>'
 ```
 
 Example:
 ```
-npm run scraper -- --sp="CA--STATCAN--REG--ADMIN-DATA" --url="https://www.statcan.gc.ca/eng/about/policy/admin_data" --path="C:\Users\dinusha.ambagahawita\Downloads"
+npm run scraper -- --sp='CA--STATCAN--REG--ADMIN-DATA' --url='https://www.statcan.gc.ca/eng/about/policy/admin_data' --path='C:\Users\dinusha.ambagahawita\Downloads'
 ```
 
 Tests Cases: It's mandatory to pass `ALL` these tests for each template which will ensure valid root scopes are used for tests, valid level order is created, valid image paths exist, valid anchor paths exist, and no content missing between 2 HTMLs.
@@ -63,12 +65,12 @@ Download Files:
 
 Command:
 ```
-bash run.sh "<STARTPOINT>" "<URL>" "<OUTPUT_FOLDER>" "<SPIDER_EASE_HOME>" "<SPIDER_TEMPLATE_HOME>" "COMMANDS"
+bash run.sh '<STARTPOINT>' '<URL>' '<OUTPUT_FOLDER>' '<SPIDER_EASE_HOME>' '<SPIDER_TEMPLATE_HOME>' 'COMMANDS'
 ```
 
 Example:
 ```
-bash run.sh "CA--STATCAN--REG--ADMIN-DATA" "https://www.statcan.gc.ca/eng/about/policy/admin_data" "C:\Users\dinusha.ambagahawita\Downloads" "C:\Users\dinusha.ambagahawita\projects\git\spider.ease" "C:\Users\dinusha.ambagahawita\projects\git\spider.templates" "CLEAR|EASE|PREPARE|SPIDER"
+bash run.sh 'CA--STATCAN--REG--ADMIN-DATA' 'https://www.statcan.gc.ca/eng/about/policy/admin_data' 'C:\Users\dinusha.ambagahawita\Downloads' 'C:\Users\dinusha.ambagahawita\projects\spider.ease' 'C:\Users\dinusha.ambagahawita\projects\spider.templates' 'CLEAR|EASE|PREPARE|SPIDER'
 ```
 ## HTML Wrapping Standard
 
@@ -100,6 +102,26 @@ Example:
 ![Image](https://static.javatpoint.com/images/javascript/javascript_logo.png)
 ![Image](https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png)
 ![Image](https://miro.medium.com/max/600/1*AJTB4eViV7eQeOC9uUGABw.png)
+
+## FAQs
+---
+(Q) Unable to run the run scraper command in the readme?
+
+(A) Check the NodeJS version whether it has the latest or given in the readme
+
+---
+(Q) VS code basic debug points are not working?
+
+(A) Enable the VS Code auto to attach the debugger
+Press: `CTRL+SHIFT+P` => select `Debug: Toggle Auto Attach` => select `Always`
+
+---
+(Q) Puppeteer browser debug points are not working?
+
+(A) Enable the dev tools parameter in the code
+`devtools: true`
+
+---
 
 ## References
 [Public Tutorial Reference](https://www.digitalocean.com/community/tutorials/how-to-scrape-a-website-using-node-js-and-puppeteer)
