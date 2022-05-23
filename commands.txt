@@ -18,3 +18,4 @@ npm run scraper -- --sp='AU--ASICA--REG--RG-83' --url='https://asic.gov.au/regul
 npm run scraper -- --sp='MO--MG--REG--LAW-NO-1' --url='https://www.legimonaco.mc/305/legismclois.nsf/db3b0488a44ebcf9c12574c7002a8e84/052f1a7a7a60326ac125773f003d77d4!OpenDocument' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='MO--SDEDCSLCFS--REG--LAW-NO-0' --url='https://www.legimonaco.mc/305/legismclois.nsf/ViewTNC/699F368D4F730C36C125773F003D5ABC!OpenDocument' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='CA--CG--REG--INC-TAX-REG-CRC-C-945' --url='https://laws.justice.gc.ca/eng/regulations/c.r.c.,_c._945/FullText.html' --path='C:\Users\Raveendran Pirarthan\Downloads'
+npm run scraper -- --sp='UN--UG--REG--THE-490' --url='https://www.legislation.gov.uk/uksi/2019/663' --path='C:\Users\Raveendran Pirarthan\Downloads'
