@@ -55,7 +55,11 @@ async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelector
                     // level test
                     const levels = document.querySelectorAll(".level1,.level2,.level3,.level4,.level5,.level6,.level7,.level8,.level9,.level10");
                     var levelNumbers = [];
+                    var levelTextIssue = false;
                     for (const level of levels) {
+                        if (level.textContent.trim() == "") {
+                            levelTextIssue = true;
+                        }
                         levelNumbers.push(Number(level.className.replaceAll("level", "")));
                     }
                     var previousLevelNumber = 0;
@@ -66,6 +70,12 @@ async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelector
                             break;
                         }
                         previousLevelNumber = levelNumber;
+                    }
+                    console.log(line);
+                    if (levelTextIssue) {
+                        throw "[TEST]:level text - failed!!! please check the build HTML level(s) contains empty text.";
+                    } else {
+                        console.log("[TEST]:level text - success!");
                     }
                     console.log(line);
                     if (levelOrderIssue) {
