@@ -94,7 +94,7 @@ async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelector
 
                 {
                     // anchor test
-                    const anchors = document.querySelectorAll("a");
+                    const anchors = document.querySelectorAll("a[href]");
                     var anchorPathIssue = false;
                     for (const anchor of anchors) {
                         if (!anchor.href.toLocaleUpperCase().startsWith("HTTP")) {
