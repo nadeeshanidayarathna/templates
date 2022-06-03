@@ -1,7 +1,6 @@
 const fs = require("fs");
 const sha1 = require("js-sha1");
 const line = '-'.repeat(process.stdout.columns);
-var count = 0;
 
 async function write(path, tags) {
     fs.unlink(path, (err => { }));
@@ -63,16 +62,16 @@ async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelector
 
                     console.log(line);
                     if (document.querySelectorAll(".root")[0].querySelectorAll(".level1").length != 1) {
-                        throw "[TEST]:root level test1 - failed!!! please check the build HTML root -> level1 div exists.";
+                        throw "[TEST]:root level test - failed!!! please check the build HTML root -> level1 div exists.";
                     } else {
-                        console.log("[TEST]:root level test1 - success!");
+                        console.log("[TEST]:root level test - success!");
                     }
 
                     console.log(line);
                     if (document.querySelectorAll(".root")[0].querySelectorAll(".level2,.level3,.level4,.level5,.level6,.level7,.level8,.level9,.level10").length != 0) {
-                        throw "[TEST]:root level test2 - failed!!! please check the build HTML root -> level 2-9 div exists which is wrong.";
+                        throw "[TEST]:root level test - failed!!! please check the build HTML root -> level 2-9 div exists which is wrong.";
                     } else {
-                        console.log("[TEST]:root level test2 - success!");
+                        console.log("[TEST]:root level test - success!");
                     }
 
                     console.log(line);
