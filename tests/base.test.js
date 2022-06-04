@@ -28,28 +28,6 @@ async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelector
         await page.waitForSelector(rootScope);
         page.on("console", (msg) => console.log(msg.text()));
         var tags = await page.evaluate(function process(rootScope, removeSelectors, line, runBuildHtmlOnlyTest) {
-            var tags = [];
-            function ToText(tags, node) {
-                const childNodes = node.childNodes;
-                for (childNode of childNodes) {
-                    ToText(tags, childNode);
-                }
-                if (node.nodeType == Node.TEXT_NODE && node.textContent.trim() != "") {
-                    const words = node.textContent.trim().split(" ");
-                    for (word of words) {
-                        if (word != "") {
-                            tags.push(word + "\n");
-                        }
-                    }
-                }
-            }
-            for (removeSelector of removeSelectors) {
-                Array.prototype.forEach.call(document.querySelectorAll(removeSelector), function (node) { node.remove(); });
-            }
-            for (node of document.querySelectorAll(rootScope)) {
-                ToText(tags, node);
-            }
-
             if (runBuildHtmlOnlyTest) {
                 {
                     // root+content test
@@ -61,6 +39,7 @@ async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelector
                     }
 
                     console.log(line);
+                    debugger;
                     if (document.querySelectorAll(".root")[0].querySelectorAll(".level1").length != 1) {
                         throw "[TEST]:root level test - failed!!! please check the build HTML root -> level1 div exists.";
                     } else {
@@ -154,6 +133,28 @@ async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelector
                         console.log("[TEST]:anchor path test - success!");
                     }
                 }
+            }
+
+            var tags = [];
+            function ToText(tags, node) {
+                const childNodes = node.childNodes;
+                for (childNode of childNodes) {
+                    ToText(tags, childNode);
+                }
+                if (node.nodeType == Node.TEXT_NODE && node.textContent.trim() != "") {
+                    const words = node.textContent.trim().split(" ");
+                    for (word of words) {
+                        if (word != "") {
+                            tags.push(word + "\n");
+                        }
+                    }
+                }
+            }
+            for (removeSelector of removeSelectors) {
+                Array.prototype.forEach.call(document.querySelectorAll(removeSelector), function (node) { node.remove(); });
+            }
+            for (node of document.querySelectorAll(rootScope)) {
+                ToText(tags, node);
             }
 
             return Promise.resolve(tags);
