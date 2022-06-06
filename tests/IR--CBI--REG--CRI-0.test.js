@@ -167,7 +167,7 @@ async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelector
             return Promise.resolve(tags);
         }, rootScope, removeSelectors, line, runBuildHtmlOnlyTest);
 
-        const content = tags.join("").trim().replace(/\n/g, "").replace(/ /g, "");
+        const content = tags.join("").trim().replaceAll("\n", "").replaceAll(" ", "");
         const hash = sha1(content);
         tags.push(hash);
         await test.write(textPath, tags);
