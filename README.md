@@ -34,12 +34,18 @@ npm run scraper -- --sp='CA--STATCAN--REG--ADMIN-DATA' --url='https://www.statca
 
 Tests Cases: It's mandatory to pass `ALL` these tests for each template which will ensure valid root scopes are used for tests, valid level order is created, valid image paths exist, valid anchor paths exist, and no content missing between 2 HTMLs.
 ```
-[TEST]:single root - success!
-[TEST]:single root - success!
-[TEST]:level order - success!
-[TEST]:image path - success!
-[TEST]:anchor path - success!
-[TEST]:content hashes - success!
+[TEST]:single root test - success!
+[TEST]:single root test - success!
+[TEST]:root exists test - success!
+[TEST]:root level test - success!
+[TEST]:root level test - success!
+[TEST]:content exists test - success!
+[TEST]:content level test - success!
+[TEST]:level text test - success!
+[TEST]:level order test - success!
+[TEST]:image path test - success!
+[TEST]:anchor path test - success!
+[TEST]:content hashes test - success!
 ```
 
 Download Folder:
