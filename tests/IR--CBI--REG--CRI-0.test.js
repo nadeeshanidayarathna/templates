@@ -28,7 +28,6 @@ async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelector
                     if (element.outerText != undefined) {
                         if (element.className == 'actnumber' || element.outerText.startsWith('CRIMINAL JUSTICE') || element.outerText.startsWith('REVISED') || element.outerText.startsWith('Updated to')) {
                             element.remove();
-                            console.log('success')
                         }
                     }
                 }
