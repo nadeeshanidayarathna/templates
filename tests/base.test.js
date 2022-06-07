@@ -13,7 +13,7 @@ async function write(path, tags) {
     fileWriter.end();
 }
 
-async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelectors, runBuildHtmlOnlyTest) {
+async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelectors, runBuildHtmlOnlyTest, ignoreTests) {
     {
         console.log(line);
         if (rootScope.includes(",")) {
@@ -27,44 +27,53 @@ async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelector
         await page.setContent(contentHtml, { waitUntil: "domcontentloaded", timeout: 0 });
         await page.waitForSelector(rootScope);
         page.on("console", (msg) => console.log(msg.text()));
-        var tags = await page.evaluate(function process(rootScope, removeSelectors, line, runBuildHtmlOnlyTest) {
+        var tags = await page.evaluate(function process(rootScope, removeSelectors, line, runBuildHtmlOnlyTest, ignoreTests) {
             if (runBuildHtmlOnlyTest) {
                 {
                     // root+content test
-                    console.log(line);
-                    if (document.querySelectorAll(".root").length != 1) {
-                        throw "[TEST]:root exists test - failed!!! please check the build HTML root div exists.";
-                    } else {
-                        console.log("[TEST]:root exists test - success!");
+                    if (!ignoreTests.includes("root-exists")) {
+                        console.log(line);
+                        if (document.querySelectorAll(".root").length != 1) {
+                            throw "[TEST]:root exists test - failed!!! please check the build HTML root div exists.";
+                        } else {
+                            console.log("[TEST]:root exists test - success!");
+                        }
                     }
 
-                    console.log(line);
-                    debugger;
-                    if (document.querySelectorAll(".root")[0].querySelectorAll(".level1").length != 1) {
-                        throw "[TEST]:root level test - failed!!! please check the build HTML root -> level1 div exists.";
-                    } else {
-                        console.log("[TEST]:root level test - success!");
+                    if (!ignoreTests.includes("root-level1")) {
+                        console.log(line);
+                        if (document.querySelectorAll(".root")[0].querySelectorAll(".level1").length != 1) {
+                            throw "[TEST]:root level test - failed!!! please check the build HTML root -> level1 div exists.";
+                        } else {
+                            console.log("[TEST]:root level test - success!");
+                        }
                     }
 
-                    console.log(line);
-                    if (document.querySelectorAll(".root")[0].querySelectorAll(".level2,.level3,.level4,.level5,.level6,.level7,.level8,.level9,.level10").length != 0) {
-                        throw "[TEST]:root level test - failed!!! please check the build HTML root -> level 2-9 div exists which is wrong.";
-                    } else {
-                        console.log("[TEST]:root level test - success!");
+                    if (!ignoreTests.includes("root-levels")) {
+                        console.log(line);
+                        if (document.querySelectorAll(".root")[0].querySelectorAll(".level2,.level3,.level4,.level5,.level6,.level7,.level8,.level9,.level10").length != 0) {
+                            throw "[TEST]:root level test - failed!!! please check the build HTML root -> level 2-9 div exists which is wrong.";
+                        } else {
+                            console.log("[TEST]:root level test - success!");
+                        }
                     }
 
-                    console.log(line);
-                    if (document.querySelectorAll(".content").length != 1) {
-                        throw "[TEST]:content exists test - failed!!! please check the build HTML content div exists.";
-                    } else {
-                        console.log("[TEST]:content exists test - success!");
+                    if (!ignoreTests.includes("content-exists")) {
+                        console.log(line);
+                        if (document.querySelectorAll(".content").length != 1) {
+                            throw "[TEST]:content exists test - failed!!! please check the build HTML content div exists.";
+                        } else {
+                            console.log("[TEST]:content exists test - success!");
+                        }
                     }
 
-                    console.log(line);
-                    if (document.querySelectorAll(".content")[0].querySelectorAll(".level1").length != 0) {
-                        throw "[TEST]:content level test - failed!!! please check the build HTML content -> level1 div exists which is wrong.";
-                    } else {
-                        console.log("[TEST]:content level test - success!");
+                    if (!ignoreTests.includes("content-level1")) {
+                        console.log(line);
+                        if (document.querySelectorAll(".content")[0].querySelectorAll(".level1").length != 0) {
+                            throw "[TEST]:content level test - failed!!! please check the build HTML content -> level1 div exists which is wrong.";
+                        } else {
+                            console.log("[TEST]:content level test - success!");
+                        }
                     }
 
                     // level test
@@ -86,51 +95,63 @@ async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelector
                         }
                         previousLevelNumber = levelNumber;
                     }
-                    console.log(line);
-                    if (levelTextIssue) {
-                        throw "[TEST]:level text test - failed!!! please check the build HTML level(s) contains empty text.";
-                    } else {
-                        console.log("[TEST]:level text test - success!");
+
+                    if (!ignoreTests.includes("level-text")) {
+                        console.log(line);
+                        if (levelTextIssue) {
+                            throw "[TEST]:level text test - failed!!! please check the build HTML level(s) contains empty text.";
+                        } else {
+                            console.log("[TEST]:level text test - success!");
+                        }
                     }
-                    console.log(line);
-                    if (levelOrderIssue) {
-                        throw "[TEST]:level order test - failed!!! please check the build HTML level order.";
-                    } else {
-                        console.log("[TEST]:level order test - success!");
+
+                    if (!ignoreTests.includes("level-order")) {
+                        console.log(line);
+                        if (levelOrderIssue) {
+                            throw "[TEST]:level order test - failed!!! please check the build HTML level order.";
+                        } else {
+                            console.log("[TEST]:level order test - success!");
+                        }
                     }
                 }
 
                 {
-                    // image test
-                    const images = document.querySelectorAll("img");
-                    var imagePathIssue = false;
-                    for (const image of images) {
-                        if (!image.src.toLocaleUpperCase().startsWith("HTTP")) {
-                            imagePathIssue = true;
+                    if (!ignoreTests.includes("image-path")) {
+                        // image test
+                        const images = document.querySelectorAll("img");
+                        var imagePathIssue = false;
+                        for (const image of images) {
+                            if (!image.src.toLocaleUpperCase().startsWith("HTTP")) {
+                                imagePathIssue = true;
+                            }
                         }
-                    }
-                    console.log(line);
-                    if (imagePathIssue) {
-                        throw "[TEST]:image path test - failed!!! please check the build HTML image src whether its an absolute link.";
-                    } else {
-                        console.log("[TEST]:image path test - success!");
+
+                        console.log(line);
+                        if (imagePathIssue) {
+                            throw "[TEST]:image path test - failed!!! please check the build HTML image src whether its an absolute link.";
+                        } else {
+                            console.log("[TEST]:image path test - success!");
+                        }
                     }
                 }
 
                 {
-                    // anchor test
-                    const anchors = document.querySelectorAll("a[href]");
-                    var anchorPathIssue = false;
-                    for (const anchor of anchors) {
-                        if (!anchor.href.toLocaleUpperCase().startsWith("HTTP")) {
-                            anchorPathIssue = true;
+                    if (!ignoreTests.includes("anchor-path")) {
+                        // anchor test
+                        const anchors = document.querySelectorAll("a[href]");
+                        var anchorPathIssue = false;
+                        for (const anchor of anchors) {
+                            if (!anchor.href.toLocaleUpperCase().startsWith("HTTP")) {
+                                anchorPathIssue = true;
+                            }
                         }
-                    }
-                    console.log(line);
-                    if (anchorPathIssue) {
-                        throw "[TEST]:anchor path test - failed!!! please check the build HTML anchor href whether its an absolute link.";
-                    } else {
-                        console.log("[TEST]:anchor path test - success!");
+
+                        console.log(line);
+                        if (anchorPathIssue) {
+                            throw "[TEST]:anchor path test - failed!!! please check the build HTML anchor href whether its an absolute link.";
+                        } else {
+                            console.log("[TEST]:anchor path test - success!");
+                        }
                     }
                 }
             }
@@ -158,7 +179,7 @@ async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelector
             }
 
             return Promise.resolve(tags);
-        }, rootScope, removeSelectors, line, runBuildHtmlOnlyTest);
+        }, rootScope, removeSelectors, line, runBuildHtmlOnlyTest, ignoreTests);
 
         const content = tags.join("").trim().replaceAll("\n", "").replaceAll(" ", "");
         const hash = sha1(content);
@@ -169,12 +190,12 @@ async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelector
     }
 }
 
-async function runTest(browser, originalHtmlPath, originalTextPath, buildHtmlPath, buildTextPath, originalRootScope, originalRemoveSelectors, buildRootScope, buildRemoveSelectors) {
-    const originalTextHash = await htmlToText(browser, originalHtmlPath, originalTextPath, originalRootScope, originalRemoveSelectors, false);
+async function runTestWithSkips(browser, originalHtmlPath, originalTextPath, buildHtmlPath, buildTextPath, originalRootScope, originalRemoveSelectors, buildRootScope, buildRemoveSelectors, ignoreTests) {
+    const originalTextHash = await htmlToText(browser, originalHtmlPath, originalTextPath, originalRootScope, originalRemoveSelectors, false, ignoreTests);
 
     // ignoring root level optional attributes from test comparision
     buildRemoveSelectors.push(".issue-date", ".effective-date");
-    const buildTextHash = await htmlToText(browser, buildHtmlPath, buildTextPath, buildRootScope, buildRemoveSelectors, true);
+    const buildTextHash = await htmlToText(browser, buildHtmlPath, buildTextPath, buildRootScope, buildRemoveSelectors, true, ignoreTests);
 
     console.log(line);
     if (originalTextHash != buildTextHash) {
@@ -185,6 +206,11 @@ async function runTest(browser, originalHtmlPath, originalTextPath, buildHtmlPat
     console.log(line);
 }
 
+async function runTest(browser, originalHtmlPath, originalTextPath, buildHtmlPath, buildTextPath, originalRootScope, originalRemoveSelectors, buildRootScope, buildRemoveSelectors) {
+    await runTestWithSkips(browser, originalHtmlPath, originalTextPath, buildHtmlPath, buildTextPath, originalRootScope, originalRemoveSelectors, buildRootScope, buildRemoveSelectors, []);
+}
+
 exports.write = write;
 exports.htmlToText = htmlToText;
 exports.runTest = runTest;
+exports.runTestWithSkips = runTestWithSkips;
