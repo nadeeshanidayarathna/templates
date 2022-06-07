@@ -81,9 +81,9 @@ bash run.sh 'CA--STATCAN--REG--ADMIN-DATA' 'https://www.statcan.gc.ca/eng/about/
 ## HTML Wrapping Standard
 
 ### Top Level
-- Main Root information => `<div class='root'></div>`
+- Main Root information => `<div class='ease-root'></div>`
 
-- Main Content information => `<div class='content'></div>`
+- Main Content information => `<div class='ease-content'></div>`
 
 ### Sub Level
 - Root title => `<div class='level1'></div>`
