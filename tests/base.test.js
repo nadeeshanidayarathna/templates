@@ -39,7 +39,6 @@ async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelector
                     }
 
                     console.log(line);
-                    debugger;
                     if (document.querySelectorAll(".ease-root")[0].querySelectorAll(".level1").length != 1) {
                         throw "[TEST]:root level test - failed!!! please check the build HTML root -> level1 div exists.";
                     } else {
