@@ -23,3 +23,4 @@ npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/l
 npm run scraper -- --sp='KE--TN--REG--CAP-MAR-DER-REG-2015' --url='http://kenyalaw.org:8181/exist/kenyalex/sublegview.xql?subleg=No.%2017%20of%201989#KE/LEG/EN/AR/C/CHAPTER%20485A/SUBLEG/HC_372016' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='IR--CBI--REG--CRI-0' --url='https://revisedacts.lawreform.ie/eli/2010/act/6/revised/en/html' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='UK--UG--REG--COM-DEL-REG-EU-2019815' --url='https://www.handbook.fca.org.uk/techstandards/TD/2019/reg_del_2019_815_oj/?view=chapter' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UK--UG--REG--COM-IMP-REG-EU-20162070' --url='https://www.handbook.fca.org.uk/techstandards/CRD/2016/reg_impl_2016_2070_oj/?view=chapter' --path='C:\Users\Raveendran Pirarthan\Downloads'

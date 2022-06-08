@@ -32,36 +32,35 @@ async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelector
                 {
                     // root+content test
                     console.log(line);
-                    if (document.querySelectorAll(".root").length != 1) {
+                    if (document.querySelectorAll(".ease-root").length != 1) {
                         throw "[TEST]:root exists test - failed!!! please check the build HTML root div exists.";
                     } else {
                         console.log("[TEST]:root exists test - success!");
                     }
 
                     console.log(line);
-                    debugger;
-                    if (document.querySelectorAll(".root")[0].querySelectorAll(".level1").length != 1) {
+                    if (document.querySelectorAll(".ease-root")[0].querySelectorAll(".level1").length != 1) {
                         throw "[TEST]:root level test - failed!!! please check the build HTML root -> level1 div exists.";
                     } else {
                         console.log("[TEST]:root level test - success!");
                     }
 
                     console.log(line);
-                    if (document.querySelectorAll(".root")[0].querySelectorAll(".level2,.level3,.level4,.level5,.level6,.level7,.level8,.level9,.level10").length != 0) {
+                    if (document.querySelectorAll(".ease-root")[0].querySelectorAll(".level2,.level3,.level4,.level5,.level6,.level7,.level8,.level9,.level10").length != 0) {
                         throw "[TEST]:root level test - failed!!! please check the build HTML root -> level 2-9 div exists which is wrong.";
                     } else {
                         console.log("[TEST]:root level test - success!");
                     }
 
                     console.log(line);
-                    if (document.querySelectorAll(".content").length != 1) {
+                    if (document.querySelectorAll(".ease-content").length != 1) {
                         throw "[TEST]:content exists test - failed!!! please check the build HTML content div exists.";
                     } else {
                         console.log("[TEST]:content exists test - success!");
                     }
 
                     console.log(line);
-                    if (document.querySelectorAll(".content")[0].querySelectorAll(".level1").length != 0) {
+                    if (document.querySelectorAll(".ease-content")[0].querySelectorAll(".level1").length != 0) {
                         throw "[TEST]:content level test - failed!!! please check the build HTML content -> level1 div exists which is wrong.";
                     } else {
                         console.log("[TEST]:content level test - success!");
