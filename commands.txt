@@ -25,3 +25,4 @@ npm run scraper -- --sp='IR--CBI--REG--CRI-0' --url='https://revisedacts.lawrefo
 npm run scraper -- --sp='UK--UG--REG--COM-DEL-REG-EU-2019815' --url='https://www.handbook.fca.org.uk/techstandards/TD/2019/reg_del_2019_815_oj/?view=chapter' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UK--UG--REG--COM-IMP-REG-EU-20162070' --url='https://www.handbook.fca.org.uk/techstandards/CRD/2016/reg_impl_2016_2070_oj/?view=chapter' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='CR--CR--REG--COM-COD' --url='http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=6239' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UN--UG--REG--THE-CRIMINAL-JUSTICE-AND-DATA-PROTECTION-PROTOCOL-NO' --url='https://www.legislation.gov.uk/uksi/2014/3141/contents' --path='C:\Users\Raveendran Pirarthan\Downloads'
