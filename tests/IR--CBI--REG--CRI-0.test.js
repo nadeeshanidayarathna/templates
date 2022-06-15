@@ -18,19 +18,35 @@ async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelector
         await page.waitForSelector(rootScope);
         page.on("console", (msg) => console.log(msg.text()));
         var tags = await page.evaluate(function process(rootScope, removeSelectors, line, runBuildHtmlOnlyTest) {
+
+            const elementNarratives = document.querySelectorAll('.narrative');
+            for (const elementNarrative of elementNarratives) {
+                for (const elements of elementNarrative.childNodes) {
+                    if (elements.nodeType != 3) {
+                        if (elements.tagName == 'P' && (elements.outerText.startsWith('REVISED') || elements.outerText.startsWith('CRIMINAL') || elements.outerText.startsWith('Updated') || elements.outerText.startsWith('Number'))) {
+                            elements.remove();
+                        } else if (elements.tagName == 'P' && elements.childNodes[1] != undefined) {
+                            if (elements.childNodes[1].tagName == 'IMG') {
+                                elements.remove();
+                            }
+                        } else if (elements.tagName == 'DIV' && elements.outerText == "") {
+                            elements.remove();
+                        } 
+                    }
+                }
+            }
+            
             let scrape = false;
             const elements = document.querySelectorAll('.frontmatter');
             for (const element of elements[0].childNodes) {
                 if (element.className == 'actsreferredto') {
                     scrape = true;
                 }
-                if (scrape == false) {
                     if (element.outerText != undefined) {
-                        if (element.className == 'actnumber' || element.outerText.startsWith('CRIMINAL JUSTICE') || element.outerText.startsWith('REVISED') || element.outerText.startsWith('Updated to')) {
+                        if (element.className == 'actnumber' || element.outerText.startsWith('CRIMINAL JUSTICE') || element.outerText.startsWith('REVISED') || element.outerText.startsWith('Updated to') || element.outerText == "") {
                             element.remove();
                         }
-                    }
-                }
+                    }      
             }
 
             if (runBuildHtmlOnlyTest) {
