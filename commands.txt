@@ -1,5 +1,9 @@
+# test books
 npm run scraper -- --sp='CA--STATCAN--REG--ADMIN-DATA' --url='https://www.statcan.gc.ca/eng/about/policy/admin_data' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='CA--CG--REG--CRIMINAL-CODE-R' --url='https://laws-lois.justice.gc.ca/eng/acts/C-46/FullText.html' --path='C:\Users\dinusha.ambagahawita\Downloads'
+npm run scraper -- --sp='TEST-SP-MULTIPAGE' --url='https://govt.westlaw.com/mdc/Browse/Home/Maryland/MarylandCodeCourtRules?guid=N34273650A5AA11DB9BCF9DAC28345A2A&originationContext=documenttoc&transitionType=Default&contextData=(sc.Default)' --path='C:\Users\dinusha.ambagahawita\Downloads'
+
+# prod books
 npm run scraper -- --sp='NE--NG--REG--LAW' --url='https://wetten.overheid.nl/BWBR0002063/2022-01-01' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='NE--NG--REG--CIV' --url='https://wetten.overheid.nl/BWBR0003045/2022-01-01' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='NE--NG--REG--INC' --url='https://wetten.overheid.nl/BWBR0002672/2022-01-01' --path='C:\Users\dinusha.ambagahawita\Downloads'
@@ -25,3 +29,4 @@ npm run scraper -- --sp='IR--CBI--REG--CRI-0' --url='https://revisedacts.lawrefo
 npm run scraper -- --sp='UK--UG--REG--COM-DEL-REG-EU-2019815' --url='https://www.handbook.fca.org.uk/techstandards/TD/2019/reg_del_2019_815_oj/?view=chapter' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UK--UG--REG--COM-IMP-REG-EU-20162070' --url='https://www.handbook.fca.org.uk/techstandards/CRD/2016/reg_impl_2016_2070_oj/?view=chapter' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='CR--CR--REG--COM-COD' --url='http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=6239' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UN--UG--REG--THE-CRIMINAL-JUSTICE-AND-DATA-PROTECTION-PROTOCOL-NO' --url='https://www.legislation.gov.uk/uksi/2014/3141' --path='C:\Users\Raveendran Pirarthan\Downloads'
