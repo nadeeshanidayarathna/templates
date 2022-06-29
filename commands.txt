@@ -2,6 +2,7 @@
 npm run scraper -- --sp='CA--STATCAN--REG--ADMIN-DATA' --url='https://www.statcan.gc.ca/eng/about/policy/admin_data' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='CA--CG--REG--CRIMINAL-CODE-R' --url='https://laws-lois.justice.gc.ca/eng/acts/C-46/FullText.html' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='TEST-SP-MULTIPAGE' --url='https://govt.westlaw.com/mdc/Browse/Home/Maryland/MarylandCodeCourtRules?guid=N34273650A5AA11DB9BCF9DAC28345A2A&originationContext=documenttoc&transitionType=Default&contextData=(sc.Default)' --path='C:\Users\dinusha.ambagahawita\Downloads'
+npm run scraper -- --sp='TEST-DOM-RELOCATION' --url='https://cmteststore.blob.core.windows.net/pdf/dom-relocation.html?sv=2020-10-02&st=2022-06-27T11%3A26%3A39Z&se=2022-07-01T11%3A26%3A00Z&sr=b&sp=r&sig=gM3Jr%2FVl8IhS2dPg%2BZcRj0qsTB6YffhKrN3Mu8fQj3s%3D' --path='C:\Users\dinusha.ambagahawita\Downloads'
 
 # prod books
 
