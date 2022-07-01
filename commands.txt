@@ -34,6 +34,7 @@ npm run scraper -- --sp='JE--JG--REG--TAX-0' --url='https://www.jerseylaw.je/law
 npm run scraper -- --sp='UN--UG--REG--THE-CRIMINAL-JUSTICE-AND-DATA-PROTECTION-PROTOCOL-NO' --url='https://www.legislation.gov.uk/uksi/2014/3141' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='UK--UG--REG--COM-IMP-REG-EU-20162070' --url='https://www.handbook.fca.org.uk/techstandards/CRD/2016/reg_impl_2016_2070_oj/?view=chapter' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='AR--CB--REG--THE-CEN-BAN-ARM-BOA' --url='https://www.arlis.am/DocumentView.aspx?docid=63233' --path='C:\Users\Raveendran Pirarthan\Downloads'
+npm run scraper -- --sp='CO--CRG--REG--LAW-3' --url='http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=53738' --path='C:\Users\Raveendran Pirarthan\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
