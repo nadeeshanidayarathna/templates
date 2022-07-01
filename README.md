@@ -96,6 +96,9 @@ bash run.sh 'CA--STATCAN--REG--ADMIN-DATA' 'https://www.statcan.gc.ca/eng/about/
 
 - Content Footnotes => `<div class='footnote'></div>`
 
+### Level Alias (optional:to be deprecated)
+- Additional level title aliases if required =>  `<div class='level-alias1'></div>`, `<div class='level-alias2'></div>`, `<div class='level-alias3'></div>`, `<div class='level-alias4'></div>`, `<div class='level-alias5'></div>`, `<div class='level-alias6'></div>`, `<div class='level-alias7'></div>`, `<div class='level-alias8'></div>`, `<div class='level-alias9'></div>`
+
 ---
 Style Guide:
 ![Screenshot](colors.png)
