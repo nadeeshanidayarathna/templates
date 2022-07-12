@@ -43,3 +43,4 @@ npm run scraper -- --sp='AR--AG--REG--LAW-REP-ARM-AME-FIG' --url='http://parliam
 npm run scraper -- --sp='CR--CR--REG--COM-COD' --url='http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=6239' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='JO--GJ--REG--TRADE-LAW-NO' --url='http://www.lob.jo/?v=1.14&url=ar/LegislationDetails?LegislationID:1028,LegislationType:2,isMod:false' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IR--IG--REG--BRO-LAW-1987' --url='https://iraqld.hjc.iq/LoadLawBook.aspx?page=1&SC=&BookID=14878' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='SA--GS--REG--LAW-TRA-MAR' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/3ec4414f-2ec5-48b1-bcb4-a9a700f1aa2b/1#!' --path='C:\Users\prabodha.lahiru\Downloads'
