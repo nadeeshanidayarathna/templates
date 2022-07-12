@@ -1,8 +1,10 @@
 # test books
-npm run scraper -- --sp='CA--STATCAN--REG--ADMIN-DATA' --url='https://www.statcan.gc.ca/eng/about/policy/admin_data' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='CA--CG--REG--CRIMINAL-CODE-R' --url='https://laws-lois.justice.gc.ca/eng/acts/C-46/FullText.html' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='TEST-SP-MULTIPAGE' --url='https://govt.westlaw.com/mdc/Browse/Home/Maryland/MarylandCodeCourtRules?guid=N34273650A5AA11DB9BCF9DAC28345A2A&originationContext=documenttoc&transitionType=Default&contextData=(sc.Default)' --path='C:\Users\dinusha.ambagahawita\Downloads'
-npm run scraper -- --sp='TEST-DOM-RELOCATION' --url='https://cmteststore.blob.core.windows.net/pdf/dom-relocation.html?sv=2020-10-02&st=2022-07-04T07%3A18%3A48Z&se=2022-08-05T07%3A18%3A00Z&sr=b&sp=r&sig=liz%2Bo3yc3gudMUYOhCj31wzLvcvV5673n9izQEGhPXY%3D' --path='C:\Users\dinusha.ambagahawita\Downloads'
+npm run scraper -- --sp='TEST-DOM-RELOCATION' --url='https://cmteststore.blob.core.windows.net/pdf/dom-relocation.html?sv=2020-10-02&st=2022-07-12T04%3A16%3A02Z&se=2023-07-13T04%3A16%3A00Z&sr=b&sp=r&sig=YSPvpImdfcRaj9sYo49piFgFGH%2Fg4sHu3yyALsMlMWk%3D' --path='C:\Users\dinusha.ambagahawita\Downloads'
+npm run scraper -- --sp='TEST-DOM-CLEANUP' --url='https://cmteststore.blob.core.windows.net/pdf/dom-cleanup.html?sv=2020-10-02&st=2022-07-12T04%3A16%3A59Z&se=2023-07-13T04%3A16%3A00Z&sr=b&sp=r&sig=qx2nUjy59P86YZ3Ng89U6gzdd7CO4qvENCW5lb8tpkg%3D' --path='C:\Users\dinusha.ambagahawita\Downloads'
+npm run scraper -- --sp='CA--STATCAN--REG--ADMIN-DATA_v1' --url='https://www.statcan.gc.ca/eng/about/policy/admin_data' --path='C:\Users\dinusha.ambagahawita\Downloads'
+npm run scraper -- --sp='CA--STATCAN--REG--ADMIN-DATA_v2' --url='https://www.statcan.gc.ca/eng/about/policy/admin_data' --path='C:\Users\dinusha.ambagahawita\Downloads'
 
 # prod books
 
