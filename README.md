@@ -5,22 +5,36 @@
 ## Installation
 - Step1: Install the `NodeJS`(version 16.+ or latest)
 - Step2: Install the VSCode (latest version)
-- Step3: All the required node modules have been installed in the project. Use the below command to import node packages
+- Step3: Required node modules have been installed in the project. Use the below command to import node packages
 
 ```
 npm install
 ```
 ## Features
+### V1 (additions)
 - Run the `JS` scrapers to perform rule base HTML simplification to match the universal `C#` template
 - Run the `JS` simplification both offline and online modes with local cache
-- Browser level debugging ability to put the breakpoints on actual eval functions
+- Browser-level debugging ability to put the breakpoints on actual eval functions
 - Tryout the code in the browser developer console before creating the `JS` template
 - Run the full pipeline if required at the end (`JS Conversion` + `Universal Template Caller` + `Spidering Output`)
 - JS templates are located in the `lib` folder with the SP code standard. Example: `.\lib\_CA--STATCAN--REG--ADMIN-DATA.js`
+
+### V2 (additions)
+- Automatic DOM relocation
+- Automatic removal of hidden content
+- Automatic arrangement of transform/non-heading parts
+- Removing the requirement of correcting the image links and anchor links as those will be the same as the original because we are not recreating the HTML
+- No need to build the transform/non-heading parts. You just have to wrap the main content area & headings/levels in the original HTML
+- No need to create content comparison tests as we are not recreating the HTML but instead modifying the original
+- If no `JS` template is found for SP code, then it will by default call the `DOM-RELOCATOR.js`. Expecting the incoming HTML is already wrapped outside to the spider ease project. One user is the chrome plugin input
+
+## Version History
+- `V1`: initial version (deprecated), it's about recreating the HTML to match the ease standard
+- `V2`: Supported from `2022-JUL-15` onwards, it's about relocating the original HTML to match the ease standard
  
 ## Usage
 
-### 1. To run the scraper service for the single page books
+### 1. To run the scraper service for the single-page books
 
 Command:
 ```
@@ -32,7 +46,7 @@ Example:
 npm run scraper -- --sp='CA--STATCAN--REG--ADMIN-DATA' --url='https://www.statcan.gc.ca/eng/about/policy/admin_data' --path='C:\Users\dinusha.ambagahawita\Downloads'
 ```
 
-Tests Cases: It's mandatory to pass `ALL` these tests for each template which will ensure valid root scopes are used for tests, valid level order is created, valid image paths exist, valid anchor paths exist, and no content missing between 2 HTMLs.
+Tests Cases: It's mandatory to pass `ALL` these tests for each template which will ensure valid root scopes are used for tests, valid level order is created, valid image paths exist, valid anchor paths exist, and no content is missing between 2 HTML files.
 ```
 [TEST]:single root test - success!
 [TEST]:single root test - success!
@@ -45,7 +59,12 @@ Tests Cases: It's mandatory to pass `ALL` these tests for each template which wi
 [TEST]:level order test - success!
 [TEST]:image path test - success!
 [TEST]:anchor path test - success!
-[TEST]:content hashes test - success!
+
+[LEVEL SUMMARY] ease-root count:1
+[LEVEL SUMMARY] ease-content count:1
+[LEVEL SUMMARY] issue-date count:1
+[LEVEL SUMMARY] level1 count:1
+[LEVEL SUMMARY] level2 count:12
 ```
 
 Download Folder:
