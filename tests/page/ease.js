@@ -73,35 +73,41 @@ function executeTests(line) {
         // image test
         const images = document.querySelectorAll("img");
         var imagePathIssue = false;
+        var imageIssueCount = 0;
         for (const image of images) {
-            if (!image.src.toLocaleUpperCase().startsWith("HTTP")) {
+            if (!(image.src.toUpperCase().startsWith("HTTP") || image.src.toUpperCase().startsWith("DATA:IMAGE"))) {
+                console.log("image src issue found src:" + image.src.substring(0, 100) + " html:" + image.outerHTML.substring(0, 100));
                 imagePathIssue = true;
+                imageIssueCount++;
             }
         }
         console.log(line);
         if (imagePathIssue) {
-            throw "[TEST]:image path test - failed!!! please check the build HTML image src whether its an absolute link.";
+            throw "[TEST]:image path test - failed!!! for " + imageIssueCount + " image(s). please check the build HTML image src whether its an absolute link or base64.";
         } else {
             console.log("[TEST]:image path test - success!");
         }
     }
 
-    {
-        // anchor test
-        const anchors = document.querySelectorAll("a[href]");
-        var anchorPathIssue = false;
-        for (const anchor of anchors) {
-            if (!anchor.href.toLocaleUpperCase().startsWith("HTTP")) {
-                anchorPathIssue = true;
-            }
-        }
-        console.log(line);
-        if (anchorPathIssue) {
-            throw "[TEST]:anchor path test - failed!!! please check the build HTML anchor href whether its an absolute link.";
-        } else {
-            console.log("[TEST]:anchor path test - success!");
-        }
-    }
+    // {
+    //     // anchor test
+    //     const anchors = document.querySelectorAll("a[href]");
+    //     var anchorPathIssue = false;
+    //     var anchorIssueCount = 0;
+    //     for (const anchor of anchors) {
+    //         if (!anchor.href.toUpperCase().startsWith("HTTP")) {
+    //             console.log("anchor href issue found href:" + anchor.href.substring(0, 100) + " html:" + anchor.outerHTML.substring(0, 100));
+    //             anchorPathIssue = true;
+    //             anchorIssueCount++;
+    //         }
+    //     }
+    //     console.log(line);
+    //     if (anchorPathIssue) {
+    //         throw "[TEST]:anchor path test - failed!!! for " + anchorIssueCount + " anchor(s). please check the build HTML anchor href whether its an absolute link.";
+    //     } else {
+    //         console.log("[TEST]:anchor path test - success!");
+    //     }
+    // }
 
     {
         console.log(line);

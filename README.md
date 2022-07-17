@@ -75,12 +75,15 @@ Download Folder:
 Download Files:
 ```
 .\downloads\CA--STATCAN--REG--ADMIN-DATA\cccf739ae90f8a898e62c13c28b630d9db4bc6d1_original.html
+.\downloads\CA--STATCAN--REG--ADMIN-DATA\cccf739ae90f8a898e62c13c28b630d9db4bc6d1_annotated.html
 .\downloads\CA--STATCAN--REG--ADMIN-DATA\cccf739ae90f8a898e62c13c28b630d9db4bc6d1.html
 ```
 
 - `cccf739ae90f8a898e62c13c28b630d9db4bc6d1_original.html` original HTML file downloaded with URL `SHA-1` filename
 
-- `cccf739ae90f8a898e62c13c28b630d9db4bc6d1.html` recreated HTML file matching with URL `SHA-1` filename
+- `cccf739ae90f8a898e62c13c28b630d9db4bc6d1_annotated.html` annotated HTML file created with URL `SHA-1` filename
+
+- `cccf739ae90f8a898e62c13c28b630d9db4bc6d1.html` relocated/cleaned HTML file matching with URL `SHA-1` filename
 
 ### 2. To run the entire spidering pipeline in local which does the below steps
 - Clear output folder
@@ -93,12 +96,18 @@ Command:
 bash run.sh '<STARTPOINT>' '<URL>' '<OUTPUT_FOLDER>' '<SPIDER_EASE_HOME>' '<SPIDER_TEMPLATE_HOME>' 'COMMANDS'
 ```
 
-Example:
+Example for `HTML`:
 ```
 bash run.sh 'CA--STATCAN--REG--ADMIN-DATA' 'https://www.statcan.gc.ca/eng/about/policy/admin_data' 'C:\Users\dinusha.ambagahawita\Downloads' 'C:\Users\dinusha.ambagahawita\projects\spider.ease' 'C:\Users\dinusha.ambagahawita\projects\spider.templates' 'CLEAR|EASE|PREPARE|SPIDER'
 ```
-## HTML Wrapping Standard
 
+Example for `PDF` aka converted `HTML`: 
+
+```
+bash run.sh 'CA--STATCAN--REG--ADMIN-DATA' 'https://www.statcan.gc.ca/eng/about/policy/admin_data' 'C:\Users\dinusha.ambagahawita\Downloads' 'C:\Users\dinusha.ambagahawita\projects\spider.ease' 'C:\Users\dinusha.ambagahawita\projects\spider.templates' 'EASE|PREPARE|SPIDER'
+```
+Note that here we skipping the `CLEAR` command here as expecting the user to place the converted HTML on the folder in order to work for PDF
+## HTML Wrapping Standard
 ### Top Level
 - Main Root information => `<div class='ease-root'></div>`
 
