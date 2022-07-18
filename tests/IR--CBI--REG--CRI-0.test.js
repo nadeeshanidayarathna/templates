@@ -1,7 +1,7 @@
 const fs = require("fs");
 const sha1 = require("js-sha1");
 const line = '-'.repeat(process.stdout.columns);
-const test = require("../tests/base.test");
+const test = require("../tests/common/base.test");
 
 async function htmlToText(browser, htmlPath, textPath, rootScope, removeSelectors, runBuildHtmlOnlyTest) {
     {

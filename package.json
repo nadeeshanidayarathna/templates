@@ -1,7 +1,7 @@
 {
   "name": "spider-ease",
-  "version": "1.0.0",
-  "description": "",
+  "version": "2.0.0",
+  "description": "HTML standardization tool",
   "bin": {
     "scraper": "./bin/scraper.js"
   },
