@@ -50,3 +50,4 @@ npm run scraper -- --sp='JO--GJ--REG--TRADE-LAW-NO' --url='http://www.lob.jo/?v=
 npm run scraper -- --sp='IR--IG--REG--BRO-LAW-1987' --url='https://iraqld.hjc.iq/LoadLawBook.aspx?page=1&SC=&BookID=14878' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SA--GS--REG--LAW-TRA-MAR' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/3ec4414f-2ec5-48b1-bcb4-a9a700f1aa2b/1#!' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='EG--EG--REG--ISS-EXE-REG-INV-GUA' --url='https://www.cc.gov.eg/legislation_single?id=355659' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='IN--NSEIL--REG--PUB-INV-CHA-BY-STO' --url='file:///C:/Users/prabodha.lahiru/Downloads/IN--NSEIL--REG--PUB-INV-CHA-BY-STO_43726087-95ff-4ccb-9731-7fea7e96fb00.htm' --path='C:\Users\prabodha.lahiru\Downloads'
