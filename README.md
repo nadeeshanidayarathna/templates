@@ -96,12 +96,12 @@ Command:
 bash run.sh '<STARTPOINT>' '<URL>' '<OUTPUT_FOLDER>' '<SPIDER_EASE_HOME>' '<SPIDER_TEMPLATE_HOME>' 'COMMANDS'
 ```
 
-Example for `HTML`:
+Example for `HTML` & `PDF` if the template is created to annotate programmatically:
 ```
 bash run.sh 'CA--STATCAN--REG--ADMIN-DATA' 'https://www.statcan.gc.ca/eng/about/policy/admin_data' 'C:\Users\dinusha.ambagahawita\Downloads' 'C:\Users\dinusha.ambagahawita\projects\spider.ease' 'C:\Users\dinusha.ambagahawita\projects\spider.templates' 'CLEAR|EASE|PREPARE|SPIDER'
 ```
 
-Example for `PDF` aka converted `HTML`: 
+Example for `PDF` if the template is NOT required since it's annotated manually:
 
 ```
 bash run.sh 'CA--STATCAN--REG--ADMIN-DATA' 'https://www.statcan.gc.ca/eng/about/policy/admin_data' 'C:\Users\dinusha.ambagahawita\Downloads' 'C:\Users\dinusha.ambagahawita\projects\spider.ease' 'C:\Users\dinusha.ambagahawita\projects\spider.templates' 'EASE|PREPARE|SPIDER'
