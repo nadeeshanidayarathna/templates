@@ -35,8 +35,7 @@ function executeTests(line) {
         var levelTextIssue = false;
         for (const level of levels) {
             if (level.textContent.trim() == "") {
-                // levelTextIssue = true;
-                level.remove();
+                levelTextIssue = true;
             }
             levelNumbers.push(Number(level.className.replaceAll("level", "")));
         }
