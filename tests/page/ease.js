@@ -48,12 +48,12 @@ function executeTests(line) {
             }
             previousLevelNumber = levelNumber;
         }
-        // console.log(line);
-        // if (levelTextIssue) {
-        //     throw "[TEST]:level text test - failed!!! please check the build HTML level(s) contains empty text.";
-        // } else {
-        //     console.log("[TEST]:level text test - success!");
-        // }
+        console.log(line);
+        if (levelTextIssue) {
+            throw "[TEST]:level text test - failed!!! please check the build HTML level(s) contains empty text.";
+        } else {
+            console.log("[TEST]:level text test - success!");
+        }
         console.log(line);
         if (levelOrderIssue) {
             throw "[TEST]:level order test - failed!!! please check the build HTML level order.";

@@ -96,12 +96,12 @@ Command:
 bash run.sh '<STARTPOINT>' '<URL>' '<OUTPUT_FOLDER>' '<SPIDER_EASE_HOME>' '<SPIDER_TEMPLATE_HOME>' 'COMMANDS'
 ```
 
-Example for `HTML` & `PDF` if the template is created to annotate programmatically:
+Example for `HTML` & `PDF`(aka converted HTML) if URL is hosted public URL:
 ```
 bash run.sh 'CA--STATCAN--REG--ADMIN-DATA' 'https://www.statcan.gc.ca/eng/about/policy/admin_data' 'C:\Users\dinusha.ambagahawita\Downloads' 'C:\Users\dinusha.ambagahawita\projects\spider.ease' 'C:\Users\dinusha.ambagahawita\projects\spider.templates' 'CLEAR|EASE|PREPARE|SPIDER'
 ```
 
-Example for `PDF` if the template is NOT required since it's annotated manually:
+Example for `PDF`(aka converted HTML) & `GATED PDF`(aka converted gated HTML) if the URL is NOT a hosted public URL(expecting DEVs to place the cachefile with `595c3cce2409a55c13076f1bac5edee529fc2e58_original.html` and pass the URL as `https://www.google.com/`):
 
 ```
 bash run.sh 'CA--STATCAN--REG--ADMIN-DATA' 'https://www.statcan.gc.ca/eng/about/policy/admin_data' 'C:\Users\dinusha.ambagahawita\Downloads' 'C:\Users\dinusha.ambagahawita\projects\spider.ease' 'C:\Users\dinusha.ambagahawita\projects\spider.templates' 'EASE|PREPARE|SPIDER'
