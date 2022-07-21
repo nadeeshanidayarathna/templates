@@ -17,6 +17,7 @@ npm run scraper -- --sp='NE--NG--REG--CRI' --url='https://wetten.overheid.nl/BWB
 npm run scraper -- --sp='NE--NG--REG--INC-0' --url='https://wetten.overheid.nl/BWBR0011353/2022-01-01' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='NE--NG--REG--TAX' --url='https://wetten.overheid.nl/BWBR0002629/2022-01-01' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='NE--NG--REG--FIN' --url='https://wetten.overheid.nl/BWBR0020368/2022-01-01' --path='C:\Users\dinusha.ambagahawita\Downloads'
+npm run scraper -- --sp='TA--BARCB--REG--LET-FRO-BAR-ADJ-THR' --url='https://www.google.com/' --path='C:\Users\dinusha.ambagahawita\Downloads'
 
 # Raveendran Pirarthan
 npm run scraper -- --sp='UN--UG--REG--THE-176' --url='https://www.legislation.gov.uk/uksi/2020/1474' --path='C:\Users\Raveendran Pirarthan\Downloads'
@@ -40,7 +41,7 @@ npm run scraper -- --sp='AR--CB--REG--THE-CEN-BAN-ARM-BOA' --url='https://www.ar
 npm run scraper -- --sp='CO--CRG--REG--LAW-3' --url='http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=53738' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='SW--SG--REG--ACT-2' --url='https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1991980-om-handel-med-finansiella_sfs-1991-980' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='SA--GS--REG--INC-TAX-LAW' --url='https://laws.boe.gov.sa/boelaws/laws/lawdetails/23576008-1ce4-4685-ac3e-a9a700f2cb02/1' --path='C:\Users\Raveendran Pirarthan\Downloads'
-npm run scraper -- --sp='TA--BARCB--REG--FSC-LET-REL-FOL-REP' --url='file:///C:/Users/Raveendran%20Pirarthan/Downloads/04b5eaa2f7f64daa90f2239772e24790.html' --path='C:\Users\Raveendran Pirarthan\Downloads'
+npm run scraper -- --sp='IN--BSEIL--REG--PUB-INV-CHA-BY-STO' --url='https://www.bseindia.com/markets/MarketInfo/DispNewNoticesCirculars.aspx?page=20220603-17' --path='C:\Users\Raveendran Pirarthan\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
@@ -51,3 +52,7 @@ npm run scraper -- --sp='JO--GJ--REG--TRADE-LAW-NO' --url='http://www.lob.jo/?v=
 npm run scraper -- --sp='IR--IG--REG--BRO-LAW-1987' --url='https://iraqld.hjc.iq/LoadLawBook.aspx?page=1&SC=&BookID=14878' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SA--GS--REG--LAW-TRA-MAR' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/3ec4414f-2ec5-48b1-bcb4-a9a700f1aa2b/1#!' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='EG--EG--REG--ISS-EXE-REG-INV-GUA' --url='https://www.cc.gov.eg/legislation_single?id=355659' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='IN--NSEIL--REG--PUB-INV-CHA-BY-STO' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
+
+#sithum.ranabahu
+npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
