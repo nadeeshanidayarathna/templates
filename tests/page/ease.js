@@ -29,13 +29,6 @@ function executeTests(line) {
             console.log("[TEST]:content exists test - success!");
         }
 
-        console.log(line);
-        if (document.querySelectorAll(".ease-content")[0].querySelectorAll(".level1").length != 0) {
-            throw "[TEST]:content level test - failed!!! please check the build HTML content -> level1 div exists which is wrong.";
-        } else {
-            console.log("[TEST]:content level test - success!");
-        }
-
         // level test
         const levels = document.querySelectorAll(".level1,.level2,.level3,.level4,.level5,.level6,.level7,.level8,.level9,.level10");
         var levelNumbers = [];
