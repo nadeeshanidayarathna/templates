@@ -56,3 +56,4 @@ npm run scraper -- --sp='IN--NSEIL--REG--PUB-INV-CHA-BY-STO' --url='https://www.
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
+npm run scraper -- --sp='IN--FI--REG--REC-DIS-REV-MEE-RES' --url='https://www.google.com/' --path='C:\Users\sithum.ranabahu\Downloads\'
