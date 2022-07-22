@@ -55,6 +55,7 @@ npm run scraper -- --sp='EG--EG--REG--ISS-EXE-REG-INV-GUA' --url='https://www.cc
 npm run scraper -- --sp='IN--NSEIL--REG--PUB-INV-CHA-BY-STO' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='BR--BNDDEESB--REG--REA-DO-PRO-DE-PED' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='BR--CDVMC--REG--PRO-EXE-FUN-TRU' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='JO--CBJC--REG--GLO-ELE-PAY-SYS-APP' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='CO--CG--REG--ISS-INS-VIE-HEA-EME' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
