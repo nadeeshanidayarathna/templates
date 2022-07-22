@@ -54,6 +54,7 @@ npm run scraper -- --sp='SA--GS--REG--LAW-TRA-MAR' --url='https://laws.boe.gov.s
 npm run scraper -- --sp='EG--EG--REG--ISS-EXE-REG-INV-GUA' --url='https://www.cc.gov.eg/legislation_single?id=355659' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IN--NSEIL--REG--PUB-INV-CHA-BY-STO' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='BR--CDVMC--REG--PRO-EXE-FUN-TRU' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='CO--CG--REG--ISS-INS-VIE-HEA-EME' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
