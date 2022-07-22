@@ -5,7 +5,6 @@ npm run scraper -- --sp='TEST-DOM-RELOCATION' --url='https://cmteststore.blob.co
 npm run scraper -- --sp='TEST-DOM-CLEANUP' --url='https://cmteststore.blob.core.windows.net/pdf/dom-cleanup.html?sv=2020-10-02&st=2022-07-12T04%3A16%3A59Z&se=2023-07-13T04%3A16%3A00Z&sr=b&sp=r&sig=qx2nUjy59P86YZ3Ng89U6gzdd7CO4qvENCW5lb8tpkg%3D' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='CA--STATCAN--REG--ADMIN-DATA_v1' --url='https://www.statcan.gc.ca/eng/about/policy/admin_data' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='CA--STATCAN--REG--ADMIN-DATA_v2' --url='https://www.statcan.gc.ca/eng/about/policy/admin_data' --path='C:\Users\dinusha.ambagahawita\Downloads'
-npm run scraper -- --sp='CA--STATCAN--REG--ADMIN-DATA_v3' --url='https://www.statcan.gc.ca/eng/about/policy/admin_data' --path='C:\Users\dinusha.ambagahawita\Downloads'
 
 # prod books
 
@@ -42,6 +41,7 @@ npm run scraper -- --sp='CO--CRG--REG--LAW-3' --url='http://www.pgrweb.go.cr/sci
 npm run scraper -- --sp='SW--SG--REG--ACT-2' --url='https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1991980-om-handel-med-finansiella_sfs-1991-980' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='SA--GS--REG--INC-TAX-LAW' --url='https://laws.boe.gov.sa/boelaws/laws/lawdetails/23576008-1ce4-4685-ac3e-a9a700f2cb02/1' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='IN--BSEIL--REG--PUB-INV-CHA-BY-STO' --url='https://www.bseindia.com/markets/MarketInfo/DispNewNoticesCirculars.aspx?page=20220603-17' --path='C:\Users\Raveendran Pirarthan\Downloads'
+npm run scraper -- --sp='IN--NSEIL--REG--PLA-ORD-AT-FAI-PRI' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
@@ -55,6 +55,7 @@ npm run scraper -- --sp='EG--EG--REG--ISS-EXE-REG-INV-GUA' --url='https://www.cc
 npm run scraper -- --sp='IN--NSEIL--REG--PUB-INV-CHA-BY-STO' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='BR--BNDDEESB--REG--REA-DO-PRO-DE-PED' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='BR--CDVMC--REG--PRO-EXE-FUN-TRU' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='CO--CG--REG--ISS-INS-VIE-HEA-EME' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
