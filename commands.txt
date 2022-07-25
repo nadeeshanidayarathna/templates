@@ -49,7 +49,6 @@ npm run scraper -- --sp='IN--NSDL--REG--CHA-PAY-TIM-AUC-SET' --url='https://www.
 npm run scraper -- --sp='AU--AG--REG--COP-ACT-1968' --url='https://www.legislation.gov.au/Latest/C2022C00192' --path='C:\Users\Raveendran Pirarthan\Downloads'
 
 # prabodha.lahiru
-npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UK--UG--REG--COM-DEL-REG-EU-2019815' --url='https://www.handbook.fca.org.uk/techstandards/TD/2019/reg_del_2019_815_oj/?view=chapter' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-ARM-AME-FIG' --url='http://parliament.am/legislation.php?sel=show&ID=5038&lang=arm' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='CR--CR--REG--COM-COD' --url='http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=6239' --path='C:\Users\prabodha.lahiru\Downloads'
