@@ -17,6 +17,7 @@ npm run scraper -- --sp='NE--NG--REG--INC-0' --url='https://wetten.overheid.nl/B
 npm run scraper -- --sp='NE--NG--REG--TAX' --url='https://wetten.overheid.nl/BWBR0002629/2022-01-01' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='NE--NG--REG--FIN' --url='https://wetten.overheid.nl/BWBR0020368/2022-01-01' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='TA--BARCB--REG--LET-FRO-BAR-ADJ-THR' --url='https://www.google.com/' --path='C:\Users\dinusha.ambagahawita\Downloads'
+npm run scraper -- --sp='US-IO--IG--REG--IOW-ENV-PRO' --url='https://www.google.com/' --path='C:\Users\dinusha.ambagahawita\Downloads'
 
 # Raveendran Pirarthan
 npm run scraper -- --sp='UN--UG--REG--THE-176' --url='https://www.legislation.gov.uk/uksi/2020/1474' --path='C:\Users\Raveendran Pirarthan\Downloads'
@@ -49,6 +50,8 @@ npm run scraper -- --sp='IN--NSDL--REG--CHA-PAY-TIM-AUC-SET' --url='https://www.
 npm run scraper -- --sp='IN--NSDL--REG--CHA-SUB-PAY' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='AU--AG--REG--COP-ACT-1968' --url='https://www.legislation.gov.au/Latest/C2022C00192' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='IN--NSDL--REG--CHA-SUB-PAY-1' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
+npm run scraper -- --sp='IN--NSDL--REG--LIS-CON-ADD' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
+npm run scraper -- --sp='IN--NSDL--REG--CHA-BSE' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
