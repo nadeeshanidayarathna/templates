@@ -31,34 +31,17 @@ function executeTests(line) {
 
         // level test
         const levels = document.querySelectorAll(".level1,.level2,.level3,.level4,.level5,.level6,.level7,.level8,.level9,.level10");
-        var levelNumbers = [];
         var levelTextIssue = false;
         for (const level of levels) {
             if (level.textContent.trim() == "") {
                 levelTextIssue = true;
             }
-            levelNumbers.push(Number(level.className.replaceAll("level", "")));
-        }
-        var previousLevelNumber = 0;
-        var levelOrderIssue = false;
-        for (const levelNumber of levelNumbers) {
-            if (levelNumber > previousLevelNumber + 1) {
-                levelOrderIssue = true;
-                break;
-            }
-            previousLevelNumber = levelNumber;
         }
         console.log(line);
         if (levelTextIssue) {
             throw "[TEST]:level text test - failed!!! please check the build HTML level(s) contains empty text.";
         } else {
             console.log("[TEST]:level text test - success!");
-        }
-        console.log(line);
-        if (levelOrderIssue) {
-            throw "[TEST]:level order test - failed!!! please check the build HTML level order.";
-        } else {
-            console.log("[TEST]:level order test - success!");
         }
     }
 
@@ -81,26 +64,6 @@ function executeTests(line) {
             console.log("[TEST]:image path test - success!");
         }
     }
-
-    // {
-    //     // anchor test
-    //     const anchors = document.querySelectorAll("a[href]");
-    //     var anchorPathIssue = false;
-    //     var anchorIssueCount = 0;
-    //     for (const anchor of anchors) {
-    //         if (!anchor.href.toUpperCase().startsWith("HTTP")) {
-    //             console.log("anchor href issue found href:" + anchor.href.substring(0, 100) + " html:" + anchor.outerHTML.substring(0, 100));
-    //             anchorPathIssue = true;
-    //             anchorIssueCount++;
-    //         }
-    //     }
-    //     console.log(line);
-    //     if (anchorPathIssue) {
-    //         throw "[TEST]:anchor path test - failed!!! for " + anchorIssueCount + " anchor(s). please check the build HTML anchor href whether its an absolute link.";
-    //     } else {
-    //         console.log("[TEST]:anchor path test - success!");
-    //     }
-    // }
 
     {
         console.log(line);
