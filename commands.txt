@@ -54,6 +54,8 @@ npm run scraper -- --sp='IN--NSDL--REG--LIS-CON-ADD' --url='https://www.google.c
 npm run scraper -- --sp='IN--NSDL--REG--CHA-BSE' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='IN--NSDL--REG--CHA-PAY-0' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='SU--EC--REG--COM-AME' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
+npm run scraper -- --sp='IR--CBI--REG--CEN-ACT' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
+npm run scraper -- --sp='SU--ESMAE--REG--REV-CER' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
@@ -74,7 +76,10 @@ npm run scraper -- --sp='IN--NSDL--REG--CHA-DEA-TIM-REL-PAY' --url='https://www.
 npm run scraper -- --sp='TA--TFE--REG--THE-REL-FUT-COM-SHA' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='GR--MLSA--REG--DEC-32143D111288-RED-TER-ELE' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IN--RB--REG--RIS-BAS-APP-RBA-KYC-1' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='SU--ESMAE--REG--ESM-OPI-ASS-PRE-TRA' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IN--IIBA--REG--LIB-TRA-ADO-NEW-BEN' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='IN--CD--REG--MAN-UPD-CER-ATT-PER' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='PA--SBPS--REG--REP-RSA-VPN-WIT-CIS' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
