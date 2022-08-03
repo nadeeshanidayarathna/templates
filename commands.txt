@@ -54,6 +54,9 @@ npm run scraper -- --sp='IN--NSDL--REG--LIS-CON-ADD' --url='https://www.google.c
 npm run scraper -- --sp='IN--NSDL--REG--CHA-BSE' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='IN--NSDL--REG--CHA-PAY-0' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='SU--EC--REG--COM-AME' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
+npm run scraper -- --sp='IR--CBI--REG--CEN-ACT' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
+npm run scraper -- --sp='SU--ESMAE--REG--REV-CER' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
+npm run scraper -- --sp='MA--MFSAM--REG--FIN-MAR-RUL' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
