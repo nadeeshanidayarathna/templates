@@ -30,7 +30,7 @@ function executeTests(line) {
         }
 
         // level test
-        const levels = document.querySelectorAll(".level1,.level2,.level3,.level4,.level5,.level6,.level7,.level8,.level9,.level10");
+        const levels = document.querySelectorAll(".level1,.level2,.level3,.level4,.level5,.level6,.level7,.level8,.level9,.level10,.footnote,.issue-date,.effective-date");
         var levelTextIssue = false;
         for (const level of levels) {
             if (level.textContent.trim() == "") {
@@ -114,6 +114,5 @@ function executeTests(line) {
         if (footnoteCount > 0) {
             console.log("[LEVEL SUMMARY] footnote count:" + footnoteCount);
         }
-        console.log(line);
     }
 }
