@@ -81,6 +81,8 @@ npm run scraper -- --sp='SU--ESMAE--REG--ESM-OPI-ASS-PRE-TRA' --url='https://www
 npm run scraper -- --sp='IN--IIBA--REG--LIB-TRA-ADO-NEW-BEN' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IN--CD--REG--MAN-UPD-CER-ATT-PER' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='PA--SBPS--REG--REP-RSA-VPN-WIT-CIS' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='IR--IG--REG--EMP-EQU-PAY-TRA-BIL-2022' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='PA--SBPS--REG--FIN-ACC-SUR-FAS' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
