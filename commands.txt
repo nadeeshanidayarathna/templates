@@ -78,6 +78,7 @@ npm run scraper -- --sp='TA--TFE--REG--THE-REL-FUT-COM-SHA' --url='https://www.g
 npm run scraper -- --sp='GR--MLSA--REG--DEC-32143D111288-RED-TER-ELE' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IN--RB--REG--RIS-BAS-APP-RBA-KYC-1' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SU--ESMAE--REG--ESM-OPI-ASS-PRE-TRA' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='IN--NSDL--REG--AME-BUS-RUL-NSD-REG' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IN--IIBA--REG--LIB-TRA-ADO-NEW-BEN' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IN--CD--REG--MAN-UPD-CER-ATT-PER' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='PA--SBPS--REG--REP-RSA-VPN-WIT-CIS' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
