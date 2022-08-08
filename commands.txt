@@ -95,3 +95,5 @@ npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.s
 npm run scraper -- --sp='IN--FI--REG--REC-DIS-REV-MEE-RES' --url='https://www.google.com/' --path='C:\Users\sithum.ranabahu\Downloads'
 npm run scraper -- --sp='IN--RB--REG--RIS-BAS-APP-RBA-KYC' --url='https://www.google.com/' --path='C:\Users\sithum.ranabahu\Downloads'
 
+#mohamed.aadil
+npm run scraper -- --sp='IS--ISA--REG--ILHRC' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
