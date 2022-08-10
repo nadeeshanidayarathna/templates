@@ -60,6 +60,7 @@ npm run scraper -- --sp='MA--MFSAM--REG--FIN-MAR-RUL' --url='https://www.google.
 npm run scraper -- --sp='MA--MG--REG--LAB-ACT-1990' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='AR--BCDLRDAB--REG--REF-CHA' --url='https://www.google.com/' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AR--BCDLRDAB--REG--REF-ABR' --url='https://www.google.com/' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='BA--CBB--REG--BRP-CIR-LET-NO-MAS' --url='https://www.google.com/' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
