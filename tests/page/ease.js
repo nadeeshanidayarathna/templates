@@ -32,38 +32,41 @@ function executeTests(line) {
         // level test
         const levels = document.querySelectorAll(".level1,.level2,.level3,.level4,.level5,.level6,.level7,.level8,.level9,.level10,.footnote,.issue-date,.effective-date");
         var levelTextIssue = false;
+        var levelTextIssueLevelNum;
         for (const level of levels) {
             if (level.textContent.trim() == "") {
                 levelTextIssue = true;
+                levelTextIssueLevelNum = level.classList[0];
+                break;
             }
         }
         console.log(line);
         if (levelTextIssue) {
-            throw "[TEST]:level text test - failed!!! please check the build HTML level(s) contains empty text.";
+            throw "[TEST]:" + levelTextIssueLevelNum + " text test - failed!!! please check the build HTML level(s) contains empty text.";
         } else {
             console.log("[TEST]:level text test - success!");
         }
     }
 
-    {
-        // image test
-        const images = document.querySelectorAll("img");
-        var imagePathIssue = false;
-        var imageIssueCount = 0;
-        for (const image of images) {
-            if (!(image.src.toUpperCase().startsWith("HTTP") || image.src.toUpperCase().startsWith("DATA:IMAGE"))) {
-                console.log("image src issue found src:" + image.src.substring(0, 100) + " html:" + image.outerHTML.substring(0, 100));
-                imagePathIssue = true;
-                imageIssueCount++;
-            }
-        }
-        console.log(line);
-        if (imagePathIssue) {
-            throw "[TEST]:image path test - failed!!! for " + imageIssueCount + " image(s). please check the build HTML image src whether its an absolute link or base64.";
-        } else {
-            console.log("[TEST]:image path test - success!");
-        }
-    }
+    // {
+    //     // image test
+    //     const images = document.querySelectorAll("img");
+    //     var imagePathIssue = false;
+    //     var imageIssueCount = 0;
+    //     for (const image of images) {
+    //         if (!(image.src.toUpperCase().startsWith("HTTP") || image.src.toUpperCase().startsWith("DATA:IMAGE"))) {
+    //             console.log("image src issue found src:" + image.src.substring(0, 100) + " html:" + image.outerHTML.substring(0, 100));
+    //             imagePathIssue = true;
+    //             imageIssueCount++;
+    //         }
+    //     }
+    //     console.log(line);
+    //     if (imagePathIssue) {
+    //         throw "[TEST]:image path test - failed!!! for " + imageIssueCount + " image(s). please check the build HTML image src whether its an absolute link or base64.";
+    //     } else {
+    //         console.log("[TEST]:image path test - success!");
+    //     }
+    // }
 
     {
         console.log(line);
