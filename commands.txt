@@ -21,6 +21,7 @@ npm run scraper -- --sp='US-IO--IG--REG--IOW-ENV-PRO' --url='https://www.google.
 npm run scraper -- --sp='CH--PBCP--REG--ADM-3' --url='http://www.pbc.gov.cn/zhifujiesuansi/128525/128535/128626/2840212/index.html' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='CH--PBCP--REG--GUI-3' --url='http://www.pbc.gov.cn/zhifujiesuansi/128525/128535/128626/2872931/index.html' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='CH--PBCP--REG--ADM-1' --url='http://www.pbc.gov.cn/zhifujiesuansi/128525/128535/128626/2840191/index.html' --path='C:\Users\dinusha.ambagahawita\Downloads'
+npm run scraper -- --sp='SL--SG--REG--ACT-10' --url='https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2003/595/20210301' --path='C:\Users\dinusha.ambagahawita\Downloads'
 
 # Raveendran Pirarthan
 npm run scraper -- --sp='UN--UG--REG--THE-176' --url='https://www.legislation.gov.uk/uksi/2020/1474' --path='C:\Users\Raveendran Pirarthan\Downloads'
