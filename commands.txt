@@ -64,6 +64,7 @@ npm run scraper -- --sp='AR--BCDLRDAB--REG--REF-CHA' --url='https://www.google.c
 npm run scraper -- --sp='AR--BCDLRDAB--REG--REF-ABR' --url='https://www.google.com/' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='BA--CBB--REG--BRP-CIR-LET-NO-MAS' --url='https://www.google.com/' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='NO--NG--REG--REG-3' --url='https://lovdata.no/dokument/SF/forskrift/2016-11-23-1360/*#&#x2a;' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='NO--NG--REG--REG-6' --url='https://lovdata.no/dokument/SF/forskrift/2014-08-22-1097' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
