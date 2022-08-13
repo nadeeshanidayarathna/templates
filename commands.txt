@@ -321,6 +321,7 @@ npm run scraper -- --sp='BA--BG--REG--SEV-2' --url='http://104.238.85.55/en/show
 npm run scraper -- --sp='BA--BG--REG--SEV-1' --url='http://104.238.85.55/en/showdoc/cr/1972_179/se:1?splitmode=true#anchorse:1' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='JA--FSAF--REG--CAB-5' --url='https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=429M60000002054' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='JA--FSAF--REG--ORD' --url='https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=412M50000002128' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-ADM-FOR-EXC-30' --url='https://www.safe.gov.cn/safe/2015/1202/5731.html' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
