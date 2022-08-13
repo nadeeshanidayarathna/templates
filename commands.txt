@@ -68,6 +68,9 @@ npm run scraper -- --sp='NO--NG--REG--REG-3' --url='https://lovdata.no/dokument/
 npm run scraper -- --sp='NO--NG--REG--REG-6' --url='https://lovdata.no/dokument/SF/forskrift/2014-08-22-1097' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='NO--NG--REG--THE-2' --url='https://lovdata.no/dokument/NL/lov/1918-05-31-4' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='RO--RG--REG--LN-N-21' --url='https://legislatie.just.ro/Public/DetaliiDocument/231451' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CH--SAFES--REG--NOT-STO-IMP-SOM-FOR' --url='https://www.safe.gov.cn/safe/1999/0909/5332.html' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-PLA-COM-PEO' --url='https://www.safe.gov.cn/safe/2000/0111/5602.html' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-PLA-COM-IMP' --url='https://www.safe.gov.cn/safe/1996/0422/5592.html' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
