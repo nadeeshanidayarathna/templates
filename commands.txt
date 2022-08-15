@@ -281,6 +281,7 @@ npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-PLA-COM-IMP' --url='https://www
 npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-ADM-TAX-FOR' --url='https://www.safe.gov.cn/safe/2005/0131/5464.html' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-ADM-FOR-EXC-9' --url='https://www.safe.gov.cn/safe/2009/0713/5326.html' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-ADM-FOR-EXC-8' --url='https://www.safe.gov.cn/safe/2009/0121/5654.html' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-ADM-FOR-EXC-6' --url='https://www.safe.gov.cn/safe/2004/0517/5459.html' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
