@@ -100,6 +100,7 @@ npm run scraper -- --sp='IS--ISA--REG--ILHRC' --url='https://www.google.com/' --
 npm run scraper -- --sp='SA--ZTCAZ--REG--IMRITL' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
 npm run scraper -- --sp='SA--SA--REG--ERAMLS' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
 npm run scraper -- --sp='SA--SA--REG--RIBA' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
+npm run scraper -- --sp='SA--SA--REG--RCFCSE' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
 
 #Binuri.Perera
 npm run scraper -- --sp='SL--SL--REG--NAT-MIN-ACT' --url='https://www.google.com/' --path='C:\Users\binuri.perera\Downloads'
