@@ -279,6 +279,13 @@ npm run scraper -- --sp='CH--SAFES--REG--NOT-STO-IMP-SOM-FOR' --url='https://www
 npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-PLA-COM-PEO' --url='https://www.safe.gov.cn/safe/2000/0111/5602.html' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-PLA-COM-IMP' --url='https://www.safe.gov.cn/safe/1996/0422/5592.html' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-ADM-TAX-FOR' --url='https://www.safe.gov.cn/safe/2005/0131/5464.html' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-ADM-FOR-EXC-9' --url='https://www.safe.gov.cn/safe/2009/0713/5326.html' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-ADM-FOR-EXC-8' --url='https://www.safe.gov.cn/safe/2009/0121/5654.html' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-ADM-FOR-EXC-6' --url='https://www.safe.gov.cn/safe/2004/0517/5459.html' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CH--SAFES--REG--NOT-CAP-ACC-MAN-DEP' --url='https://www.safe.gov.cn/safe/2002/0909/5558.html' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CH--SAFES--REG--NOT-DEV-REF-COM-PEO' --url='https://www.safe.gov.cn/safe/2015/1216/5365.html' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CH--SAFES--REG--NOT-ISS-CON-IMP-FOR' --url='https://www.safe.gov.cn/safe/1999/0107/5450.html' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CH--SAFES--REG--NOT-ISS-CON-SUB-TAX' --url='https://www.safe.gov.cn/safe/2000/0519/5453.html' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
@@ -322,6 +329,12 @@ npm run scraper -- --sp='BA--BG--REG--SEV-1' --url='http://104.238.85.55/en/show
 npm run scraper -- --sp='JA--FSAF--REG--CAB-5' --url='https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=429M60000002054' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='JA--FSAF--REG--ORD' --url='https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=412M50000002128' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-ADM-FOR-EXC-30' --url='https://www.safe.gov.cn/safe/2015/1202/5731.html' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-ADM-FOR-EXC-31' --url='https://www.safe.gov.cn/safe/2013/0409/5719.html' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-ADM-FOR-EXC-32' --url='https://www.safe.gov.cn/safe/2014/0325/5432.html' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-ADM-FOR-EXC-4' --url='https://www.safe.gov.cn/safe/2005/0126/5619.html' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-ADM-FOR-EXC-7' --url='https://www.safe.gov.cn/safe/2006/0403/8855.html' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='CH--CSRCC--REG--PRO-ISS-CON-FUN-INV' --url='http://www.gov.cn/gongbao/content/2012/content_2251665.htm' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-DEV-PLA-COM' --url='https://www.safe.gov.cn/safe/2002/0708/5611.html' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
