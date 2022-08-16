@@ -342,6 +342,7 @@ npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-ADM-FOR-EXC-7' --url='https://w
 npm run scraper -- --sp='CH--CSRCC--REG--PRO-ISS-CON-FUN-INV' --url='http://www.gov.cn/gongbao/content/2012/content_2251665.htm' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-DEV-PLA-COM' --url='https://www.safe.gov.cn/safe/2002/0708/5611.html' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-ADM-FOR-EXC-44' --url='https://www.safe.gov.cn/safe/2001/0403/5456.html' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-ADM-FOR-EXC-43' --url='https://www.safe.gov.cn/safe/2001/0903/5556.html' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
