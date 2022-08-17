@@ -301,6 +301,7 @@ npm run scraper -- --sp='NE--NYSDFS--REG--FOR-REQ-BY-REG' --url='https://www.dfs
 npm run scraper -- --sp='NE--NYSDFS--REG--IMP-CHA-665-LAW-1979' --url='https://www.dfs.ny.gov/insurance/circltr/1979/cl1979_28_w.htm' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='NE--NYSDFS--REG--IND-ANN-POL-CER-PRO' --url='https://www.dfs.ny.gov/insurance/circltr/1980/cl1980_05_w.htm' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='NE--NYSDFS--REG--NEW-YOR-CIT-ROT-TOW' --url='https://www.dfs.ny.gov/insurance/circltr/1979/cl1979_31.htm' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='NE--NYSDFS--REG--PRO-LIA-INS-REP-CLA' --url='https://www.dfs.ny.gov/insurance/circltr/1980/cl1980_19.htm' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
