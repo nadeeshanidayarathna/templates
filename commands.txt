@@ -343,6 +343,10 @@ npm run scraper -- --sp='IN--RB--REG--RIS-BAS-APP-RBA-KYC' --url='https://www.go
 
 #mohamed.aadil
 npm run scraper -- --sp='IS--ISA--REG--ILHRC' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
+npm run scraper -- --sp='SA--ZTCAZ--REG--IMRITL' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
+npm run scraper -- --sp='SA--SA--REG--ERAMLS' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
+npm run scraper -- --sp='SA--SA--REG--RIBA' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
+npm run scraper -- --sp='SA--SA--REG--RCFCSE' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
 
 #Amila Ruwanpathirana
 npm run scraper -- --sp='AN--AG--REG--BAS-LAW-FIN-INS' --url='https://www.google.com/' --path='C:\Users\%username%\Downloads'
