@@ -398,3 +398,4 @@ npm run scraper -- --sp='SA--GSA--REG--ACC-VAL-LAW' --url='https://laws.boe.gov.
 
 # mahidi.maduwage
 npm run scraper -- --sp='CH--SAFES--REG--NOT-MIN-COM-STA-ADM-1' --url='https://www.safe.gov.cn/safe/2006/0602/5526.html' --path='C:\Users\mahidi.maduwage\Downloads\ease'
+npm run scraper -- --sp='IR--CBI--REG--CEN-BAN-FIN-SER-AUT' --url='http://www.irishstatutebook.ie/2004/en/si/0454.html' --path='C:\Users\mahidi.maduwage\Downloads\ease'
