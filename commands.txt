@@ -306,6 +306,7 @@ npm run scraper -- --sp='NE--NYSDFS--REG--SEC-3425-REP-REL-NEW-0' --url='https:/
 npm run scraper -- --sp='NE--NYSDFS--REG--TAX-ALLOCATION-AGREEMENTS' --url='https://www.dfs.ny.gov/insurance/circltr/1979/cl1979_33.htm' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='NE--NYSDFS--REG--TRAINING-ALLOWANCE-PLANS-0' --url='https://www.dfs.ny.gov/insurance/circltr/1983/cl1983_10_w.htm' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-41' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2017-11' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-42' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2016-38' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
