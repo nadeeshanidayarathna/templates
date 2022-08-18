@@ -315,6 +315,16 @@ npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-47' --url='http://www
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-48' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2018-23' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-49' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2018-24' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-5' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2016-22' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-50' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FRA2015-19' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-51' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2016-22' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-52' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2016-22' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-53' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2016-22' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-54' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2016-22' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-55' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2016-22' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-56' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2016-22' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-57' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2016-22' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-58' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2016-22' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-59' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2016-22' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
