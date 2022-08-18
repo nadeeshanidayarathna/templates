@@ -23,6 +23,11 @@ npm run scraper -- --sp='CH--PBCP--REG--GUI-3' --url='http://www.pbc.gov.cn/zhif
 npm run scraper -- --sp='CH--PBCP--REG--ADM-1' --url='http://www.pbc.gov.cn/zhifujiesuansi/128525/128535/128626/2840191/index.html' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='SL--SG--REG--ACT-10' --url='https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2003/595/20210301' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='NE--NYSDFS--REG--1992-LEG-AME-CHA-LAW' --url='https://www.dfs.ny.gov/insurance/circltr/1992/cl1992_cl1991_16_s3_w.htm' --path='C:\Users\dinusha.ambagahawita\Downloads'
+npm run scraper -- --sp='NE--NYSDFS--REG--YEA-2000-DIS-MAN-ANA' --url='https://www.dfs.ny.gov/insurance/circltr/1999/cl99_03.htm' --path='C:\Users\dinusha.ambagahawita\Downloads'
+npm run scraper -- --sp='NE--NYSDFS--REG--WOR-COM-SEC-FUN' --url='https://www.dfs.ny.gov/insurance/circltr/1990/cl1990_09_w.htm' --path='C:\Users\dinusha.ambagahawita\Downloads'
+npm run scraper -- --sp='NE--NYSDFS--REG--WORKERS8217-COM-SEC-FUN-0' --url='https://www.dfs.ny.gov/insurance/circltr/2008/cl08_11.htm' --path='C:\Users\dinusha.ambagahawita\Downloads'
+npm run scraper -- --sp='NE--NYSDFS--REG--WOR-COM-SEC-FUN-0' --url='https://www.dfs.ny.gov/insurance/circltr/2001/cl01_22.htm' --path='C:\Users\dinusha.ambagahawita\Downloads'
+npm run scraper -- --sp='NE--NYSDFS--REG--WORKERS8217-COM-SEC-FUN' --url='https://www.dfs.ny.gov/insurance/circltr/2010/cl2010_13.htm' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='NE--NYSDFS--REG--5TH-AME-REG' --url='https://www.dfs.ny.gov/insurance/circltr/1996/cl96_08.htm' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='NE--NYSDFS--REG--A-DEF-QUA-ACT-GUI' --url='https://www.dfs.ny.gov/insurance/circltr/1982/cl1982_33_w.htm' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='NE--NYSDFS--REG--ACT-INF-EMP-PEN-BEN' --url='https://www.dfs.ny.gov/insurance/circltr/1982/cl1982_16_w.htm' --path='C:\Users\dinusha.ambagahawita\Downloads'
@@ -222,12 +227,7 @@ npm run scraper -- --sp='NE--NYSDFS--REG--VAL-RES-SIN-PRE-ANN' --url='https://ww
 npm run scraper -- --sp='NE--NYSDFS--REG--WAG-CON-PLA-PAY-MAY' --url='https://www.dfs.ny.gov/insurance/circltr/1974/cl1974_01_w.htm' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='NE--NYSDFS--REG--WOR-COM-BOA-ADO-NEW' --url='https://www.dfs.ny.gov/insurance/circltr/2008/cl08_09s1.htm' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='NE--NYSDFS--REG--WOR-COM-INS-SEC-FUN' --url='https://www.dfs.ny.gov/insurance/circltr/2008/cl08_24.htm' --path='C:\Users\dinusha.ambagahawita\Downloads'
-npm run scraper -- --sp='NE--NYSDFS--REG--WOR-COM-SEC-FUN' --url='https://www.dfs.ny.gov/insurance/circltr/1990/cl1990_09_w.htm' --path='C:\Users\dinusha.ambagahawita\Downloads'
-npm run scraper -- --sp='NE--NYSDFS--REG--WOR-COM-SEC-FUN-0' --url='https://www.dfs.ny.gov/insurance/circltr/2001/cl01_22.htm' --path='C:\Users\dinusha.ambagahawita\Downloads'
-npm run scraper -- --sp='NE--NYSDFS--REG--WORKERS8217-COM-SEC-FUN' --url='https://www.dfs.ny.gov/insurance/circltr/2010/cl2010_13.htm' --path='C:\Users\dinusha.ambagahawita\Downloads'
-npm run scraper -- --sp='NE--NYSDFS--REG--WORKERS8217-COM-SEC-FUN-0' --url='https://www.dfs.ny.gov/insurance/circltr/2008/cl08_11.htm' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='NE--NYSDFS--REG--YEA-2000' --url='https://www.dfs.ny.gov/industry_guidance/circular_letters/cl1998_06' --path='C:\Users\dinusha.ambagahawita\Downloads'
-npm run scraper -- --sp='NE--NYSDFS--REG--YEA-2000-DIS-MAN-ANA' --url='https://www.dfs.ny.gov/insurance/circltr/1999/cl99_03.htm' --path='C:\Users\dinusha.ambagahawita\Downloads'
 
 # Raveendran Pirarthan
 npm run scraper -- --sp='UN--UG--REG--THE-176' --url='https://www.legislation.gov.uk/uksi/2020/1474' --path='C:\Users\Raveendran Pirarthan\Downloads'
@@ -375,6 +375,8 @@ npm run scraper -- --sp='AU--APRAA--REG--SRS-3301-STA-FIN-PER-0' --url='https://
 npm run scraper -- --sp='AU--APRAA--REG--SRS-3302-STA-FIN-PER' --url='https://www.legislation.gov.au/Details/F2017L00727' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AU--APRAA--REG--SRS-602' --url='https://www.legislation.gov.au/Details/F2015L00820' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AU--APRAA--REG--SRS-6100-MEM-PRO-REP' --url='https://www.legislation.gov.au/Details/F2017L00729' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='AU--APRAA--REG--SUP-IND-APP-PRO-BEN' --url='https://www.legislation.gov.au/Details/F2007L04438' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='AU--APRAA--REG--SUP-IND-MOD-DEC-NO' --url='https://www.legislation.gov.au/Details/F2006L01284' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
@@ -383,6 +385,10 @@ npm run scraper -- --sp='IN--RB--REG--RIS-BAS-APP-RBA-KYC' --url='https://www.go
 
 #mohamed.aadil
 npm run scraper -- --sp='IS--ISA--REG--ILHRC' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
+npm run scraper -- --sp='SA--ZTCAZ--REG--IMRITL' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
+npm run scraper -- --sp='SA--SA--REG--ERAMLS' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
+npm run scraper -- --sp='SA--SA--REG--RIBA' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
+npm run scraper -- --sp='SA--SA--REG--RCFCSE' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
 
 #Amila Ruwanpathirana
 npm run scraper -- --sp='AN--AG--REG--BAS-LAW-FIN-INS' --url='https://www.google.com/' --path='C:\Users\%username%\Downloads'
@@ -398,3 +404,5 @@ npm run scraper -- --sp='SA--GSA--REG--ACC-VAL-LAW' --url='https://laws.boe.gov.
 # mahidi.maduwage
 npm run scraper -- --sp='CH--SAFES--REG--NOT-MIN-COM-STA-ADM-1' --url='https://www.safe.gov.cn/safe/2006/0602/5526.html' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='IR--CBI--REG--NON-INS-PRO-INF-REN' --url='http://www.irishstatutebook.ie/eli/2007/si/74/made/en/print' --path='C:\Users\mahidi.maduwage\Downloads\ease'
+npm run scraper -- --sp='IR--CBI--REG--CEN-BAN-FIN-SER-AUT' --url='http://www.irishstatutebook.ie/2004/en/si/0454.html' --path='C:\Users\mahidi.maduwage\Downloads\ease'
+
