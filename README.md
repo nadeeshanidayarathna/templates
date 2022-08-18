@@ -1,6 +1,6 @@
 # Spider Ease
 - This project is a web scraping CLI application using `Node.js` and `Puppeteer`
-- The scraper service (`scraper`) will scrape the given page via the JS template available in the `lib` folder. 
+- The scraper service (`scraper`) will scrape the given page via the JS template available in the `lib\templates` folder. 
 (place it in the relevant country code + sub folder)
 
 ## Installation
