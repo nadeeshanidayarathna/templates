@@ -427,6 +427,7 @@ npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-74' --url='http://www
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-73' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2016-24' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-ANO-110599' --url='https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-anonymous-11-05-99' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-BOY-021500' --url='https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-boynton-02-15-00' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UN--NAS--REG--FUT-TRA-ALE-2016-AT' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2016-36' --path='C:\Users\prabodha.lahiru\Downloads'
 
 
 #sithum.ranabahu
