@@ -336,6 +336,8 @@ npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-7' --url='http://www.
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-70' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2018-16' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-71' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2019-3' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-72' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FRA2016-4' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-4' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2016-27' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-40' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2016-43' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
