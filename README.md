@@ -1,6 +1,7 @@
 # Spider Ease
 - This project is a web scraping CLI application using `Node.js` and `Puppeteer`
-- The scraper service (`scraper`) will scrape the given page via the JS template available in the `lib` folder
+- The scraper service (`scraper`) will scrape the given page via the JS template available in the `lib\templates` folder. 
+(place it in the relevant country code + sub folder)
 
 ## Installation
 - Step1: Install the `NodeJS`(version 16.+ or latest)
@@ -17,7 +18,7 @@ npm install
 - Browser-level debugging ability to put the breakpoints on actual eval functions
 - Tryout the code in the browser developer console before creating the `JS` template
 - Run the full pipeline if required at the end (`JS Conversion` + `Universal Template Caller` + `Spidering Output`)
-- JS templates are located in the `lib` folder with the SP code standard. Example: `.\lib\_CA--STATCAN--REG--ADMIN-DATA.js`
+- JS templates are located in the `lib` folder with the SP code standard. Example: `.\lib\CA\STATCAN\CA--STATCAN--REG--ADMIN-DATA_v2.js`
 
 ### V2 (additions)
 - Automatic DOM relocation
@@ -26,7 +27,6 @@ npm install
 - Removing the requirement of correcting the image links and anchor links as those will be the same as the original because we are not recreating the HTML
 - No need to build the transform/non-heading parts. You just have to wrap the main content area & headings/levels in the original HTML
 - No need to create content comparison tests as we are not recreating the HTML but instead modifying the original
-- If no `JS` template is found for SP code, then it will by default call the `DOM-RELOCATOR.js`. Expecting the incoming HTML is already wrapped outside to the spider ease project. One user is the chrome plugin input
 
 ## Version History
 - `V1`: initial version (deprecated), it's about recreating the HTML to match the ease standard
@@ -43,7 +43,7 @@ npm run scraper -- --sp='<STARTPOINT>' --url='<URL>' --path='<DOWNLOAD_PATH>'
 
 Example:
 ```
-npm run scraper -- --sp='CA--STATCAN--REG--ADMIN-DATA' --url='https://www.statcan.gc.ca/eng/about/policy/admin_data' --path='C:\Users\dinusha.ambagahawita\Downloads'
+npm run scraper -- --sp='CA--STATCAN--REG--ADMIN-DATA_v2' --url='https://www.statcan.gc.ca/eng/about/policy/admin_data' --path='C:\Users\dinusha.ambagahawita\Downloads'
 ```
 
 Tests Cases: It's mandatory to pass `ALL` these tests for each template which will ensure valid root scopes are used for tests, valid level order is created, valid image paths exist, valid anchor paths exist, and no content is missing between 2 HTML files.
@@ -69,14 +69,14 @@ Tests Cases: It's mandatory to pass `ALL` these tests for each template which wi
 
 Download Folder:
 ```
-.\downloads\CA--STATCAN--REG--ADMIN-DATA\
+.\downloads\CA--STATCAN--REG--ADMIN-DATA_v2\
 ```
 
 Download Files:
 ```
-.\downloads\CA--STATCAN--REG--ADMIN-DATA\cccf739ae90f8a898e62c13c28b630d9db4bc6d1_original.html
-.\downloads\CA--STATCAN--REG--ADMIN-DATA\cccf739ae90f8a898e62c13c28b630d9db4bc6d1_annotated.html
-.\downloads\CA--STATCAN--REG--ADMIN-DATA\cccf739ae90f8a898e62c13c28b630d9db4bc6d1.html
+.\downloads\CA--STATCAN--REG--ADMIN-DATA_v2\cccf739ae90f8a898e62c13c28b630d9db4bc6d1_original.html
+.\downloads\CA--STATCAN--REG--ADMIN-DATA_v2\cccf739ae90f8a898e62c13c28b630d9db4bc6d1_annotated.html
+.\downloads\CA--STATCAN--REG--ADMIN-DATA_v2\cccf739ae90f8a898e62c13c28b630d9db4bc6d1.html
 ```
 
 - `cccf739ae90f8a898e62c13c28b630d9db4bc6d1_original.html` original HTML file downloaded with URL `SHA-1` filename
@@ -98,13 +98,13 @@ bash run.sh '<STARTPOINT>' '<URL>' '<OUTPUT_FOLDER>' '<SPIDER_EASE_HOME>' '<SPID
 
 Example for `HTML` & `PDF`(aka converted HTML) if URL is hosted public URL:
 ```
-bash run.sh 'CA--STATCAN--REG--ADMIN-DATA' 'https://www.statcan.gc.ca/eng/about/policy/admin_data' 'C:\Users\dinusha.ambagahawita\Downloads' 'C:\Users\dinusha.ambagahawita\projects\spider.ease' 'C:\Users\dinusha.ambagahawita\projects\spider.templates' 'CLEAR|EASE|PREPARE|SPIDER'
+bash run.sh 'CA--STATCAN--REG--ADMIN-DATA_v2' 'https://www.statcan.gc.ca/eng/about/policy/admin_data' 'C:\Users\dinusha.ambagahawita\Downloads' 'C:\Users\dinusha.ambagahawita\projects\spider.ease' 'C:\Users\dinusha.ambagahawita\projects\spider.templates' 'CLEAR|EASE|PREPARE|SPIDER'
 ```
 
 Example for `PDF`(aka converted HTML) & `GATED PDF`(aka converted gated HTML) if the URL is NOT a hosted public URL(expecting DEVs to place the cachefile with `595c3cce2409a55c13076f1bac5edee529fc2e58_original.html` and pass the URL as `https://www.google.com/`):
 
 ```
-bash run.sh 'CA--STATCAN--REG--ADMIN-DATA' 'https://www.statcan.gc.ca/eng/about/policy/admin_data' 'C:\Users\dinusha.ambagahawita\Downloads' 'C:\Users\dinusha.ambagahawita\projects\spider.ease' 'C:\Users\dinusha.ambagahawita\projects\spider.templates' 'EASE|PREPARE|SPIDER'
+bash run.sh 'CA--STATCAN--REG--ADMIN-DATA_v2' 'https://www.statcan.gc.ca/eng/about/policy/admin_data' 'C:\Users\dinusha.ambagahawita\Downloads' 'C:\Users\dinusha.ambagahawita\projects\spider.ease' 'C:\Users\dinusha.ambagahawita\projects\spider.templates' 'EASE|PREPARE|SPIDER'
 ```
 Note that here we skipping the `CLEAR` command here as expecting the user to place the converted HTML on the folder in order to work for PDF
 ## HTML Wrapping Standard
