@@ -457,6 +457,7 @@ npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-15' --url='http://www
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-16' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2018-38' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-17' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2017-1' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-18' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2017-2' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-19' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2016-11' --path='C:\Users\prabodha.lahiru\Downloads'
 
 
 #sithum.ranabahu
