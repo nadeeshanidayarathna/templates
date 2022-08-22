@@ -486,3 +486,6 @@ npm run scraper -- --sp='CH--SAFES--REG--NOT-MIN-COM-STA-ADM-1' --url='https://w
 npm run scraper -- --sp='IR--CBI--REG--NON-INS-PRO-INF-REN' --url='http://www.irishstatutebook.ie/eli/2007/si/74/made/en/print' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='IR--CBI--REG--CEN-BAN-FIN-SER-AUT' --url='http://www.irishstatutebook.ie/2004/en/si/0454.html' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 
+# vinoo.jayakody
+
+npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-SOL-102397' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/advisory-opinion-solganik-10-23-97' --path='C:\Users\vinoo.jayakody\Downloads\ease'
