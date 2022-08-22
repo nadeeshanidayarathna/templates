@@ -464,6 +464,7 @@ npm run scraper -- --sp='SA--GSA--REG--ACC-VAL-LAW' --url='https://laws.boe.gov.
 npm run scraper -- --sp='GR--BG--REG--DEC-CRE-ISS' --url='https://www.google.com/' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='CY--CR--REG--COMPANIES-LAW' --url='http://www.cylaw.org/nomoi/enop/non-ind/0_113/full.html' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='SL--SL--REG--SEC-NO-2009' --url='https://www.google.com/' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='UA--CBUC--REG--IMP-IMA-CHE-CLE-SYS' --url='https://www.google.com/' --path='C:\Users\venoli.gamage\Downloads'
 
 # mahidi.maduwage
 npm run scraper -- --sp='CH--SAFES--REG--NOT-MIN-COM-STA-ADM-1' --url='https://www.safe.gov.cn/safe/2006/0602/5526.html' --path='C:\Users\mahidi.maduwage\Downloads\ease'
