@@ -37,7 +37,7 @@ const scraper = async function download(url, sp, path) {
                 wrapElement(document, level2Element, "level2");
 
                 // removing unwanted content from ease-content
-                Array.prototype.forEach.call(document.querySelectorAll(".banner, .region.region-header, .group-breadcrumb, .usa-footer.usa-footer--big, .usa-header.usa-header--extended.grid-container, .usa-skipnav"), function (node) { node.remove(); });
+                Array.prototype.forEach.call(document.querySelectorAll(".banner, .region.region-header, .group-breadcrumb, .usa-footer.usa-footer--big, .usa-header.usa-header--extended.grid-container, .usa-skipnav, .view-header, .views-field.views-field-title, .usa-sr-only"), function (node) { node.remove(); });
         
                 return Promise.resolve();
             });
