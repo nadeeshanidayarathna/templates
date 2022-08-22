@@ -25,7 +25,6 @@ if [[ "$COMMANDS" == *"CLEAR"* ]]; then
     echo "[step0]: running command CLEAR"
     if [ -d "$OUTPUT_PATH/$SP" ]; then rm -Rf "$OUTPUT_PATH/$SP"; fi
     echo "deleted $OUTPUT_PATH/$SP"
-    printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 fi
 
 if [[ "$COMMANDS" == *"EASE"* ]]; then
