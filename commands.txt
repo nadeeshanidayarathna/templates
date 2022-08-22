@@ -1,8 +1,8 @@
-# test books
+# test books #
 npm run scraper -- --sp='CA--STATCAN--REG--ADMIN-DATA_v1' --url='https://www.statcan.gc.ca/eng/about/policy/admin_data' --path='C:\Users\dinusha.ambagahawita\Downloads'
 npm run scraper -- --sp='CA--STATCAN--REG--ADMIN-DATA_v2' --url='https://www.statcan.gc.ca/eng/about/policy/admin_data' --path='C:\Users\dinusha.ambagahawita\Downloads'
 
-# prod books
+# prod books #
 
 # dinusha.ambagahawita
 npm run scraper -- --sp='NE--NG--REG--LAW' --url='https://wetten.overheid.nl/BWBR0002063/2022-01-01' --path='C:\Users\dinusha.ambagahawita\Downloads'
@@ -471,13 +471,20 @@ npm run scraper -- --sp='IN--FI--REG--REC-DIS-REV-MEE-RES' --url='https://www.go
 npm run scraper -- --sp='IN--RB--REG--RIS-BAS-APP-RBA-KYC' --url='https://www.google.com/' --path='C:\Users\sithum.ranabahu\Downloads'
 npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-ADM-FOR-EXC-5' --url='https://www.safe.gov.cn/safe/2017/1207/7758.html' --path='C:\Users\sithum.ranabahu\Downloads'
 
-
 #mohamed.aadil
 npm run scraper -- --sp='IS--ISA--REG--ILHRC' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
 npm run scraper -- --sp='SA--ZTCAZ--REG--IMRITL' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
 npm run scraper -- --sp='SA--SA--REG--ERAMLS' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
 npm run scraper -- --sp='SA--SA--REG--RIBA' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
 npm run scraper -- --sp='SA--SA--REG--RCFCSE' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
+npm run scraper -- --sp='BA--CBB--REG--ICRFET' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
+npm run scraper -- --sp='BA--CBB--REG--FEP-CIR-8' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
+npm run scraper -- --sp='BA--CBB--REG--BRP-CIR-14' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
+npm run scraper -- --sp='TH--SECS--REG--SEC-2564' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
+npm run scraper -- --sp='GU--GG--REG--GCA-16' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
+npm run scraper -- --sp='BA--CBB--REG--BRPD-09' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
+npm run scraper -- --sp='BA--CBB--REG--SD-CIR-4' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
+npm run scraper -- --sp='BA--CBB--REG--BRPD-02' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
 
 #Amila Ruwanpathirana
 npm run scraper -- --sp='AN--AG--REG--BAS-LAW-FIN-INS' --url='https://www.google.com/' --path='C:\Users\%username%\Downloads'
@@ -490,13 +497,18 @@ npm run scraper -- --sp='SL--SL--REG--BUD-REL' --url='https://www.google.com/' -
 npm run scraper -- --sp='SA--GOFSI--REG--DEC-AFF' --url='https://gosi.gov.sa/GOSIOnline/Regulations_for_the_implementation' --path='C:\Users\binuri.perera\Downloads'
 npm run scraper -- --sp='SA--GSA--REG--ACC-VAL-LAW' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/cad66e4d-38d3-4baa-8049-a9a700f1e7a8/1#:~:text=%D9%85%D8%B1%D8%B3%D9%88%D9%85%20%D9%85%D9%84%D9%83%D9%8A%20%D8%B1%D9%82%D9%85%20%D9%85%20%2F%2043%20%D8%A8%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%209%20%2F%207%20%2F%201433,-%D8%A8%D8%B9%D9%88%D9%86%20%D8%A7%D9%84%D9%84%D9%87%20%D8%AA%D8%B9%D8%A7%D9%84%D9%89&text=%D8%A8%D9%86%D8%A7%D8%A1%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%85%D8%A7%D8%AF%D8%A9%20(%D8%A7%D9%84%D8%B3%D8%A8%D8%B9%D9%8A%D9%86)%20%D9%85%D9%86,%D8%A8%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D9%A3%20%2F%20%D9%A3%20%2F%20%D9%A1%D9%A4%D9%A1%D9%A4%D9%87%D9%80.' --path='C:\Users\binuri.perera\Downloads'
 
+#venoli.gamage
+npm run scraper -- --sp='GR--BG--REG--DEC-CRE-ISS' --url='https://www.google.com/' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='CY--CR--REG--COMPANIES-LAW' --url='http://www.cylaw.org/nomoi/enop/non-ind/0_113/full.html' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='SL--SL--REG--SEC-NO-2009' --url='https://www.google.com/' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='UA--CBUC--REG--IMP-IMA-CHE-CLE-SYS' --url='https://www.google.com/' --path='C:\Users\venoli.gamage\Downloads'
+
 # mahidi.maduwage
 npm run scraper -- --sp='CH--SAFES--REG--NOT-MIN-COM-STA-ADM-1' --url='https://www.safe.gov.cn/safe/2006/0602/5526.html' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='IR--CBI--REG--NON-INS-PRO-INF-REN' --url='http://www.irishstatutebook.ie/eli/2007/si/74/made/en/print' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='IR--CBI--REG--CEN-BAN-FIN-SER-AUT' --url='http://www.irishstatutebook.ie/2004/en/si/0454.html' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 
 # vinoo.jayakody
-
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-SOL-102397' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/advisory-opinion-solganik-10-23-97' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-HIN-070998' --url='https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-hinkle-07-09-98' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-LEW-061198' --url='https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-lewis-06-11-98' --path='C:\Users\vinoo.jayakody\Downloads\ease'
