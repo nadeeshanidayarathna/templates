@@ -4,13 +4,15 @@ printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 
 # execution specific variables
 export SP="$1"
-export URL="$2"
-export OUTPUT_PATH="$3"
-export SPIDER_EASE_HOME="$4"
-export SPIDER_TEMPLATE_HOME="$5"
-export COMMANDS="$6"
+export UNIVERSAL_TEMPLATE="$2"
+export URL="$3"
+export OUTPUT_PATH="$4"
+export SPIDER_EASE_HOME="$5"
+export SPIDER_TEMPLATE_HOME="$6"
+export COMMANDS="$7"
 
 echo "SP:$SP"
+echo "UNIVERSAL_TEMPLATE:$UNIVERSAL_TEMPLATE"
 echo "URL:$URL"
 echo "OUTPUT_PATH:$OUTPUT_PATH"
 echo "SPIDER_EASE_HOME:$SPIDER_EASE_HOME"
@@ -67,7 +69,7 @@ if [[ "$COMMANDS" == *"SPIDER"* ]]; then
     echo "[step3]: running command SPIDER"
     printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
     cd $SPIDER_TEMPLATE_HOME
-    ./Spider.Console/bin/Debug/netcoreapp3.1/Spider.Console.exe -s "UNIVERSAL--DEFAULT--REG--LEVEL-10" -o "$OUTPUT_PATH" -k true -f "$SP" -u "$URL"
+    ./Spider.Console/bin/Debug/netcoreapp3.1/Spider.Console.exe -s "$UNIVERSAL_TEMPLATE" -o "$OUTPUT_PATH" -k true -f "$SP" -u "$URL"
     if [[ "$?" != "0" ]]; then
         echo "run.sh FAILED with run spider template"
         exit 1

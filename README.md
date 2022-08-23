@@ -93,18 +93,18 @@ Download Files:
 
 Command:
 ```
-bash run.sh '<STARTPOINT>' '<URL>' '<OUTPUT_FOLDER>' '<SPIDER_EASE_HOME>' '<SPIDER_TEMPLATE_HOME>' 'COMMANDS'
+bash run.sh '<STARTPOINT>' '<UNIVERSAL_TEMPLATE>' '<URL>' '<OUTPUT_FOLDER>' '<SPIDER_EASE_HOME>' '<SPIDER_TEMPLATE_HOME>' 'COMMANDS'
 ```
 
 Example for `HTML` & `PDF`(aka converted HTML) if URL is hosted public URL:
 ```
-bash run.sh 'CA--STATCAN--REG--ADMIN-DATA_v2' 'https://www.statcan.gc.ca/eng/about/policy/admin_data' 'C:\Users\dinusha.ambagahawita\Downloads' 'C:\Users\dinusha.ambagahawita\projects\spider.ease' 'C:\Users\dinusha.ambagahawita\projects\spider.templates' 'CLEAR|EASE|PREPARE|SPIDER'
+bash run.sh 'CA--STATCAN--REG--ADMIN-DATA_v2' 'UNIVERSAL--DEFAULT--REG--LEVEL-10' 'https://www.statcan.gc.ca/eng/about/policy/admin_data' 'C:\Users\dinusha.ambagahawita\Downloads' 'C:\Users\dinusha.ambagahawita\projects\spider.ease' 'C:\Users\dinusha.ambagahawita\projects\spider.templates' 'CLEAR|EASE|PREPARE|SPIDER'
 ```
 
 Example for `PDF`(aka converted HTML) & `GATED PDF`(aka converted gated HTML) if the URL is NOT a hosted public URL(expecting DEVs to place the cachefile with `595c3cce2409a55c13076f1bac5edee529fc2e58_original.html` and pass the URL as `https://www.google.com/`):
 
 ```
-bash run.sh 'CA--STATCAN--REG--ADMIN-DATA_v2' 'https://www.statcan.gc.ca/eng/about/policy/admin_data' 'C:\Users\dinusha.ambagahawita\Downloads' 'C:\Users\dinusha.ambagahawita\projects\spider.ease' 'C:\Users\dinusha.ambagahawita\projects\spider.templates' 'EASE|PREPARE|SPIDER'
+bash run.sh 'CA--STATCAN--REG--ADMIN-DATA_v2' 'UNIVERSAL--DEFAULT--REG--LEVEL-10' 'https://www.statcan.gc.ca/eng/about/policy/admin_data' 'C:\Users\dinusha.ambagahawita\Downloads' 'C:\Users\dinusha.ambagahawita\projects\spider.ease' 'C:\Users\dinusha.ambagahawita\projects\spider.templates' 'EASE|PREPARE|SPIDER'
 ```
 Note that here we skipping the `CLEAR` command here as expecting the user to place the converted HTML on the folder in order to work for PDF
 ## HTML Wrapping Standard
