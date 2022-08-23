@@ -3,7 +3,6 @@ const sha1 = require("js-sha1");
 const line = '-'.repeat(process.stdout.columns);
 const test = require("../tests/common/base.test");
 
-
 async function write(path, tags) {
     fs.unlink(path, (err => { }));
     var fileWriter = fs.createWriteStream(path, {
