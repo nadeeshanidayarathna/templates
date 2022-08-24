@@ -551,3 +551,4 @@ npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-117' --url='http://ww
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-116' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2017-6' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-115' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FRA2013-3' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-114' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FRA2009-20' --path='C:\Users\vinoo.jayakody\Downloads\ease'
+npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-113' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2019-17' --path='C:\Users\vinoo.jayakody\Downloads\ease'
