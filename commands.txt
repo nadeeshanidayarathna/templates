@@ -365,6 +365,7 @@ npm run scraper -- --sp='AU--AG--REG--BAN-ACT-1959' --url='https://www.legislati
 npm run scraper -- --sp='IR--CBI--REG--EUR-COM-SUP-INS-UND' --url='https://www.irishstatutebook.ie/eli/2004/si/731/made/en/print' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IR--CBI--REG--EUR-COM-LIF-ASS-FRA' --url='https://www.irishstatutebook.ie/eli/2004/si/729/made/en/print' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IR--CBI--REG--INSURANCE-ACT,-1953' --url='https://www.irishstatutebook.ie/eli/1953/act/7/enacted/en/print' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CH--SAFES--REG--NOT-MIN-CON-STA-ADM' --url='https://www.safe.gov.cn/safe/2006/0901/5468.html' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
