@@ -544,3 +544,4 @@ npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-LEW-061198' --url='https://www.ft
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-WIL-032599' --url='https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-willner-03-25-99' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='NE--NYSDFS--REG--DIS-PLA-PRE-RES-BY' --url='https://www.dfs.ny.gov/insurance/circltr/2018/cl2018_04.htm' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='NE--NYSDFS--REG--DIS-PLA-PRE-RES-BY-0' --url='https://www.dfs.ny.gov/insurance/circltr/2018/cl2018_03.htm' --path='C:\Users\vinoo.jayakody\Downloads\ease'
+npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-117' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FRA2013-5' --path='C:\Users\vinoo.jayakody\Downloads\ease'
