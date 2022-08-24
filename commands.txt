@@ -491,6 +491,7 @@ npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-101' --url='http://ww
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-102' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2018-3' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-103' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2009-001' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-104' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2011-02' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='IR--CBI--REG--UNC-LIF-ASS-POL-SEC' --url='http://www.irishstatutebook.ie/2003/en/si/0093.html' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
