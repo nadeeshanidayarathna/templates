@@ -505,6 +505,10 @@ npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-110' --url='http://ww
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-111' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2017-23' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-112' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2019-14' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--APR-2002-LET-FRO-J' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UN--FTC--REG--OPI-851' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UN--FTC--REG--OPI-976' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UN--FTC--REG--OPI-841' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UN--FTC--REG--LET-FRO-ART-LER-DEN' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
@@ -550,6 +554,7 @@ npm run scraper -- --sp='CH--SAFES--REG--NOT-MIN-COM-STA-ADM-1' --url='https://w
 npm run scraper -- --sp='IR--CBI--REG--NON-INS-PRO-INF-REN' --url='http://www.irishstatutebook.ie/eli/2007/si/74/made/en/print' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='IR--CBI--REG--CEN-BAN-FIN-SER-AUT' --url='http://www.irishstatutebook.ie/2004/en/si/0454.html' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='NE--NYSDFS--REG--COM-WIT-FED-BAN-SEC' --url='https://www.dfs.ny.gov/insurance/circltr/2009/cl2009_11.htm' --path='C:\Users\mahidi.maduwage\Downloads\ease'
+npm run scraper -- --sp='NE--NYSDFS--REG--USE-EXT-CON-DAT-INF' --url='https://www.dfs.ny.gov/industry_guidance/circular_letters/cl2019_01' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 
 # vinoo.jayakody
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-SOL-102397' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/advisory-opinion-solganik-10-23-97' --path='C:\Users\vinoo.jayakody\Downloads\ease'
