@@ -553,6 +553,7 @@ npm run scraper -- --sp='UA--CBUC--REG--IMP-IMA-CHE-CLE-SYS' --url='https://www.
 npm run scraper -- --sp='CH--SAFES--REG--NOT-MIN-COM-STA-ADM-1' --url='https://www.safe.gov.cn/safe/2006/0602/5526.html' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='IR--CBI--REG--NON-INS-PRO-INF-REN' --url='http://www.irishstatutebook.ie/eli/2007/si/74/made/en/print' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='IR--CBI--REG--CEN-BAN-FIN-SER-AUT' --url='http://www.irishstatutebook.ie/2004/en/si/0454.html' --path='C:\Users\mahidi.maduwage\Downloads\ease'
+npm run scraper -- --sp='NE--NYSDFS--REG--DIS-PLA-PRE-RES-4' --url='https://www.dfs.ny.gov/insurance/circltr/2009/cl2009_08.htm' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='NE--NYSDFS--REG--COM-WIT-FED-BAN-SEC' --url='https://www.dfs.ny.gov/insurance/circltr/2009/cl2009_11.htm' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='NE--NYSDFS--REG--USE-EXT-CON-DAT-INF' --url='https://www.dfs.ny.gov/industry_guidance/circular_letters/cl2019_01' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 
