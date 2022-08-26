@@ -498,7 +498,7 @@ npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-102' --url='http://ww
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-103' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2009-001' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-104' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2011-02' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IR--CBI--REG--UNC-LIF-ASS-POL-SEC' --url='http://www.irishstatutebook.ie/2003/en/si/0093.html' --path='C:\Users\prabodha.lahiru\Downloads'
-npm run scraper -- --sp='IR--CBI--REG--CRI-JUS-MON-LAU-TER' --url='http://www.irishstatutebook.ie/2010/en/act/pub/0006/index.html' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='IR--CBI--REG--CRI-JUS-MON-LAU-TER' --url='https://www.irishstatutebook.ie/eli/2010/act/6/enacted/en/print.html' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-106' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2009-2' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-105' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2011-03' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-107' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2011-04' --path='C:\Users\prabodha.lahiru\Downloads'
