@@ -504,6 +504,15 @@ npm run scraper -- --sp='GR--BG--REG--DEC-CRE-ISS' --url='https://www.google.com
 npm run scraper -- --sp='CY--CR--REG--COMPANIES-LAW' --url='http://www.cylaw.org/nomoi/enop/non-ind/0_113/full.html' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='SL--SL--REG--SEC-NO-2009' --url='https://www.google.com/' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='UA--CBUC--REG--IMP-IMA-CHE-CLE-SYS' --url='https://www.google.com/' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='NE--NYSDFS--REG--RET-ASS-ACC' --url='https://www.dfs.ny.gov/insurance/circltr/2012/cl2012_04.htm' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='NE--NYSDFS--REG--DIS-PLA-PRE-RES-2' --url='https://www.dfs.ny.gov/insurance/circltr/2012/cl2012_03.htm' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='NE--NYSDFS--REG--CHA-UTI-REV-STA-SUB' --url='https://www.dfs.ny.gov/insurance/circltr/2015/cl2015_06.htm' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='NE--NYSDFS--REG--IRA-FRE-COU-ACT-2012-COM' --url='https://www.dfs.ny.gov/insurance/circltr/2013/cl2013_06.htm' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='NE--NYSDFS--REG--INC-LOS-COS-CAL-DAM' --url='https://www.dfs.ny.gov/insurance/circltr/2018/cl2018_11.htm' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='NE--NYSDFS--REG--DIS-PLA-PRE-RES-3' --url='https://www.dfs.ny.gov/insurance/circltr/2013/cl2013_04.htm' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='NE--NYSDFS--REG--PAY-FEE-LIF-INS-AGE-BRO' --url='https://www.dfs.ny.gov/insurance/circltr/2018/cl2018_06.htm' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='AU--APRAA--REG--SUP-PRU-STA-GUI-FRE' --url='https://www.apra.gov.au/superannuation-prudential-standards-and-guidance-frequently-asked-questions' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='AU--APRAA--REG--SUP-REP-FRA-FRE-ASK-QUE' --url='https://www.apra.gov.au/superannuation-reporting-framework-frequently-asked-questions' --path='C:\Users\venoli.gamage\Downloads'
 
 # mahidi.maduwage
 npm run scraper -- --sp='CH--SAFES--REG--NOT-MIN-COM-STA-ADM-1' --url='https://www.safe.gov.cn/safe/2006/0602/5526.html' --path='C:\Users\mahidi.maduwage\Downloads\ease'
