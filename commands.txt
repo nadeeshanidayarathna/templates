@@ -607,3 +607,4 @@ npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-113' --url='http://ww
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-122' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FRA2013-2' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='CH--SAFES--REG--NOT-81' --url='https://www.safe.gov.cn/safe/2018/0213/8238.html' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='CH--SAFES--REG--NOT-38' --url='https://www.safe.gov.cn/safe/2017/0404/5430.html' --path='C:\Users\vinoo.jayakody\Downloads\ease'
+npm run scraper -- --sp='CH--SAFES--REG--NOT-26' --url='https://www.safe.gov.cn/safe/2010/1115/5472.html' --path='C:\Users\vinoo.jayakody\Downloads\ease'
