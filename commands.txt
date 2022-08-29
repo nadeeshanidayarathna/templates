@@ -370,6 +370,7 @@ npm run scraper -- --sp='AU--APRAA--REG--AUT-DEP-INS-SUP-LEV' --url='https://www
 npm run scraper -- --sp='AU--AG--REG--FIN-SEC-COL-DAT-TRA' --url='https://www.legislation.gov.au/Details/C2007C00597' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AU--ASICA--REG--ASI-CLA-ORD-CO-13761' --url='https://www.legislation.gov.au/Latest/F2013L01275' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-ADM-FOR-EXC-51' --url='https://www.safe.gov.cn/beijing/2016/0503/505.html' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CH--SAFES--REG--INT-PRO-ADM-DOM-FOR' --url='https://www.safe.gov.cn/safe/1977/0925/5309.html' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
