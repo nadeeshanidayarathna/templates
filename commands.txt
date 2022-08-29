@@ -609,3 +609,4 @@ npm run scraper -- --sp='CH--SAFES--REG--NOT-81' --url='https://www.safe.gov.cn/
 npm run scraper -- --sp='CH--SAFES--REG--NOT-38' --url='https://www.safe.gov.cn/safe/2017/0404/5430.html' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='CH--SAFES--REG--NOT-26' --url='https://www.safe.gov.cn/safe/2010/1115/5472.html' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='CH--SAFES--REG--NOT-76' --url='https://www.safe.gov.cn/safe/2010/0705/5537.html' --path='C:\Users\vinoo.jayakody\Downloads\ease'
+npm run scraper -- --sp='CH--SAFES--REG--SEV' --url='https://www.safe.gov.cn/safe/2009/0907/5433.html' --path='C:\Users\vinoo.jayakody\Downloads\ease'
