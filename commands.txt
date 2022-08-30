@@ -605,6 +605,7 @@ npm run scraper -- --sp='NE--NYSDFS--REG--USE-EXT-CON-DAT-INF' --url='https://ww
 npm run scraper -- --sp='NE--NYSDFS--REG--REP-INT-BAL-FED-TAX' --url='https://www.dfs.ny.gov/insurance/circltr/1975/cl1975_15.htm' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='NE--NYSDFS--REG--MOT-VEH-PHY-DAM-CLA' --url='https://www.dfs.ny.gov/insurance/circltr/1993/cl1993_07.htm' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='NE--NYSDFS--REG--DIS-PLA-PRE-RES-6' --url='https://www.dfs.ny.gov/insurance/circltr/2015/cl2015_05.htm' --path='C:\Users\mahidi.maduwage\Downloads\ease'
+npm run scraper -- --sp='NE--NYSDFS--REG--DIS-PLA-PRE-RES-14' --url='https://www.dfs.ny.gov/insurance/circltr/2008/cl08_03.htm' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='NE--NYSDFS--REG--DIS-PLA-PRE-RES-13' --url='https://www.dfs.ny.gov/insurance/circltr/2008/cl08_01.htm' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='NE--NYSDFS--REG--DIS-PLA-PRE-RES-15' --url='https://www.dfs.ny.gov/insurance/circltr/2011/cl2011_03.htm' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='NE--NYSDFS--REG--FOR-INS-TRA-SER' --url='https://www.dfs.ny.gov/insurance/circltr/2013/cl2013_cl1995_14_s1.htm' --path='C:\Users\mahidi.maduwage\Downloads\ease'
