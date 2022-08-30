@@ -633,6 +633,7 @@ npm run scraper -- --sp='NE--NYSDFS--REG--DIS-PLA-PRE-RES-18' --url='https://www
 npm run scraper -- --sp='NE--NYSDFS--REG--HOM-NAT-DIS-PRE-SAF' --url='https://www.dfs.ny.gov/insurance/circltr/2017/cl2017_03.htm' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='NE--NYSDFS--REG--DIS-PLA-PRE-RES-BY-1' --url='https://www.dfs.ny.gov/insurance/circltr/2017/cl2017_04.htm' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='NE--NYSDFS--REG--RET-PRE-COM-PAI-BAI' --url='https://www.dfs.ny.gov/insurance/circltr/2017/cl2017_13.htm' --path='C:\Users\mahidi.maduwage\Downloads\ease'
+npm run scraper -- --sp='NE--NYSDFS--REG--SAL-WIR-COM-EQU-INS' --url='https://www.dfs.ny.gov/insurance/circltr/2018/cl2018_01.htm' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 
 # vinoo.jayakody
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-SOL-102397' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/advisory-opinion-solganik-10-23-97' --path='C:\Users\vinoo.jayakody\Downloads\ease'
