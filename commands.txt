@@ -383,6 +383,7 @@ npm run scraper -- --sp='CH--SAFES--REG--INT-PRO-MER-ACQ-DOM' --url='https://www
 npm run scraper -- --sp='CH--SAFES--REG--ORD-MIN-COM-GEN-ADM' --url='https://www.safe.gov.cn/safe/2003/1117/5514.html' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='CH--SAFES--REG--NOT-45' --url='https://www.safe.gov.cn/safe/2004/0420/5615.html' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='NO--NG--REG--SEC-EXC-ACT' --url='https://lovdata.no/dokument/NL/lov/2011-11-25-44' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='NO--NG--REG--THE-ACT-INS-PEN' --url='https://lovdata.no/dokument/NL/lov/2013-12-13-106' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
