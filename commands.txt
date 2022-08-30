@@ -594,6 +594,10 @@ npm run scraper -- --sp='NE--NYSDFS--REG--DIS-PLA-PRE-RES-3' --url='https://www.
 npm run scraper -- --sp='NE--NYSDFS--REG--PAY-FEE-LIF-INS-AGE-BRO' --url='https://www.dfs.ny.gov/insurance/circltr/2018/cl2018_06.htm' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='AU--APRAA--REG--SUP-PRU-STA-GUI-FRE' --url='https://www.apra.gov.au/superannuation-prudential-standards-and-guidance-frequently-asked-questions' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='AU--APRAA--REG--SUP-REP-FRA-FRE-ASK-QUE' --url='https://www.apra.gov.au/superannuation-reporting-framework-frequently-asked-questions' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='JE--JFSC--REG--INV-PRE-FRA-JER-LAW-1967' --url='https://www.jerseylaw.je/laws/current/Pages/13.450.aspx' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='JE--JFSC--REG--FIN-SER-BUS-JER-ORD' --url='https://www.jerseylaw.je/laws/current/Pages/13.225.04.aspx' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='JE--JFSC--REG--ALT-INV-FUN-JER-ORD-2013' --url='https://www.jerseylaw.je/laws/current/Pages/17.245.52.aspx' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='JE--JG--REG--FIN-SER-INV-BUS-CLI' --url='https://www.jerseylaw.je/laws/current/Pages/13.225.15.aspx' --path='C:\Users\venoli.gamage\Downloads'
 
 # mahidi.maduwage
 npm run scraper -- --sp='CH--SAFES--REG--NOT-MIN-COM-STA-ADM-1' --url='https://www.safe.gov.cn/safe/2006/0602/5526.html' --path='C:\Users\mahidi.maduwage\Downloads\ease'
