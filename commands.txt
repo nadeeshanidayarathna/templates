@@ -386,6 +386,13 @@ npm run scraper -- --sp='NO--NG--REG--SEC-EXC-ACT' --url='https://lovdata.no/dok
 npm run scraper -- --sp='NO--NG--REG--THE-ACT-INS-PEN' --url='https://lovdata.no/dokument/NL/lov/2013-12-13-106' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='NO--NG--REG--THE-ACT-JUN-2005-PRO' --url='https://lovdata.no/dokument/NL/lov/2015-06-19-65' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='NO--NG--REG--REG-GOV-CRE-AGR-ETC' --url='https://lovdata.no/dokument/SF/forskrift/2010-05-07-654' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--AG--REG--RET-SAV-ACC-PRO-SUP' --url='https://www.legislation.gov.au/Details/C2020C00179' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--APRAA--REG--PRI-HEA-INS-ACT-2007' --url='https://www.legislation.gov.au/Details/C2021C00291' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--APRAA--REG--SUP-IND-MOD-DEC-NO-0' --url='https://www.legislation.gov.au/Details/F2007L04408' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--APRAA--REG--BAN' --url='https://www.legislation.gov.au/Details/F2018L01390' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--ASICA--REG--ASI-MAR-INT-RUL-SEC' --url='https://www.legislation.gov.au/Details/F2019L00728' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--AG--REG--FIN-SEC-TRA-RES-ACT-1999' --url='https://www.legislation.gov.au/Details/C2019C00176' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--AG--REG--INS-ACT-1973' --url='https://www.legislation.gov.au/Details/C2022C00134' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
