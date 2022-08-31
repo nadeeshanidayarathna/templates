@@ -672,3 +672,4 @@ npm run scraper -- --sp='CH--SAFES--REG--INT' --url='https://www.safe.gov.cn/saf
 npm run scraper -- --sp='CH--SAFES--REG--NOT-GEN-AFF-DEP-STA-4' --url='https://www.safe.gov.cn/safe/2007/1008/5341.html' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='CH--SAFES--REG--ORD-NO-2014-PEO-BAN-CHI' --url='https://www.safe.gov.cn/safe/2014/0627/5724.html' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='CH--SAFES--REG--REP' --url='https://www.safe.gov.cn/safe/2004/0325/8850.html' --path='C:\Users\vinoo.jayakody\Downloads\ease'
+npm run scraper -- --sp='IN--RBI--REG--RES-BAN-IND-NOT-REF' --url='https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=18770' --path='C:\Users\vinoo.jayakody\Downloads\ease'
