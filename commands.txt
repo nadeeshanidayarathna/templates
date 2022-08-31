@@ -391,6 +391,7 @@ npm run scraper -- --sp='AU--APRAA--REG--PRI-HEA-INS-ACT-2007' --url='https://ww
 npm run scraper -- --sp='AU--APRAA--REG--SUP-IND-MOD-DEC-NO-0' --url='https://www.legislation.gov.au/Details/F2007L04408' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AU--APRAA--REG--BAN' --url='https://www.legislation.gov.au/Details/F2018L01390' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AU--ASICA--REG--ASI-MAR-INT-RUL-SEC' --url='https://www.legislation.gov.au/Details/F2019L00728' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--AG--REG--FIN-SEC-TRA-RES-ACT-1999' --url='https://www.legislation.gov.au/Details/C2019C00176' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
