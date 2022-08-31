@@ -671,3 +671,4 @@ npm run scraper -- --sp='CH--SAFES--REG--NOT-PEO-BAN-CHI-ISS-0' --url='https://w
 npm run scraper -- --sp='CH--SAFES--REG--INT' --url='https://www.safe.gov.cn/safe/2007/0731/5530.html' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='CH--SAFES--REG--NOT-GEN-AFF-DEP-STA-4' --url='https://www.safe.gov.cn/safe/2007/1008/5341.html' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='CH--SAFES--REG--ORD-NO-2014-PEO-BAN-CHI' --url='https://www.safe.gov.cn/safe/2014/0627/5724.html' --path='C:\Users\vinoo.jayakody\Downloads\ease'
+npm run scraper -- --sp='CH--SAFES--REG--REP' --url='https://www.safe.gov.cn/safe/2004/0325/8850.html' --path='C:\Users\vinoo.jayakody\Downloads\ease'
