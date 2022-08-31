@@ -588,6 +588,7 @@ npm run scraper -- --sp='CH--SAFES--REG--NOT-STA-ADM-FOR-EXC-5' --url='https://w
 npm run scraper -- --sp='UN--FTC--REG--INF-STA-ADV-OPI-072' --url='https://www.ftc.gov/policy/advisory-opinions/informal-staff-advisory-opinion-07-2' --path='C:\Users\sithum.ranabahu\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--INF-STA-ADV-OPI-982' --url='https://www.ftc.gov/policy/advisory-opinions/informal-staff-advisory-opinion-98-2' --path='C:\Users\sithum.ranabahu\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-KIL-072898' --url='https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-kilgo-07-28-98' --path='C:\Users\sithum.ranabahu\Downloads'
+npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-ROS-060998' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/advisory-opinion-rosen-06-09-98' --path='C:\Users\sithum.ranabahu\Downloads'
 
 
 #mohamed.aadil
