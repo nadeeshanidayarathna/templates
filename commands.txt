@@ -387,6 +387,7 @@ npm run scraper -- --sp='NO--NG--REG--THE-ACT-INS-PEN' --url='https://lovdata.no
 npm run scraper -- --sp='NO--NG--REG--THE-ACT-JUN-2005-PRO' --url='https://lovdata.no/dokument/NL/lov/2015-06-19-65' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='NO--NG--REG--REG-GOV-CRE-AGR-ETC' --url='https://lovdata.no/dokument/SF/forskrift/2010-05-07-654' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AU--AG--REG--RET-SAV-ACC-PRO-SUP' --url='https://www.legislation.gov.au/Details/C2020C00179' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--APRAA--REG--PRI-HEA-INS-ACT-2007' --url='https://www.legislation.gov.au/Details/C2021C00291' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
