@@ -718,3 +718,4 @@ npm run scraper -- --sp='CH--SAFES--REG--REP' --url='https://www.safe.gov.cn/saf
 npm run scraper -- --sp='IN--RBI--REG--RES-BAN-IND-NOT-REF' --url='https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=18770' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-LEA-090998' --url='https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-leathers-09-09-98' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-LEE-062698' --url='https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-lee-06-26-98' --path='C:\Users\vinoo.jayakody\Downloads\ease'
+npm run scraper -- --sp='UN--FTC--REG--AGE-ISS-FIN-RUL-ACC' --url='https://www.ftc.gov/news-events/news/press-releases/2009/07/agencies-issue-final-rules-accuracy-credit-report-information-allowing-direct-disputes' --path='C:\Users\vinoo.jayakody\Downloads\ease'
