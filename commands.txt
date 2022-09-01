@@ -399,6 +399,7 @@ npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-132' --url='http://ww
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-131' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FRA2009-7' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-136' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FRA2010-1' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-137' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FRA2010-2' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='MO--MG--REG--LAW-NO-0' --url='https://www.legimonaco.mc/305//legismclois.nsf/ViewTNC/9F50FA4E4CFEF5F9C125773F0037C0ED!OpenDocument' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
