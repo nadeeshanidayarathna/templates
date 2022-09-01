@@ -395,6 +395,7 @@ npm run scraper -- --sp='AU--AG--REG--FIN-SEC-TRA-RES-ACT-1999' --url='https://w
 npm run scraper -- --sp='AU--AG--REG--INS-ACT-1973' --url='https://www.legislation.gov.au/Details/C2022C00134' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-129' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FRA2009-10' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-130' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FRA2009-12' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-132' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FRA2009-3' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
