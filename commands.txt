@@ -607,6 +607,7 @@ npm run scraper -- --sp='UN--FTC--REG--INF-STA-ADV-OPI-982' --url='https://www.f
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-KIL-072898' --url='https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-kilgo-07-28-98' --path='C:\Users\sithum.ranabahu\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-ROS-060998' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/advisory-opinion-rosen-06-09-98' --path='C:\Users\sithum.ranabahu\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-NOV-090998' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/advisory-opinion-novak-09-09-98' --path='C:\Users\sithum.ranabahu\Downloads'
+npm run scraper -- --sp='NE--NYSDFS--REG--AME-NEW-YOR-INS-LAW' --url='https://www.dfs.ny.gov/insurance/circltr/2011/cl2011_09.htm' --path='C:\Users\sithum.ranabahu\Downloads'
 
 #mohamed.aadil
 npm run scraper -- --sp='IS--ISA--REG--ILHRC' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
