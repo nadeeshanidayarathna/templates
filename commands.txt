@@ -719,3 +719,4 @@ npm run scraper -- --sp='IN--RBI--REG--RES-BAN-IND-NOT-REF' --url='https://www.r
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-LEA-090998' --url='https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-leathers-09-09-98' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-LEE-062698' --url='https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-lee-06-26-98' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='UN--FTC--REG--AGE-ISS-FIN-RUL-ACC' --url='https://www.ftc.gov/news-events/news/press-releases/2009/07/agencies-issue-final-rules-accuracy-credit-report-information-allowing-direct-disputes' --path='C:\Users\vinoo.jayakody\Downloads\ease'
+npm run scraper -- --sp='UN--FTC--REG--FTC-STA-WIL-NOT-REC' --url='https://www.ftc.gov/news-events/press-releases/2010/09/ftc-staff-will-not-recommend-agency-challenge-two-new-drug' --path='C:\Users\vinoo.jayakody\Downloads\ease'
