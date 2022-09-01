@@ -715,3 +715,4 @@ npm run scraper -- --sp='CH--SAFES--REG--ORD-NO-2014-PEO-BAN-CHI' --url='https:/
 npm run scraper -- --sp='CH--SAFES--REG--REP' --url='https://www.safe.gov.cn/safe/2004/0325/8850.html' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='IN--RBI--REG--RES-BAN-IND-NOT-REF' --url='https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=18770' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-LEA-090998' --url='https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-leathers-09-09-98' --path='C:\Users\vinoo.jayakody\Downloads\ease'
+npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-LEE-062698' --url='https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-lee-06-26-98' --path='C:\Users\vinoo.jayakody\Downloads\ease'
