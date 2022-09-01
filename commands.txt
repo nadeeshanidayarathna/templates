@@ -590,6 +590,7 @@ npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-174' --url='http://ww
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-175' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2017-21' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-176' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2017-22' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--BGFRS--REG--COL-CHE-OTH-ITE-BY' --url='https://www.federalregister.gov/documents/2022/06/06/2022-11090/collection-of-checks-and-other-items-by-federal-reserve-banks-and-funds-transfers-through-fedwire' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='IN--CDSL--REG--INV-GRI-RED-MEC' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
