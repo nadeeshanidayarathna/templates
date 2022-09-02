@@ -593,6 +593,7 @@ npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-180' --url='http://ww
 npm run scraper -- --sp='SU--EPC--REG--REGULATION-EU-NO' --url='https://eur-lex.europa.eu/eli/reg/2010/1095/' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IN--CBITCC--REG--CLA-RES-TRA-INP-TAX' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IN--CBITCC--REG--CLA-RES-UTI-INP-TAX' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='AR--BCDLRDAB--REG--MON-ACC-INF-REG-CAS' --url='http://www.bcra.gov.ar/Pdfs/comytexord/A7581.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--GUI-DOC-DIS-TRA-PRA' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FRA2015-1' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
