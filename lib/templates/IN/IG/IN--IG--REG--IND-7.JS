@@ -17,6 +17,18 @@ const scraper = async function download(url, sp, path) {
             // 3.Wrap
             await page.waitForSelector(".WordSection1");
             await page.evaluate(function process() {
+                console.log("....................start..............")
+                document.querySelectorAll('span').forEach(elem => console.log(elem.getAttribute('className')));
+                // Array.prototype.forEach.call(document.querySelectorAll(".Level2"), 
+                // function (node) 
+                // { 
+                //     const className = node.getAttribute("localName"); 
+                //     console.log("className : "+className)
+                //     if (className == "Level2") { 
+                //         console.log("true")
+                //         node.setAttribute("className", ""); 
+                        
+                //           } });
                 // #############
                 // # root:info #
                 // #############
@@ -30,6 +42,9 @@ const scraper = async function download(url, sp, path) {
                 wrapElement(document, contentElement, "ease-content");
 
                 // removing unwanted content from ease-content
+
+
+
                 Array.prototype.forEach.call(document.querySelectorAll(".MsoToc1"), function (node) { node.remove(); });
                 return Promise.resolve();
             });
