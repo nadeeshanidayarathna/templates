@@ -404,6 +404,7 @@ npm run scraper -- --sp='IN--RBI--REG--GUI-REC-DUE-REL-NON-0' --url='https://www
 npm run scraper -- --sp='KE--KG--REG--CUS-EXC-ACT' --url='http://www.kenyalaw.org:8181/exist/kenyalex/actview.xql?actid=CAP.%20472' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IN--NSEIL--REG--EMP-BAC-VEN' --url='https://archives.nseindia.com/content/circulars/COMP53088.zip' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='US--DT--REG--OPE-SEC-FUT-ACC-FRO' --url='https://home.treasury.gov/system/files/126/securities_future_accounts_11052008.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='IN--CBITCC--REG--GUI-REC-PRO-UND-SEC' --url='https://cbic-gst.gov.in/pdf/Guidelines-recovery-section-79-CGST-Act-2017.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
