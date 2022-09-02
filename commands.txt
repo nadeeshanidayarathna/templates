@@ -617,6 +617,9 @@ npm run scraper -- --sp='UN--FTC--REG--OPI-952' --url='https://www.google.com/' 
 npm run scraper -- --sp='UN--FTC--REG--OPI-953' --url='https://www.google.com/' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='UN--FTC--REG--OPI-955' --url='https://www.google.com/' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='UN--FTC--REG--OPI-954' --url='https://www.google.com/' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='HO--BCDHB--REG--COM-REG-NEG-ORG-FOR' --url='https://www.google.com/' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='IN--CBITCC--REG--REC-ARR-WRO-AVA-CEN' --url='https://www.google.com/' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='HO--SFC--REG--CIR-LIC-COR-OTC-DER' --url='https://www.google.com/' --path='C:\Users\binuri.perera\Desktop\NewIX'
 
 #venoli.gamage
 npm run scraper -- --sp='GR--BG--REG--DEC-CRE-ISS' --url='https://www.google.com/' --path='C:\Users\venoli.gamage\Downloads'
