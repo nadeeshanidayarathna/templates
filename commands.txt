@@ -402,6 +402,10 @@ npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-137' --url='http://ww
 npm run scraper -- --sp='MO--MG--REG--LAW-NO-0' --url='https://www.legimonaco.mc/305//legismclois.nsf/ViewTNC/9F50FA4E4CFEF5F9C125773F0037C0ED!OpenDocument' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IN--RBI--REG--GUI-REC-DUE-REL-NON-0' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=293&Mode=0' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='KE--KG--REG--CUS-EXC-ACT' --url='http://www.kenyalaw.org:8181/exist/kenyalex/actview.xql?actid=CAP.%20472' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='IN--NSEIL--REG--EMP-BAC-VEN' --url='https://archives.nseindia.com/content/circulars/COMP53088.zip' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='US--DT--REG--OPE-SEC-FUT-ACC-FRO' --url='https://home.treasury.gov/system/files/126/securities_future_accounts_11052008.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='IN--CBITCC--REG--GUI-REC-PRO-UND-SEC' --url='https://cbic-gst.gov.in/pdf/Guidelines-recovery-section-79-CGST-Act-2017.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='IN--CBITCC--REG--CLA-REG-FIL-APP-REV' --url='https://cbic-gst.gov.in/pdf/Circular-99-18-2019-GST.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
