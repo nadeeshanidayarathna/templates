@@ -588,7 +588,11 @@ npm run scraper -- --sp='CA--CG--REG--EMP-STA-ACT-2000' --url='https://www.ontar
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-170' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2017-13' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-171' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2017-14' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-172' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2017-17' --path='C:\Users\prabodha.lahiru\Downloads'
-npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-173' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2017-18' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='IN--IG--REG--IND-7' --url='https://www.in.gov/courts/rules/trial_proc/index.html' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-180' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2018-13' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='SU--EPC--REG--REGULATION-EU-NO' --url='https://eur-lex.europa.eu/eli/reg/2010/1095/' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='IN--CBITCC--REG--CLA-RES-TRA-INP-TAX' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='IN--CBITCC--REG--CLA-RES-UTI-INP-TAX' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
@@ -600,6 +604,7 @@ npm run scraper -- --sp='UN--FTC--REG--INF-STA-ADV-OPI-982' --url='https://www.f
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-KIL-072898' --url='https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-kilgo-07-28-98' --path='C:\Users\sithum.ranabahu\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-ROS-060998' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/advisory-opinion-rosen-06-09-98' --path='C:\Users\sithum.ranabahu\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-NOV-090998' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/advisory-opinion-novak-09-09-98' --path='C:\Users\sithum.ranabahu\Downloads'
+npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-NAD-121098' --url='https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-nadell-12-10-98' --path='C:\Users\sithum.ranabahu\Downloads'
 
 #mohamed.aadil
 npm run scraper -- --sp='IS--ISA--REG--ILHRC' --url='https://www.google.com/' --path='C:\Users\mohamed.aadil\Documents\Projects\EaseOutput'
@@ -626,6 +631,11 @@ npm run scraper -- --sp='SO--SARB--REG--REG-REL-BAN' --url='https://www.google.c
 npm run scraper -- --sp='SL--SL--REG--BUD-REL' --url='https://www.google.com/' --path='C:\Users\binuri.perera\Downloads'
 npm run scraper -- --sp='SA--GOFSI--REG--DEC-AFF' --url='https://gosi.gov.sa/GOSIOnline/Regulations_for_the_implementation' --path='C:\Users\binuri.perera\Downloads'
 npm run scraper -- --sp='SA--GSA--REG--ACC-VAL-LAW' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/cad66e4d-38d3-4baa-8049-a9a700f1e7a8/1#:~:text=%D9%85%D8%B1%D8%B3%D9%88%D9%85%20%D9%85%D9%84%D9%83%D9%8A%20%D8%B1%D9%82%D9%85%20%D9%85%20%2F%2043%20%D8%A8%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%209%20%2F%207%20%2F%201433,-%D8%A8%D8%B9%D9%88%D9%86%20%D8%A7%D9%84%D9%84%D9%87%20%D8%AA%D8%B9%D8%A7%D9%84%D9%89&text=%D8%A8%D9%86%D8%A7%D8%A1%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%85%D8%A7%D8%AF%D8%A9%20(%D8%A7%D9%84%D8%B3%D8%A8%D8%B9%D9%8A%D9%86)%20%D9%85%D9%86,%D8%A8%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D9%A3%20%2F%20%D9%A3%20%2F%20%D9%A1%D9%A4%D9%A1%D9%A4%D9%87%D9%80.' --path='C:\Users\binuri.perera\Downloads'
+npm run scraper -- --sp='UN--FTC--REG--OPI-101-0' --url='https://www.google.com/' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='UN--FTC--REG--OPI-952' --url='https://www.google.com/' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='UN--FTC--REG--OPI-953' --url='https://www.google.com/' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='UN--FTC--REG--OPI-955' --url='https://www.google.com/' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='UN--FTC--REG--OPI-954' --url='https://www.google.com/' --path='C:\Users\binuri.perera\Desktop\NewIX'
 
 #venoli.gamage
 npm run scraper -- --sp='GR--BG--REG--DEC-CRE-ISS' --url='https://www.google.com/' --path='C:\Users\venoli.gamage\Downloads'
@@ -641,6 +651,12 @@ npm run scraper -- --sp='NE--NYSDFS--REG--DIS-PLA-PRE-RES-3' --url='https://www.
 npm run scraper -- --sp='NE--NYSDFS--REG--PAY-FEE-LIF-INS-AGE-BRO' --url='https://www.dfs.ny.gov/insurance/circltr/2018/cl2018_06.htm' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='AU--APRAA--REG--SUP-PRU-STA-GUI-FRE' --url='https://www.apra.gov.au/superannuation-prudential-standards-and-guidance-frequently-asked-questions' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='AU--APRAA--REG--SUP-REP-FRA-FRE-ASK-QUE' --url='https://www.apra.gov.au/superannuation-reporting-framework-frequently-asked-questions' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='NE--NYSDFS--REG--APP-GUI-PRO-COM-WIT' --url='https://www.dfs.ny.gov/insurance/circltr/2002/cl02_25.htm' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='NE--NYSDFS--REG--DIS-PLA-PRE-RES-5' --url='https://www.dfs.ny.gov/insurance/circltr/2006/cl06_04.htm' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='NE--NYSDFS--REG--CHA-748-LAW-2006-TIM-0' --url='https://www.dfs.ny.gov/insurance/circltr/2007/cl07_03.htm' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='NE--NYSDFS--REG--CHA-748-LAW-2006-TIM-1' --url='https://www.dfs.ny.gov/insurance/circltr/2007/cl07_03s1.htm' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='NE--NYSDFS--REG--DIS-PLA-PRE-RES-12' --url='https://www.dfs.ny.gov/insurance/circltr/2007/cl07_04.htm' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='NE--NYSDFS--REG--DIS-PLA-PRE-RES-10' --url='https://www.dfs.ny.gov/insurance/circltr/2007/cl07_07.htm' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='JE--JFSC--REG--INV-PRE-FRA-JER-LAW-1967' --url='https://www.jerseylaw.je/laws/current/Pages/13.450.aspx' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='JE--JFSC--REG--FIN-SER-BUS-JER-ORD' --url='https://www.jerseylaw.je/laws/current/Pages/13.225.04.aspx' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='JE--JFSC--REG--ALT-INV-FUN-JER-ORD-2013' --url='https://www.jerseylaw.je/laws/current/Pages/17.245.52.aspx' --path='C:\Users\venoli.gamage\Downloads'
@@ -672,6 +688,7 @@ npm run scraper -- --sp='NE--NYSDFS--REG--PLA-COV-WIT-UNA-INS' --url='https://ww
 npm run scraper -- --sp='NE--NYSDFS--REG--RES-REQ-CON-INT-RAT' --url='https://www.dfs.ny.gov/insurance/circltr/1980/cl1980_17_w.htm' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='NE--NYSDFS--REG--EVI-TIT-REA-EST' --url='https://www.dfs.ny.gov/insurance/circltr/1970/cl1970_12_w.htm' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='NE--NYSDFS--REG--DEV-FRO-RAT-ORG-SEC' --url='https://www.dfs.ny.gov/insurance/circltr/1963/cl1963_01_w.htm' --path='C:\Users\mahidi.maduwage\Downloads\ease'
+npm run scraper -- --sp='NE--NYSDFS--REG--BES-PRA-FIN-GUA-INS' --url='https://www.dfs.ny.gov/insurance/circltr/2008/cl08_19.htm' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 
 # vinoo.jayakody
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-SOL-102397' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/advisory-opinion-solganik-10-23-97' --path='C:\Users\vinoo.jayakody\Downloads\ease'
@@ -699,3 +716,8 @@ npm run scraper -- --sp='CH--SAFES--REG--NOT-GEN-AFF-DEP-STA-4' --url='https://w
 npm run scraper -- --sp='CH--SAFES--REG--ORD-NO-2014-PEO-BAN-CHI' --url='https://www.safe.gov.cn/safe/2014/0627/5724.html' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='CH--SAFES--REG--REP' --url='https://www.safe.gov.cn/safe/2004/0325/8850.html' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='IN--RBI--REG--RES-BAN-IND-NOT-REF' --url='https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=18770' --path='C:\Users\vinoo.jayakody\Downloads\ease'
+npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-LEA-090998' --url='https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-leathers-09-09-98' --path='C:\Users\vinoo.jayakody\Downloads\ease'
+npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-LEE-062698' --url='https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-lee-06-26-98' --path='C:\Users\vinoo.jayakody\Downloads\ease'
+npm run scraper -- --sp='UN--FTC--REG--AGE-ISS-FIN-RUL-ACC' --url='https://www.ftc.gov/news-events/news/press-releases/2009/07/agencies-issue-final-rules-accuracy-credit-report-information-allowing-direct-disputes' --path='C:\Users\vinoo.jayakody\Downloads\ease'
+npm run scraper -- --sp='UN--FTC--REG--FTC-STA-WIL-NOT-REC' --url='https://www.ftc.gov/news-events/press-releases/2010/09/ftc-staff-will-not-recommend-agency-challenge-two-new-drug' --path='C:\Users\vinoo.jayakody\Downloads\ease'
+npm run scraper -- --sp='IN--CBITCC--REG--GUI-DIS-DEB-ELE-CRE' --url='https://www.google.com/' --path='C:\Users\vinoo.jayakody\Downloads\ease'
