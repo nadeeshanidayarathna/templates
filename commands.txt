@@ -616,6 +616,7 @@ npm run scraper -- --sp='IN--CBITCC--REG--CLA-RES-APP-INP-TAX' --url='https://cb
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-181' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2018-14' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-182' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2018-28' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SU--EPC--REG--REGULATION-EU-NO' --url='https://eur-lex.europa.eu/eli/reg/2010/1095/' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='SU--EBA--REG--ON-DAT-COL-EXE-REG' --url='https://www.eba.europa.eu/sites/default/documents/files/document_library/Publications/Guidelines/2022/EBA-GL-2022-08%20GL%20on%20high%20earners/1036477/Final%20report%20on%20GLs%20on%20the%20high%20earner%20data%20collections%20under%20CRD%20and%20IFD.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
