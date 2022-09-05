@@ -597,7 +597,7 @@ npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-174' --url='http://ww
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-175' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2017-21' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-176' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2017-22' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IN--CDSL--REG--INV-GRI-RED-MEC' --url='https://www.cdslindia.com/common/DownLoadFile.aspx?eventid=DP2022-468&action=communique' --path='C:\Users\prabodha.lahiru\Downloads'
-npm run scraper -- --sp='DO--SDBDLRDS--REG--INS-TOO-ATT-PUB-AT-HEA' --url='https://www.google.com/' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='DO--SDBDLRDS--REG--INS-TOO-ATT-PUB-AT-HEA' --url='https://sb.gob.do/media/ottckrmf/carta-circular-sb-num-008-22-instructivo-sobre-instrumentos-de-captacion-del-publico-en-vistas-publicas-signed.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-177' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2017-8' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-178' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2017-9' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-179' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2018-12' --path='C:\Users\prabodha.lahiru\Downloads'
