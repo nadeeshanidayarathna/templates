@@ -680,6 +680,11 @@ npm run scraper -- --sp='UN--FTC--REG--TEX-COM-ADV-OPI' --url='https://www.ftc.g
 npm run scraper -- --sp='SI--MASM--REG--EXE-ISS-UND-S337-SFA-1Q2015' --url='http://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Securities%20Futures%20and%20Fund%20Management/Exemptions/Exemptions%20issued%20under%20s3372%20SFA%20%201Q2015.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='SI--MASM--REG--EXE-ISS-UND-S337-SFA-2Q2013' --url='http://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Securities%20Futures%20and%20Fund%20Management/Exemptions/Exemptions%20issued%20under%20s3372%20SFA%20%202Q2013.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='SI--MASM--REG--EXE-ISS-UND-S337-SFA-2Q2015' --url='http://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Securities%20Futures%20and%20Fund%20Management/Exemptions/Exemptions%20issued%20under%20s3372%20SFA%20%202Q2015.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='IN--BSEIL--REG--STA-EXC-MEM-INT-END-0' --url='https://www.bseindia.com/markets/MarketInfo/DispNewNoticesCirculars.aspx?page=20220812-47' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='IN--BSEIL--REG--STA-EXC-MEM-INT-END' --url='https://www.bseindia.com/markets/MarketInfo/DispNewNoticesCirculars.aspx?page=20220812-46' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='IN--BSEIL--REG--STA-EXC-MEM-INT-END-1' --url='https://www.bseindia.com/markets/MarketInfo/DispNewNoticesCirculars.aspx?page=20220812-48' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='SP--AEDPDD--REG--LIS-TYP-DAT-PRO-THA' --url='https://www.aepd.es/es/documento/listas-dpia-es-35-4.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='UN--OCCO--REG--ACT-COM-CUR-MIC-J' --url='https://www.occ.gov/news-issuances/news-releases/2022/nr-occ-2022-54.html' --path='C:\Users\binuri.perera\Desktop\NewIX'
 
 #venoli.gamage
 npm run scraper -- --sp='GR--BG--REG--DEC-CRE-ISS' --url='https://www.google.com/' --path='C:\Users\venoli.gamage\Downloads'
