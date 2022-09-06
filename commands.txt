@@ -410,6 +410,7 @@ npm run scraper -- --sp='FR--MEFR--REG--AUS-TRA-REP-ANA-CEN' --url='https://www.
 npm run scraper -- --sp='AU--ATRACA--REG--AUS-TRA-REP-ANA-CEN-0' --url='https://www.legislation.gov.au/Latest/C2016C00290' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AU--DHA--REG--CON-DAT-RIG-ENE-SEC' --url='https://www.legislation.gov.au/Latest/F2020L00833' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='PE--PG--REG--SUP-DEC-THA-APP-REG' --url='https://busquedas.elperuano.pe/normaslegales/decreto-supremo-que-aprueba-el-reglamento-de-la-ley-n-31362-decreto-supremo-n-120-2022-ef-2076849-4/' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='FR--FG--REG--DEC-NO-2022814-MAY-2022' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000045802934?dateVersion=19/05/2022' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
