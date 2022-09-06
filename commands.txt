@@ -416,6 +416,7 @@ npm run scraper -- --sp='FR--MLEI--REG--LAW-N-2022172-FEB-2022' --url='https://w
 npm run scraper -- --sp='FR--FG--REG--ORD-FEB-2021-CRE-COM' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043261338/2021-09-02' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='FR--FG--REG--ORD-DEC-2021-AUT-IMP' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044559727?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='FR--FG--REG--ORD-NO-20211652-DEC-2021' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044500982?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='FR--FG--REG--LAW-N-20211774-DEC-2021' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044559192?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
