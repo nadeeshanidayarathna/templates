@@ -766,6 +766,7 @@ npm run scraper -- --sp='NE--NYSDFS--REG--BEN-IND-GRO-BLA-ACC' --url='https://ww
 npm run scraper -- --sp='DO--SDBDLRDS--REG--AME-SUP-BAN-ORI-RIS' --url='https://sb.gob.do/media/zdvjkpcm/circular-sb-num-012-22-sobre-eliminacion-de99-signed.pdf' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='IN--RBI--REG--KNO-YOU-CUS-GUI' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=1629&Mode=0' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='IN--RBI--REG--KNO-YOU-CUS-GUI-0' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=1651&Mode=0' --path='C:\Users\mahidi.maduwage\Downloads\ease'
+npm run scraper -- --sp='IN--RBI--REG--INT-RAT-DER' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=2270&Mode=0' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 
 # vinoo.jayakody
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-SOL-102397' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/advisory-opinion-solganik-10-23-97' --path='C:\Users\vinoo.jayakody\Downloads\ease'
