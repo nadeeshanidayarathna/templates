@@ -792,3 +792,4 @@ npm run scraper -- --sp='UN--FTC--REG--AGE-ISS-FIN-RUL-ACC' --url='https://www.f
 npm run scraper -- --sp='UN--FTC--REG--FTC-STA-WIL-NOT-REC' --url='https://www.ftc.gov/news-events/press-releases/2010/09/ftc-staff-will-not-recommend-agency-challenge-two-new-drug' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='IN--CBITCC--REG--GUI-DIS-DEB-ELE-CRE' --url='https://www.google.com/' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='UN--USECS--REG--SEC-CHA-ALL-GLO-INV' --url='https://www.sec.gov/news/press-release/2022-84' --path='C:\Users\vinoo.jayakody\Downloads\ease'
+npm run scraper -- --sp='AU--TRE--REG--THE-AUS-GUI-ELE-COM' --url='https://treasury.gov.au/publication/the-australian-guidelines-for-electronic-commerce/the-australian-guidelines-for-electronic-commerce' --path='C:\Users\vinoo.jayakody\Downloads\ease'
