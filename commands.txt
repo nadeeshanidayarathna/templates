@@ -421,6 +421,7 @@ npm run scraper -- --sp='FR--MEFR--REG--ORD-DEC-2021-PUR-ART' --url='https://www
 npm run scraper -- --sp='UN--DJ--REG--BES-PRA-REC-HIR-WOR' --url='https://www.justice.gov/crt/best-practices-recruiting-and-hiring-workers' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='BR--BCDBB--REG--COM-UPD-VER-504-SFN' --url='https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Comunicado&numero=38963' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='VI--SBV--REG--CIR-NO-052022TTNHNN-ANN-NUM' --url='https://vbpl.vn/nganhangnhanuoc/Pages/vbpq-toanvan.aspx?ItemID=154460' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--ATRACA--REG--CAR-OUT-APP-CUS-IDE' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/carrying-out-applicable-customer-identification-after-commencing-open-bank-account' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
