@@ -727,6 +727,12 @@ npm run scraper -- --sp='IN--BSEIL--REG--STA-EXC-MEM-INT-END' --url='https://www
 npm run scraper -- --sp='IN--BSEIL--REG--STA-EXC-MEM-INT-END-1' --url='https://www.bseindia.com/markets/MarketInfo/DispNewNoticesCirculars.aspx?page=20220812-48' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='SP--AEDPDD--REG--LIS-TYP-DAT-PRO-THA' --url='https://www.aepd.es/es/documento/listas-dpia-es-35-4.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='UN--OCCO--REG--ACT-COM-CUR-MIC-J' --url='https://www.occ.gov/news-issuances/news-releases/2022/nr-occ-2022-54.html' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='AU--ACCCA--REG--MEM-UND-ANT-COO-BET' --url='https://www.accc.gov.au/system/files/Memorandum%20of%20understanding%20in%20anti-monopoly%20cooperation%20between%20the%20Australian%20Competition%20%26%20Consumer%20Commission%20and%20the%20Ministry%20of%20Commerce%20of%20the%20People%E2%80%99s%20Republic%20of%20China%20-%20English%20version.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='AU--ACCCA--REG--COO-AGR-BET-COM-CAN' --url='https://www.accc.gov.au/system/files/Cooperation%20agreement%20between%20the%20CC%2C%20the%20ACCC%20%26%20NZCC%20regarding%20the%20application%20of%20their%20competition%20%26%20consumer%20laws.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='BR--BCDBB--REG--IT-PRO-HIR-COR-COU' --url='https://www.in.gov.br/en/web/dou/-/resolucao-cmn-n-4.935-de-29-de-julho-de-2021-335456670' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='CO--BDLR--REG--REG-CIR-DCIP83-AUG-2022' --url='https://www.banrep.gov.co/es/normatividad/boletines-junta-directiva/43-2022' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='SR--CBSLC--REG--ADD-BAN-ACT-DIR-NO' --url='https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/laws/cdg/Banking_Act_Directions_No_6_of_2022.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+
 
 #venoli.gamage
 npm run scraper -- --sp='GR--BG--REG--DEC-CRE-ISS' --url='https://www.google.com/' --path='C:\Users\venoli.gamage\Downloads'
