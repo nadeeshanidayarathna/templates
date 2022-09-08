@@ -787,6 +787,7 @@ npm run scraper -- --sp='IN--RBI--REG--KNO-YOU-CUS-KYC-GUI-6' --url='https://www
 npm run scraper -- --sp='IN--RBI--REG--KNO-YOU-CUS-KYC-GUI-1' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=9700&Mode=0' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='IN--RBI--REG--KNO-YOU-CUS-KYC-NOR-4' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=3552' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='IN--RBI--REG--KNO-YOU-CUS-KYC-NOR-5' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=3415' --path='C:\Users\mahidi.maduwage\Downloads\ease'
+npm run scraper -- --sp='IN--RBI--REG--SEC-QUA-REV-MON-POL' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=6983' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 
 # vinoo.jayakody
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-SOL-102397' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/advisory-opinion-solganik-10-23-97' --path='C:\Users\vinoo.jayakody\Downloads\ease'
