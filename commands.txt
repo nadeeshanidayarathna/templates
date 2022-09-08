@@ -424,6 +424,7 @@ npm run scraper -- --sp='VI--SBV--REG--CIR-NO-052022TTNHNN-ANN-NUM' --url='https
 npm run scraper -- --sp='AU--ATRACA--REG--CAR-OUT-APP-CUS-IDE' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/carrying-out-applicable-customer-identification-after-commencing-open-bank-account' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--FR--REG--FAL-ADV-MIS-INS-STA' --url='https://www.federalregister.gov/documents/2022/06/02/2022-10903/false-advertising-misrepresentation-of-insured-status-and-misuse-of-the-fdics-name-or-logo' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--FR--REG--APP-B-GUI-REV-COM' --url='https://www.federalregister.gov/documents/2013/06/17/2013-14323/appendix-b-guidelines-for-reviewing-applications-for-compensation-and-reimbursement-of-expenses' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='FR--MLEI--REG--ON-CRE-IMP-PER-DAT-0' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044177120?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
