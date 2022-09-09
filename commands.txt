@@ -837,3 +837,4 @@ npm run scraper -- --sp='UN--USECS--REG--SEC-CHA-ALL-GLO-INV' --url='https://www
 npm run scraper -- --sp='AU--TRE--REG--THE-AUS-GUI-ELE-COM' --url='https://treasury.gov.au/publication/the-australian-guidelines-for-electronic-commerce/the-australian-guidelines-for-electronic-commerce' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='IN--RBI--REG--GUI-TRA-CUR-FUT-REC-0' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=4410' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='IN--RBI--REG--LIQ-RIS-MAN-SYS-TIE' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=4475' --path='C:\Users\vinoo.jayakody\Downloads\ease'
+npm run scraper -- --sp='CA--CG--REG--CAN-PAY-ASS-MEM-REQ-REG' --url='https://laws.justice.gc.ca/eng/regulations/SOR-2001-476/FullText.html' --path='C:\Users\vinoo.jayakody\Downloads\ease'
