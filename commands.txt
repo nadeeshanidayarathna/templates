@@ -732,6 +732,11 @@ npm run scraper -- --sp='AU--ACCCA--REG--COO-AGR-BET-COM-CAN' --url='https://www
 npm run scraper -- --sp='BR--BCDBB--REG--IT-PRO-HIR-COR-COU' --url='https://www.in.gov.br/en/web/dou/-/resolucao-cmn-n-4.935-de-29-de-julho-de-2021-335456670' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='CO--BDLR--REG--REG-CIR-DCIP83-AUG-2022' --url='https://www.banrep.gov.co/es/normatividad/boletines-junta-directiva/43-2022' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='SR--CBSLC--REG--ADD-BAN-ACT-DIR-NO' --url='https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/laws/cdg/Banking_Act_Directions_No_6_of_2022.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='CO--BDLR--REG--VAL-REA-UNI-UVR-FOR' --url='https://www.banrep.gov.co/sites/default/files/reglamentacion/archivos/Bolet%C3%ADn%20n%C3%BAmero%2042.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='SR--CBSLC--REG--SUS-FIN-ACT-LIC-BAN' --url='https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/laws/cdg/Banking_Act_Directions_No_5_of_2022.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='SI--MASM--REG--EXE-ISS-UND-S337-SFA-3Q2016' --url='https://www.banrep.gov.co/sites/default/files/reglamentacion/archivos/Bolet%C3%ADn%20n%C3%BAmero%2042.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='SI--MASM--REG--EXE-ISS-UND-S337-SFA-3Q2015' --url='http://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Securities%20Futures%20and%20Fund%20Management/Exemptions/Exemptions%20issued%20under%20s3372%20SFA%20%203Q2015.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='AU--AG--REG--AGR-BET-GOV-AUS-UNI' --url='https://www.accc.gov.au/system/files/Agreement%20between%20the%20Government%20of%20Australia%20%26%20the%20Government%20of%20the%20United%20States%20of%20America%20relating%20to%20cooperation%20on%20antitrust%20matters.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
 
 
 #venoli.gamage
