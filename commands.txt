@@ -776,3 +776,7 @@ npm run scraper -- --sp='UN--USECS--REG--SEC-CHA-ALL-GLO-INV' --url='https://www
 
 #Manisha
 npm run scraper -- --sp='UK--UG--REG--DGF-DEC-ABO-ORD-WHI' --url='https://zakon.rada.gov.ua/laws/show/en/z1314-12#Text' --path='C:\Users\manisha.meganathan\Documents\ease'
+
+
+#Gayathri
+npm run scraper -- --sp='UN--USECS--REG--COM-GUI-REG-MAN-DIS' --url='https://www.sec.gov/rules/interp/33-8350.htm' --path='C:\Users\gayathri.udara\Downloads\ease'
