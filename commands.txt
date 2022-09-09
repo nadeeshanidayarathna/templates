@@ -838,3 +838,4 @@ npm run scraper -- --sp='AU--TRE--REG--THE-AUS-GUI-ELE-COM' --url='https://treas
 npm run scraper -- --sp='IN--RBI--REG--GUI-TRA-CUR-FUT-REC-0' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=4410' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='IN--RBI--REG--LIQ-RIS-MAN-SYS-TIE' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=4475' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='CA--CG--REG--CAN-PAY-ASS-MEM-REQ-REG' --url='https://laws.justice.gc.ca/eng/regulations/SOR-2001-476/FullText.html' --path='C:\Users\vinoo.jayakody\Downloads\ease'
+npm run scraper -- --sp='FR--MEFR--REG--FIL-BAN-SIM-ACC-FIC' --url='https://www.impots.gouv.fr/banques' --path='C:\Users\vinoo.jayakody\Downloads\ease'
