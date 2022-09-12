@@ -696,6 +696,7 @@ npm run scraper -- --sp='DE--DG--REG--BEK-3' --url='https://www.retsinformation.
 npm run scraper -- --sp='DE--DG--REG--BEK-4' --url='https://www.retsinformation.dk/Forms/R0710.aspx?id=177565' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='DE--DG--REG--LBK-13' --url='https://www.retsinformation.dk/Forms/R0710.aspx?id=143107' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='DE--DG--REG--LAW' --url='https://www.retsinformation.dk/Forms/R0710.aspx?id=30249' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='DE--DG--REG--LBK-14' --url='https://www.retsinformation.dk/Forms/R0710.aspx?id=137042' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
