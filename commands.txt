@@ -448,6 +448,7 @@ npm run scraper -- --sp='BR--FICBC--REG--BUL-NUM-INS10005-INT-RAT-RIS' --url='ht
 npm run scraper -- --sp='BR--FICBC--REG--ADV-NUM-INS15001-REG-CHA' --url='https://www.bcfsa.ca/media/1461/download' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='BR--FICBC--REG--BUL-NUM-INS15002-PUR-IS' --url='https://www.bcfsa.ca/media/1462/download' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='BR--FICBC--REG--REG-STA-NUM-INS18001-OBT' --url='https://www.bcfsa.ca/media/1464/download' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='BR--FICBC--REG--REG-STA-NUM-INS18003-AME' --url='https://www.bcfsa.ca/media/1466/download' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
