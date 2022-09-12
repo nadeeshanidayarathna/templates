@@ -737,7 +737,17 @@ npm run scraper -- --sp='SR--CBSLC--REG--SUS-FIN-ACT-LIC-BAN' --url='https://www
 npm run scraper -- --sp='SI--MASM--REG--EXE-ISS-UND-S337-SFA-3Q2016' --url='https://www.banrep.gov.co/sites/default/files/reglamentacion/archivos/Bolet%C3%ADn%20n%C3%BAmero%2042.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='SI--MASM--REG--EXE-ISS-UND-S337-SFA-3Q2015' --url='http://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Securities%20Futures%20and%20Fund%20Management/Exemptions/Exemptions%20issued%20under%20s3372%20SFA%20%203Q2015.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='AU--AG--REG--AGR-BET-GOV-AUS-UNI' --url='https://www.accc.gov.au/system/files/Agreement%20between%20the%20Government%20of%20Australia%20%26%20the%20Government%20of%20the%20United%20States%20of%20America%20relating%20to%20cooperation%20on%20antitrust%20matters.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
-
+npm run scraper -- --sp='DO--SDMDVS--REG--EXC-FRO-COR-BON-PRO' --url='https://simv.gob.do/download/95/siv/10478/r-simv-2022-23-ev.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='DO--SDMDVS--REG--RES-EST-TRA-MEA-MIT' --url='https://simv.gob.do/download/95/siv/10176/r-ne-simv-2022-01-mv.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='AU--ACCCA--REG--MEM-UND-BET-COM-FIJ' --url='https://www.accc.gov.au/system/files/Memorandum%20of%20understanding%20between%20the%20CC%20of%20the%20Fiji%20Islands%20%26%20the%20ACCC.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='AU--ACCCA--REG--MEM-UND-BET-COM-IND' --url='https://www.accc.gov.au/system/files/Memorandum%20of%20understanding%20between%20the%20Competition%20Commission%20of%20India%20and%20the%20Australian%20Competition%20%26%20Consumer%20Commission%20%E2%80%93%202013.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='SR--MFSLM--REG--FOR-EXC-INV-COL-POR' --url='http://www.documents.gov.lk/files/egz/2022/6/2282-59_E.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='SR--CBSLC--REG--DIR-ISS-AUT-DEA-BUS' --url='https://www.dfe.lk/web/images/rdevelopment/c0786d589dfaae081ab964180b02abe8-Directions-9.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='UN--DJ--REG--IER-INF-EMP-HOW-AVO' --url='https://www.justice.gov/crt/page/file/1132616/download' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='UN--DJ--REG--UND-INA-ANT-PRO' --url='https://www.justice.gov/crt/page/file/1132636/download' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='UN--DJ--REG--INS-COM-CHA-FEE-APP' --url='https://www.justice.gov/file/1204771/download' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='BR--BNDDEESB--REG--PRO-CAP-CRE-COO-BND' --url='https://www.bndes.gov.br/wps/wcm/connect/site/09ef166c-ce18-4df7-85f6-a623edb474e4/22Cir43+BNDES+PROCAPCRED+%282%29.pdf?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7QGCHA41LORVA0AHO1SIO51085-09ef166c-ce18-4df7-85f6-a623edb474e4-oaDUe3u' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='BR--FICBC--REG--REG-STA-NUM-22001-PAR' --url='https://www.bcfsa.ca/media/2780/download' --path='C:\Users\binuri.perera\Desktop\NewIX'
 
 #venoli.gamage
 npm run scraper -- --sp='GR--BG--REG--DEC-CRE-ISS' --url='https://www.google.com/' --path='C:\Users\venoli.gamage\Downloads'
