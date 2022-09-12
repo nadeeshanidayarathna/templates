@@ -444,6 +444,7 @@ npm run scraper -- --sp='FR--MEFR--REG--AME-ANN-DEC-MAY-2016' --url='https://www
 npm run scraper -- --sp='FR--MJ--REG--AUT-IMP-PRO-PER-DAT' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044239356?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='FR--MLEI--REG--ON-CRE-IMP-PER-DAT' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044223302?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='BR--FICBC--REG--BUL-NUM-INS13002-STO-PRO' --url='https://www.bcfsa.ca/media/1458/download' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='BR--FICBC--REG--BUL-NUM-INS10005-INT-RAT-RIS' --url='https://www.bcfsa.ca/media/1442/download' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
