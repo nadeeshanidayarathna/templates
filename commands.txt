@@ -406,7 +406,7 @@ npm run scraper -- --sp='IN--NSEIL--REG--EMP-BAC-VEN' --url='https://archives.ns
 npm run scraper -- --sp='US--DT--REG--OPE-SEC-FUT-ACC-FRO' --url='https://home.treasury.gov/system/files/126/securities_future_accounts_11052008.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IN--CBITCC--REG--GUI-REC-PRO-UND-SEC' --url='https://cbic-gst.gov.in/pdf/Guidelines-recovery-section-79-CGST-Act-2017.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IN--CBITCC--REG--CLA-REG-FIL-APP-REV' --url='https://cbic-gst.gov.in/pdf/Circular-99-18-2019-GST.pdf' --path='C:\Users\raveendran.pira\Downloads'
-npm run scraper -- --sp='FR--MEFR--REG--AUS-TRA-REP-ANA-CEN' --url='https://www.legislation.gov.au/Latest/C2014C00763' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--ATRACA--REG--ATRAC-2011' --url='https://www.legislation.gov.au/Latest/C2014C00763' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AU--ATRACA--REG--AUS-TRA-REP-ANA-CEN-0' --url='https://www.legislation.gov.au/Latest/C2016C00290' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AU--DHA--REG--CON-DAT-RIG-ENE-SEC' --url='https://www.legislation.gov.au/Latest/F2020L00833' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='PE--PG--REG--SUP-DEC-THA-APP-REG' --url='https://busquedas.elperuano.pe/normaslegales/decreto-supremo-que-aprueba-el-reglamento-de-la-ley-n-31362-decreto-supremo-n-120-2022-ef-2076849-4/' --path='C:\Users\raveendran.pira\Downloads'
