@@ -450,6 +450,7 @@ npm run scraper -- --sp='BR--FICBC--REG--BUL-NUM-INS15002-PUR-IS' --url='https:/
 npm run scraper -- --sp='BR--FICBC--REG--REG-STA-NUM-INS18001-OBT' --url='https://www.bcfsa.ca/media/1464/download' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='BR--FICBC--REG--REG-STA-NUM-INS18003-AME' --url='https://www.bcfsa.ca/media/1466/download' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='BR--FICBC--REG--REG-STA-NUM-INS18004-APP' --url='https://www.bcfsa.ca/media/1467/download' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='FR--MD--REG--MOD-LAR-DU-SEP-2020' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043244078?datePublication=&dateSignature=&dateVersion=19%2F05%2F2022&isAdvancedResult=&nature=ARRETE&nature=DECRET&nature=LOI&nature=ORDONNANCE&page=61&pageSize=100&query=*&searchField=ALL&searchProximity=&searchType=ALL&sortValue=SIGNATURE_DATE_DESC&tab_selection=lawarticledecree&typePagination=DEFAUT&typeRecherche=date' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
