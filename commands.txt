@@ -929,6 +929,7 @@ npm run scraper -- --sp='IN--RBI--REG--LIQ-RIS-MAN-SYS-TIE' --url='https://www.r
 npm run scraper -- --sp='CA--CG--REG--CAN-PAY-ASS-MEM-REQ-REG' --url='https://laws.justice.gc.ca/eng/regulations/SOR-2001-476/FullText.html' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='FR--MEFR--REG--FIL-BAN-SIM-ACC-FIC' --url='https://www.impots.gouv.fr/banques' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='CA--PC--REG--CAN-PAY-ASS-BYL-NO-COM' --url='https://laws.justice.gc.ca/eng/regulations/SOR-2003-347/FullText.html' --path='C:\Users\vinoo.jayakody\Downloads\ease'
+npm run scraper -- --sp='AU--OAIC--REG--DAT-STA' --url='https://consumerdatastandardsaustralia.github.io/standards/' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 
 #Manisha
 npm run scraper -- --sp='UK--UG--REG--DGF-DEC-ABO-ORD-WHI' --url='https://zakon.rada.gov.ua/laws/show/en/z1314-12#Text' --path='C:\Users\manisha.meganathan\Documents\ease'
