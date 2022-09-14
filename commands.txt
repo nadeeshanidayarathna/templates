@@ -821,6 +821,15 @@ npm run scraper -- --sp='UN--DJ--REG--UND-INA-ANT-PRO' --url='https://www.justic
 npm run scraper -- --sp='UN--DJ--REG--INS-COM-CHA-FEE-APP' --url='https://www.justice.gov/file/1204771/download' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='BR--BNDDEESB--REG--PRO-CAP-CRE-COO-BND' --url='https://www.bndes.gov.br/wps/wcm/connect/site/09ef166c-ce18-4df7-85f6-a623edb474e4/22Cir43+BNDES+PROCAPCRED+%282%29.pdf?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7QGCHA41LORVA0AHO1SIO51085-09ef166c-ce18-4df7-85f6-a623edb474e4-oaDUe3u' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='BR--FICBC--REG--REG-STA-NUM-22001-PAR' --url='https://www.bcfsa.ca/media/2780/download' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='IN--RBI--REG--RRB-GUI-CLA-VAL-INV' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8678' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='SU--EPC--REG--CON-MIN-SAF-HEA-REQ ' --url='https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A01989L0654-20190726' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='AU--ACCCA--REG--COO-ARR-BET-TAI-ECO' --url='https://www.accc.gov.au/system/files/Cooperation%20and%20coordination%20arrangement%20between%20the%20TECO%20and%20the%20ACIO%20regarding%20the%20application%20of%20competition%20%26%20fair%20trading%20laws.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='AU--ACCCA--REG--COO-ARR-BET-AUS-COM' --url='https://www.accc.gov.au/system/files/Cooperation%20arrangement%20between%20the%20Australian%20Competition%20%26%20Consumer%20Commission%20and%20the%20Fair%20Trade%20Commission%20of%20Japan.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='SR--CBSLC--REG--CON-AFF-BOR-AMI-PRE' --url='https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/laws/cdg/bsd_circular_no_2_of_2022_e.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='IN--RBI--REG--NBF-KYC-GUI-LAU-STA' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=2136&Mode=0' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='AU--ATRACA--REG--APP-EXE-MOD-UND-AML' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/application-exemptions-and-modifications-under-amlctf-act-guidance-note-1501' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='AU--ATRACA--REG--PRE-EXP-EME-DIS-SUP-PAY' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/emergency-disaster-support-payments' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='AU--ATRACA--REG--DET-STO-RAN-PAY' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/detecting-and-stopping-ransomware-payments' --path='C:\Users\binuri.perera\Desktop\NewIX'
 
 #venoli.gamage
 npm run scraper -- --sp='GR--BG--REG--DEC-CRE-ISS' --url='https://www.google.com/' --path='C:\Users\venoli.gamage\Downloads'
