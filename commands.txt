@@ -456,6 +456,11 @@ npm run scraper -- --sp='FR--FG--REG--ORD-NO-2021858-JUN-2021' --url='https://ww
 npm run scraper -- --sp='FR--FG--REG--ORD-JUN-2021-IMP-DEC' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043642112?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='FR--FG--REG--LAW-N-2021725-JUN-2021' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043623358?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='FR--FG--REG--ORD-NO-2021650-MAY-2021' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043534846?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='FR--FG--REG--ORD-NO-2021658-MAY-2021' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043535464?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='FR--MEFR--REG--ADO-APP-ART-D-9887' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044206025?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='FR--MEFR--REG--AME-DEC-NOV-2020-SER' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044163313?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='FR--MLEI--REG--ON-IMP-AUT-PRO-PER' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044154502?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='FR--MLEI--REG--ON-IMP-AUT-PRO-PER' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044154502?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
