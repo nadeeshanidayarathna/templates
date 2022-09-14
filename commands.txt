@@ -715,7 +715,6 @@ npm run scraper -- --sp='DE--DG--REG--LBK-17' --url='https://www.retsinformation
 npm run scraper -- --sp='DE--DG--REG--LOV-1' --url='https://www.retsinformation.dk/Forms/R0710.aspx?id=191823' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='DE--DG--REG--LBK-18' --url='https://www.retsinformation.dk/Forms/R0710.aspx?id=27298' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='DE--DG--REG--LBK-19' --url='https://www.retsinformation.dk/Forms/R0710.aspx?id=210265' --path='C:\Users\prabodha.lahiru\Downloads'
-npm run scraper -- --sp='DE--DG--REG--LBK-19' --url='https://www.retsinformation.dk/Forms/R0710.aspx?id=210265' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='DE--DG--REG--LBK-20' --url='https://www.retsinformation.dk/Forms/R0710.aspx?id=130583' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='DE--DG--REG--LBK-21' --url='https://www.retsinformation.dk/Forms/R0710.aspx?id=209982' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='DE--DG--REG--LBK-22' --url='https://www.retsinformation.dk/Forms/R0710.aspx?id=158134' --path='C:\Users\prabodha.lahiru\Downloads'
