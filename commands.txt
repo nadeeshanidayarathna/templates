@@ -947,6 +947,7 @@ npm run scraper -- --sp='IN--IRDAII--REG--EXP-DRA-INS-REG-DEV' --url='https://ww
 npm run scraper -- --sp='FR--FG--REG--ORD-JUL-2010-CRE-EDU' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022502518/2021-09-07' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='FR--FG--REG--ORD-MAY-2019-REL-ADD' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038660939/2019-06-22/' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='FR--FG--REG--ORD-AUG-2015-PUR-ART' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031119498/' --path='C:\Users\vinoo.jayakody\Downloads\ease'
+npm run scraper -- --sp='IN--RBI--REG--STE-UP-CRE-SME' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=2474&Mode=0' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 
 #Manisha
 npm run scraper -- --sp='UK--UG--REG--DGF-DEC-ABO-ORD-WHI' --url='https://zakon.rada.gov.ua/laws/show/en/z1314-12#Text' --path='C:\Users\manisha.meganathan\Documents\ease'
