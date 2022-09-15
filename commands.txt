@@ -728,6 +728,7 @@ npm run scraper -- --sp='AU--ACCCA--REG--AUS-COM-CON-AFF-COU' --url='https://www
 npm run scraper -- --sp='AU--ACCCA--REG--ONL-REV-GUI-BUS-PLA' --url='https://www.accc.gov.au/publications/online-reviews-a-guide-for-business-review-platforms' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AU--ATRACA--REG--REN-REG-AUS-REM-SEC' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/renewing-registrations-austracs-remittance-sector-register-guidance-note-1403' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AU--ATRACA--REG--PRE-CRI-ABU-DIG-CUR' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/preventing-criminal-abuse-digital-currencies' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='AU--ATRACA--REG--POL-EXP-PER-QUI-GUI' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/politically-exposed-persons-quick-guide' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
