@@ -728,6 +728,7 @@ npm run scraper -- --sp='AU--ACCCA--REG--AUS-COM-CON-AFF-COU' --url='https://www
 npm run scraper -- --sp='AU--ACCCA--REG--ONL-REV-GUI-BUS-PLA' --url='https://www.accc.gov.au/publications/online-reviews-a-guide-for-business-review-platforms' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AU--ATRACA--REG--REN-REG-AUS-REM-SEC' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/renewing-registrations-austracs-remittance-sector-register-guidance-note-1403' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AU--ATRACA--REG--PRE-CRI-ABU-DIG-CUR' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/preventing-criminal-abuse-digital-currencies' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='AU--ATRACA--REG--POL-EXP-PER-QUI-GUI' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/politically-exposed-persons-quick-guide' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
@@ -934,6 +935,7 @@ npm run scraper -- --sp='IN--RBI--REG--SEC-QUA-REV-MON-POL' --url='https://www.r
 npm run scraper -- --sp='IN--RBI--REG--FOR-EXC-MAN-OVE-INV-0' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12380&Mode=0' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='IN--RBI--REG--PAR-CRE-ENH-COR-BON' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10035' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='IN--RBI--REG--PER-ISS-GLO-DEP-REC' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=122' --path='C:\Users\mahidi.maduwage\Downloads\ease'
+npm run scraper -- --sp='BA--CBB--REG--FEP-CIR-LET-NO-IMP' --url='https://www.bb.org.bd/mediaroom/circulars/fepd/jul072022fepdl22e.pdf' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 
 # vinoo.jayakody
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-SOL-102397' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/advisory-opinion-solganik-10-23-97' --path='C:\Users\vinoo.jayakody\Downloads\ease'
