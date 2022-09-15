@@ -727,6 +727,8 @@ npm run scraper -- --sp='DE--DG--REG--LBK-2' --url='https://www.retsinformation.
 npm run scraper -- --sp='AU--ACCCA--REG--AUS-COM-CON-AFF-COU' --url='https://www.accc.gov.au/system/files/ACCC & CACPNG cooperation & coordination agreement.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AU--ACCCA--REG--ONL-REV-GUI-BUS-PLA' --url='https://www.accc.gov.au/publications/online-reviews-a-guide-for-business-review-platforms' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AU--ATRACA--REG--REN-REG-AUS-REM-SEC' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/renewing-registrations-austracs-remittance-sector-register-guidance-note-1403' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='AU--ATRACA--REG--PRE-CRI-ABU-DIG-CUR' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/preventing-criminal-abuse-digital-currencies' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='AU--ATRACA--REG--POL-EXP-PER-QUI-GUI' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/politically-exposed-persons-quick-guide' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
@@ -828,6 +830,15 @@ npm run scraper -- --sp='UN--DJ--REG--UND-INA-ANT-PRO' --url='https://www.justic
 npm run scraper -- --sp='UN--DJ--REG--INS-COM-CHA-FEE-APP' --url='https://www.justice.gov/file/1204771/download' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='BR--BNDDEESB--REG--PRO-CAP-CRE-COO-BND' --url='https://www.bndes.gov.br/wps/wcm/connect/site/09ef166c-ce18-4df7-85f6-a623edb474e4/22Cir43+BNDES+PROCAPCRED+%282%29.pdf?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7QGCHA41LORVA0AHO1SIO51085-09ef166c-ce18-4df7-85f6-a623edb474e4-oaDUe3u' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='BR--FICBC--REG--REG-STA-NUM-22001-PAR' --url='https://www.bcfsa.ca/media/2780/download' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='IN--RBI--REG--RRB-GUI-CLA-VAL-INV' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8678' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='SU--EPC--REG--CON-MIN-SAF-HEA-REQ ' --url='https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A01989L0654-20190726' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='AU--ACCCA--REG--COO-ARR-BET-TAI-ECO' --url='https://www.accc.gov.au/system/files/Cooperation%20and%20coordination%20arrangement%20between%20the%20TECO%20and%20the%20ACIO%20regarding%20the%20application%20of%20competition%20%26%20fair%20trading%20laws.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='AU--ACCCA--REG--COO-ARR-BET-AUS-COM' --url='https://www.accc.gov.au/system/files/Cooperation%20arrangement%20between%20the%20Australian%20Competition%20%26%20Consumer%20Commission%20and%20the%20Fair%20Trade%20Commission%20of%20Japan.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='SR--CBSLC--REG--CON-AFF-BOR-AMI-PRE' --url='https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/laws/cdg/bsd_circular_no_2_of_2022_e.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='IN--RBI--REG--NBF-KYC-GUI-LAU-STA' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=2136&Mode=0' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='AU--ATRACA--REG--APP-EXE-MOD-UND-AML' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/application-exemptions-and-modifications-under-amlctf-act-guidance-note-1501' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='AU--ATRACA--REG--PRE-EXP-EME-DIS-SUP-PAY' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/emergency-disaster-support-payments' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='AU--ATRACA--REG--DET-STO-RAN-PAY' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/detecting-and-stopping-ransomware-payments' --path='C:\Users\binuri.perera\Desktop\NewIX'
 
 #venoli.gamage
 npm run scraper -- --sp='GR--BG--REG--DEC-CRE-ISS' --url='https://www.google.com/' --path='C:\Users\venoli.gamage\Downloads'
@@ -902,6 +913,7 @@ npm run scraper -- --sp='IN--RBI--REG--SEC-QUA-REV-MON-POL' --url='https://www.r
 npm run scraper -- --sp='IN--RBI--REG--FOR-EXC-MAN-OVE-INV-0' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12380&Mode=0' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='IN--RBI--REG--PAR-CRE-ENH-COR-BON' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10035' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='IN--RBI--REG--PER-ISS-GLO-DEP-REC' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=122' --path='C:\Users\mahidi.maduwage\Downloads\ease'
+npm run scraper -- --sp='BA--CBB--REG--FEP-CIR-LET-NO-IMP' --url='https://www.bb.org.bd/mediaroom/circulars/fepd/jul072022fepdl22e.pdf' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 
 # vinoo.jayakody
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-SOL-102397' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/advisory-opinion-solganik-10-23-97' --path='C:\Users\vinoo.jayakody\Downloads\ease'
@@ -947,6 +959,7 @@ npm run scraper -- --sp='IN--IRDAII--REG--EXP-DRA-INS-REG-DEV' --url='https://ww
 npm run scraper -- --sp='FR--FG--REG--ORD-JUL-2010-CRE-EDU' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022502518/2021-09-07' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='FR--FG--REG--ORD-MAY-2019-REL-ADD' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038660939/2019-06-22/' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 npm run scraper -- --sp='FR--FG--REG--ORD-AUG-2015-PUR-ART' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031119498/' --path='C:\Users\vinoo.jayakody\Downloads\ease'
+npm run scraper -- --sp='IN--RBI--REG--STE-UP-CRE-SME' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=2474&Mode=0' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 
 #Manisha
 npm run scraper -- --sp='UK--UG--REG--DGF-DEC-ABO-ORD-WHI' --url='https://zakon.rada.gov.ua/laws/show/en/z1314-12#Text' --path='C:\Users\manisha.meganathan\Documents\ease'
