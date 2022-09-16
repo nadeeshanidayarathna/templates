@@ -845,6 +845,15 @@ bash run.sh 'CO--SFDCS--REG--DRA-EXT-CIR-INS-APP' 'UNIVERSAL--DEFAULT--REG--LEVE
 bash run.sh 'CO--SFDCS--REG--DRA-EXT-CIR-INS-REG' 'UNIVERSAL--DEFAULT--REG--LEVEL-10' 'https://www.superfinanciera.gov.co/descargas/institucional/pubFile1061221/proynorma17_22.docx' 'C:\Users\binuri.perera\Desktop\NewIX' 'C:\Users\binuri.perera\Documents\spider.ease2' 'C:\Newfolder\spider.templates' 'EASE|PREPARE|SPIDER'
 bash run.sh 'CO--SFDCS--REG--DRA-EXT-CIR-INS-REG-0' 'UNIVERSAL--DEFAULT--REG--LEVEL-10' 'https://www.superfinanciera.gov.co/descargas/institucional/pubFile1061221/proynorma17_22.docx' 'C:\Users\binuri.perera\Desktop\NewIX' 'C:\Users\binuri.perera\Documents\spider.ease2' 'C:\Newfolder\spider.templates' 'EASE|PREPARE|SPIDER'
 bash run.sh 'FR--MLEI--REG--CIR-DGT-JAN-2013-CON' 'UNIVERSAL--DEFAULT--REG--LEVEL-10' 'https://www.legifrance.gouv.fr/circulaire/id/36418?dateMEL=' 'C:\Users\binuri.perera\Desktop\NewIX' 'C:\Users\binuri.perera\Documents\spider.ease2' 'C:\Newfolder\spider.templates' 'EASE|PREPARE|SPIDER'
+npm run scraper -- --sp='FR--MLEI--REG--ON-MET-MAN-COM-AUT' --url='https://www.legifrance.gouv.fr/download/pdf/circ?id=34222' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='FR--MLEI--REG--ON-REM-EMP-BY-PER' --url='https://www.legifrance.gouv.fr/download/pdf/circ?id=34767' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='NI--NG--REG--MON-LAU-PRE-PRO-ACT-2022' --url='https://www.nfiu.gov.ng/Home/DownloadFile?filePath=C%3A%5CNFIU%5Cwwwroot%5Cdocuments%5CMLp_9GKCQR' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='DI--DCG--REG--PRO-CON-FRO-UNJ-DEB-0' --url='https://lims.dccouncil.us/downloads/LIMS/49601/Signed_Act/B24-0814-Signed_Act.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='SR--MFSLM--REG--AME-FOR-EXC-OPE-MAI' --url='http://www.documents.gov.lk/files/egz/2022/6/2282-60_E.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='BR--CDVMC--REG--AME-EXA-CVM-INS-NO' --url='https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol162.docx' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='AU--ACCCA--REG--COO-ARR-BET-NEW-ZEA' --url='https://www.accc.gov.au/system/files/Cooperation%20arrangement%20between%20the%20New%20Zealand%20Commerce%20Commission%20and%20the%20Australian%20Competition%20and%20Consumer%20Commission.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='KU--CBKC--REG--TRA-REP-SYS-BAN-TRS' --url='https://pdfconversionupload.z33.web.core.windows.net/pdfs/48020e96-da00-4b81-bc23-137f24c633d3.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='NI--NG--REG--TER-PRE-PRO-ACT-2022' --url='https://www.nfiu.gov.ng/Home/DownloadFile?filePath=C:\NFIU\wwwroot\documents\TPp_DFV8G6' --path='C:\Users\binuri.perera\Desktop\NewIX'
 
 #venoli.gamage
 npm run scraper -- --sp='GR--BG--REG--DEC-CRE-ISS' --url='https://www.google.com/' --path='C:\Users\venoli.gamage\Downloads'
