@@ -736,6 +736,7 @@ npm run scraper -- --sp='IT--BI--REG--COM-JUL-2022-REP-OBL' --url='https://www.b
 npm run scraper -- --sp='AU--ACCCA--REG--ARB-GUI-RES-ACC-DIS' --url='https://www.accc.gov.au/publications/arbitrations-a-guide-to-resolution-of-access-disputes-under-part-iiia-of-the-act-a-summary-guide' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AU--ACCCA--REG--MEM-UND-BET-NAT-DEV' --url='https://www.accc.gov.au/system/files/Memorandum of understanding between the National Development and Reform Commission and the Australian Competition and Consumer Commission.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AU--ACCCA--REG--MEM-UND-BET-STA-ADM' --url='https://www.accc.gov.au/system/files/Memorandum of understanding between the SAIC of the PRC and the ACCC.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='SU--SRBS--REG--OPE-GUI-BAI-PLA' --url='https://www.srb.europa.eu/system/files/media/document/22-06-15 SRB Operational guidance on bail-in playbooks final_0.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
