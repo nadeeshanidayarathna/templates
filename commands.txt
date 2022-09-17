@@ -465,6 +465,7 @@ npm run scraper -- --sp='LU--CDSDSFC--REG--COM-JUL-2022-AME-ANN' --url='https://
 npm run scraper -- --sp='FR--MSH--REG--ON-CON-APP-EQU-EMP' --url='https://www.legifrance.gouv.fr/download/pdf/circ?id=34661' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AU--ACCCA--REG--CON-REV-BRO-SPE-CLA' --url='https://www.accc.gov.au/publications/consultation-on-revising-the-broadband-speeds-claims-%E2%80%93-industry-guidance' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='ME--BD--REG--INI-QUE-REF-LOS-ART' --url='http://sil.gobernacion.gob.mx/Archivos/Documentos/2022/05/asun_4364320_20220511_1652284791.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--ACCCA--REG--GUI-DEV-EFF-VOL-IND' --url='https://www.accc.gov.au/system/files/Guidelines%20for%20developing%20effective%20voluntary%20industry%20codes%20of%20conduct.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
