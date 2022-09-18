@@ -263,7 +263,7 @@ npm run scraper -- --sp='SU--EC--REG--COM-AME' --url='https://www.google.com/' -
 npm run scraper -- --sp='IR--CBI--REG--CEN-ACT' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='SU--ESMAE--REG--REV-CER' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='MA--MFSAM--REG--FIN-MAR-RUL' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
-npm run scraper -- --sp='MA--MG--REG--LAB-ACT-1990' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
+npm run scraper -- --sp='MA--MG--REG--LAB-ACT-1990' --url='https://www.labuanfsa.gov.my/clients/asset_120A5FB8-61B6-45E8-93F0-3F79F86455C8/contentms/img/documents/Legislation_and_Guidelines/Legislation/Principal_Legislation/Labuan-Companies-Act-1990-Act-441.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AR--BCDLRDAB--REG--REF-CHA' --url='https://www.google.com/' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AR--BCDLRDAB--REG--REF-ABR' --url='https://www.google.com/' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='BA--CBB--REG--BRP-CIR-LET-NO-MAS' --url='https://www.google.com/' --path='C:\Users\raveendran.pira\Downloads'
@@ -455,6 +455,16 @@ npm run scraper -- --sp='FR--FG--REG--ORD-JUL-2021-AME-MAR' --url='https://www.l
 npm run scraper -- --sp='FR--FG--REG--ORD-NO-2021858-JUN-2021' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043727737?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='FR--FG--REG--ORD-JUN-2021-IMP-DEC' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043642112?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='FR--FG--REG--LAW-N-2021725-JUN-2021' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043623358?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='FR--FG--REG--ORD-NO-2021650-MAY-2021' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043534846?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='FR--FG--REG--ORD-NO-2021658-MAY-2021' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043535464?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='FR--MEFR--REG--ADO-APP-ART-D-9887' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044206025?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='FR--MEFR--REG--AME-DEC-NOV-2020-SER' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044163313?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='FR--MLEI--REG--ON-IMP-AUT-PRO-PER' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044154502?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='FR--FG--REG--ORD-JUN-2021-PUR-ART' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043879221?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='LU--CDSDSFC--REG--COM-JUL-2022-AME-ANN' --url='https://www.cssf.lu/fr/2022/07/communication-du-14-juillet-2022-relative-aux-modifications-des-annexes-1-et-2-de-la-circulaire-cssf-20-747-regissant-le-registre-de-comptes-crba/' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='FR--MSH--REG--ON-CON-APP-EQU-EMP' --url='https://www.legifrance.gouv.fr/download/pdf/circ?id=34661' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--ACCCA--REG--CON-REV-BRO-SPE-CLA' --url='https://www.accc.gov.au/publications/consultation-on-revising-the-broadband-speeds-claims-%E2%80%93-industry-guidance' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='ME--BD--REG--INI-QUE-REF-LOS-ART' --url='http://sil.gobernacion.gob.mx/Archivos/Documentos/2022/05/asun_4364320_20220511_1652284791.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
@@ -729,6 +739,16 @@ npm run scraper -- --sp='AU--ACCCA--REG--ONL-REV-GUI-BUS-PLA' --url='https://www
 npm run scraper -- --sp='AU--ATRACA--REG--REN-REG-AUS-REM-SEC' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/renewing-registrations-austracs-remittance-sector-register-guidance-note-1403' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AU--ATRACA--REG--PRE-CRI-ABU-DIG-CUR' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/preventing-criminal-abuse-digital-currencies' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AU--ATRACA--REG--POL-EXP-PER-QUI-GUI' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/politically-exposed-persons-quick-guide' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='AU--ATRACA--REG--PRE-MIS-CRI-COM-THR' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/payment-text-fields' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='AU--ATRACA--REG--GUI-WHA-CON-REM-NET' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/guidance-what-constitutes-remittance-network-provider-rnp-guidance-note-1203' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='LO--LG--REG--FIN-INS-PRO-REL-DEP' --url='https://legis.la.gov/legis/ViewDocument.aspx?d=1290221' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='IT--BI--REG--COM-JUL-2022-REP-OBL' --url='https://www.bancaditalia.it/compiti/vigilanza/normativa/archivio-norme/circolari/c148/Com_19_luglio_2022.pdf?pk_campaign=EmailAlertBdi' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='AU--ACCCA--REG--ARB-GUI-RES-ACC-DIS' --url='https://www.accc.gov.au/publications/arbitrations-a-guide-to-resolution-of-access-disputes-under-part-iiia-of-the-act-a-summary-guide' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='AU--ACCCA--REG--MEM-UND-BET-NAT-DEV' --url='https://www.accc.gov.au/system/files/Memorandum of understanding between the National Development and Reform Commission and the Australian Competition and Consumer Commission.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='AU--ACCCA--REG--MEM-UND-BET-STA-ADM' --url='https://www.accc.gov.au/system/files/Memorandum of understanding between the SAIC of the PRC and the ACCC.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='SU--SRBS--REG--OPE-GUI-BAI-PLA' --url='https://www.srb.europa.eu/system/files/media/document/22-06-15 SRB Operational guidance on bail-in playbooks final_0.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='AU--ACCCA--REG--GUI-PAR-XIC-DEC-PRO' --url='https://www.accc.gov.au/publications/guideline-for-part-xic-declaration-provisions-for-telecommunication-services' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='SU--ESMAE--REG--REV-GUI-MIF-II-PRO' --url='https://www.esma.europa.eu/sites/default/files/library/esma35-43-3114_-_cp_review_mifid_ii_product_governance_guidelines_0.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
@@ -964,6 +984,8 @@ npm run scraper -- --sp='IN--RBI--REG--FOR-EXC-MAN-OVE-INV-0' --url='https://www
 npm run scraper -- --sp='IN--RBI--REG--PAR-CRE-ENH-COR-BON' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10035' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='IN--RBI--REG--PER-ISS-GLO-DEP-REC' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=122' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='BA--CBB--REG--FEP-CIR-LET-NO-IMP' --url='https://www.bb.org.bd/mediaroom/circulars/fepd/jul072022fepdl22e.pdf' --path='C:\Users\mahidi.maduwage\Downloads\ease'
+npm run scraper -- --sp='AU--ACCCA--REG--THE-LON-ACT-PLA-INT' --url='https://www.accc.gov.au/system/files/The London action plan on international spam enforcement cooperation.pdf' --path='C:\Users\mahidi.maduwage\Downloads\ease'
+npm run scraper -- --sp='AU--ACCCA--REG--MEM-UND-BET-DEP-JUS' --url='https://www.accc.gov.au/system/files/Memorandum of understaning between the Deprartment of Justice in the Republic of the Philippines and the Australian Competition and Consumer Commission.pdf' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 
 # vinoo.jayakody
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-SOL-102397' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/advisory-opinion-solganik-10-23-97' --path='C:\Users\vinoo.jayakody\Downloads\ease'
