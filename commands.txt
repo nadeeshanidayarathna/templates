@@ -868,6 +868,8 @@ npm run scraper -- --sp='BR--CDVMC--REG--AME-EXA-CVM-INS-NO' --url='https://cont
 npm run scraper -- --sp='AU--ACCCA--REG--COO-ARR-BET-NEW-ZEA' --url='https://www.accc.gov.au/system/files/Cooperation%20arrangement%20between%20the%20New%20Zealand%20Commerce%20Commission%20and%20the%20Australian%20Competition%20and%20Consumer%20Commission.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='KU--CBKC--REG--TRA-REP-SYS-BAN-TRS' --url='https://pdfconversionupload.z33.web.core.windows.net/pdfs/48020e96-da00-4b81-bc23-137f24c633d3.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='NI--NG--REG--TER-PRE-PRO-ACT-2022' --url='https://www.nfiu.gov.ng/Home/DownloadFile?filePath=C:\NFIU\wwwroot\documents\TPp_DFV8G6' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='FR--FG--REG--ACC-JOI-CON-INT-TAN-ASS' --url='https://www.legifrance.gouv.fr/circulaire/id/37901?dateMEL=' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='BR--BCDBB--REG--IT-RES-FLU-DEA-WHI' --url='https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB' --path='C:\Users\binuri.perera\Desktop\NewIX'
 
 #venoli.gamage
 npm run scraper -- --sp='GR--BG--REG--DEC-CRE-ISS' --url='https://www.google.com/' --path='C:\Users\venoli.gamage\Downloads'
