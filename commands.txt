@@ -749,6 +749,7 @@ npm run scraper -- --sp='AU--ACCCA--REG--MEM-UND-BET-STA-ADM' --url='https://www
 npm run scraper -- --sp='SU--SRBS--REG--OPE-GUI-BAI-PLA' --url='https://www.srb.europa.eu/system/files/media/document/22-06-15 SRB Operational guidance on bail-in playbooks final_0.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AU--ACCCA--REG--GUI-PAR-XIC-DEC-PRO' --url='https://www.accc.gov.au/publications/guideline-for-part-xic-declaration-provisions-for-telecommunication-services' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SU--ESMAE--REG--REV-GUI-MIF-II-PRO' --url='https://www.esma.europa.eu/sites/default/files/library/esma35-43-3114_-_cp_review_mifid_ii_product_governance_guidelines_0.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='AU--ACCCA--REG--SEC-87B-COM-CON-ACT' --url='https://www.accc.gov.au/publications/section-87b-of-the-competition-consumer-act' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
