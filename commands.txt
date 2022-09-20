@@ -472,6 +472,7 @@ npm run scraper -- --sp='IR--CBI--REG--COM-IMP-DIR-EU-20152392' --url='https://e
 npm run scraper -- --sp='CA--CB--REG--COM-COL-GUI' --url='https://www.competitionbureau.gc.ca/eic/site/cb-bc.nsf/eng/04582.html' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='DO--SDMDVS--REG--INS-TRA-REL-FAC-MAR-MAN' --url='https://simv.gob.do/download/176/reglamentos-aprobados-cnmv/10519/r-cnmv-2022-10-mv.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IR--CBI--REG--DIR-2009111EC-EUR-PAR-COU' --url='https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32009L0111' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='IR--CBI--REG--COM-DEL-REG-EU-20162251' --url='https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2016.340.01.0009.01.ENG' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
