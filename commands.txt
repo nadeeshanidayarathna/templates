@@ -995,6 +995,7 @@ npm run scraper -- --sp='IN--RBI--REG--PER-ISS-GLO-DEP-REC' --url='https://www.r
 npm run scraper -- --sp='BA--CBB--REG--FEP-CIR-LET-NO-IMP' --url='https://www.bb.org.bd/mediaroom/circulars/fepd/jul072022fepdl22e.pdf' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='AU--ACCCA--REG--THE-LON-ACT-PLA-INT' --url='https://www.accc.gov.au/system/files/The%20London%20action%20plan%20on%20international%20spam%20enforcement%20cooperation.pdf' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='AU--ACCCA--REG--MEM-UND-BET-DEP-JUS' --url='https://www.accc.gov.au/system/files/Memorandum of understaning between the Deprartment of Justice in the Republic of the Philippines and the Australian Competition and Consumer Commission.pdf' --path='C:\Users\mahidi.maduwage\Downloads\ease'
+npm run scraper -- --sp='AU--ACCCA--REG--MEM-UND-MUT-ENF-ASS' --url='https://www.accc.gov.au/system/files/Memorandum of understanding on mutual enforcement assistance in commercial email matters.pdf' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='AU--ACCCA--REG--TRA-PRA-COM-NEW-ZEA' --url='https://www.accc.gov.au/system/files/TPC & NZCC cooperation & coordination agreement.rtf' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='IN--MF--REG--NOT-SEC-2CA-INS-ACT' --url='https://egazette.nic.in/WriteReadData/2022/237034.pdf' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 
