@@ -759,6 +759,7 @@ npm run scraper -- --sp='AU--ACCCA--REG--SEC-87B-COM-CON-ACT' --url='https://www
 npm run scraper -- --sp='SI--MASM--REG--FOR-DEC-LOD-PUR-PAR' --url='https://www.mas.gov.sg/-/media/MAS/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Securities-Futures-and-Fund-Management/Regulations-Guidance-and-Licensing/Forms/SF-LCB_Form-25_May-2021.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--SRD-TR-012014-SYS-VUL' --url='https://www.mas.gov.sg/-/media/MAS/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Merchant-Banks/Circular/SystemVAPTCircularMay2014.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--SRD-TR-022013-MAS-CIR' --url='https://www.mas.gov.sg/-/media/MAS/resource/legislation_guidelines/trust_companies/Circulars/SRD-TR-02-2013-MAS-Circular-Cancellation-2013.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='TE--TDB--REG--LEG' --url='https://txdob.ctspublish.com/texas/DocViewer.jsp?doccode=z20000270&z2collection=texas' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
