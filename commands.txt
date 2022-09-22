@@ -892,6 +892,18 @@ npm run scraper -- --sp='UN--CFTCC--REG--ORD-LIM-PUR-DES-CAR' --url='https://www
 npm run scraper -- --sp='IR--CBI--REG--CRI-JUS-MON-LAU-TER-0' --url='http://www.irishstatutebook.ie/eli/2010/si/342/made/en/pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='IR--CBI--REG--CRI-JUS-MON-LAU-TER-1' --url='http://www.irishstatutebook.ie/eli/2012/si/347/made/en/pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='IR--CBI--REG--LET-IND-CUS-DUE-DIL' --url='https://www.centralbank.ie/docs/default-source/regulation/how-we-regulate/anti-money-laundering-and-countering-the-financing-of-terrorism/legislation/letter-to-industry-cdd.pdf?sfvrsn=6' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='UN--FR--REG--AGE-INF-COL-ACT-REN' --url='https://www.federalregister.gov/documents/2022/05/31/2022-11566/agency-information-collection-activities-information-collection-renewal-comment-request-privacy-of' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='UN--FR--REG--AGE-INF-COL-ACT-REN-0' --url='https://www.federalregister.gov/documents/2022/05/31/2022-11565/agency-information-collection-activities-information-collection-renewal-comment-request-ffiec' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='UN--FR--REG--CLE-REQ-DET-UND-SEC' --url='https://www.federalregister.gov/documents/2022/05/31/2022-10490/clearing-requirement-determination-under-section-2h-of-the-commodity-exchange-act-for-interest-rate' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='CO--BDLR--REG--VAL-REA-UNI-RVU-FOR' --url='https://www.banrep.gov.co/sites/default/files/reglamentacion/archivos/bjd_48_2022_0.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='UN--HMTHT--REG--MAN-FAI-SYS-DIG-SET' --url='https://www.gov.uk/government/consultations/managing-the-failure-of-systemic-digital-settlement-asset-including-stablecoin-firms' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='UN--FCA--REG--FCA-DEA-CEO-LET-RIS' --url='https://www.fca.org.uk/publication/correspondence/dear-ceo-letter-rising-cost-of-living-acting-now-support-consumers.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='SW--SBA--REG--GUI-FIN-SER-PRO-INT' --url='https://www.swissbanking.ch/_Resources/Persistent/a/5/e/0/a5e0845f065a60699df88910ae675b7082e69411/SBA_Guidelines_investment_advice_and_portfolio_management_EN.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='DO--SDMDVS--REG--APP-SEC-PHA-ASS-OPE' --url='https://simv.gob.do/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=95&wpfd_file_id=10498&token=&preview=1' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='DO--SDMDVS--REG--AUT-EXT-AME-ADO-NEW' --url='https://simv.gob.do/download/96/cnv/10557/r-cnmv-2022-09-mv.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='DO--SDMDVS--REG--AUT-REG-SEC-MAR-OPE' --url='https://simv.gob.do/download/95/siv/10479/r-simv-2022-24-fi.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='CA--CDI--REG--BUL-969-TAB-SEL-MOR' --url='http://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/life-insur-bulletins/bulletin-96-9.cfm' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='CA--CDI--REG--BUL-956-REC-IMM-PAY' --url='http://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/life-insur-bulletins/bulletin-95-6.cfm' --path='C:\Users\binuri.perera\Desktop\NewIX'
 
 #venoli.gamage
 npm run scraper -- --sp='GR--BG--REG--DEC-CRE-ISS' --url='https://www.google.com/' --path='C:\Users\venoli.gamage\Downloads'
