@@ -480,6 +480,7 @@ npm run scraper -- --sp='NO--NG--REG--REG-REL-SUP-RUL-MIF' --url='https://lovdat
 npm run scraper -- --sp='NE--ID--REG--USE-RET-ASS-ACC-INS10046AB' --url='https://www.nh.gov/insurance/media/bulletins/2010/documents/ins_10-046-ab.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='CO--BDLR--REG--AME-EXT-RES-NO-2018' --url='https://www.banrep.gov.co/sites/default/files/reglamentacion/archivos/bjd_44_2022.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='CA--CG--REG--PRO-2' --url='https://laws-lois.justice.gc.ca/eng/regulations/SOR-2007-292/FullText.html' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--FTC--REG--APR-2013-LET-FRO-HAM' --url='https://www.ftc.gov/sites/default/files/documents/advisory_opinions/letter-hampton-newsome-staff-attorney-division-enforcement-bureau-consumer-protection/130415royletter.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
