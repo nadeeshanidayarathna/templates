@@ -260,7 +260,7 @@ npm run scraper -- --sp='IN--NSDL--REG--LIS-CON-ADD' --url='https://www.google.c
 npm run scraper -- --sp='IN--NSDL--REG--CHA-BSE' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='IN--NSDL--REG--CHA-PAY-0' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='SU--EC--REG--COM-AME' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
-npm run scraper -- --sp='IR--CBI--REG--CEN-ACT' --url='https://www.centralbank.ie/docs/default-source/regulation/industry-market-sectors/client-assets/final-form-investment-firms-regulations.pdf?sfvrsn=fc8d961d_5' --path='C:\Users\Raveendran Pirarthan\Downloads'
+npm run scraper -- --sp='IR--CBI--REG--CEN-ACT' --url='https://www.centralbank.ie/docs/default-source/regulation/industry-market-sectors/client-assets/final-form-investment-firms-regulations.pdf?sfvrsn=fc8d961d_5' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SU--ESMAE--REG--REV-CER' --url='https://www.esma.europa.eu/sites/default/files/library/esma70-448-10_final_report_-_short_selling_regulation_review.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='MA--MFSAM--REG--FIN-MAR-RUL' --url='https://www.google.com/' --path='C:\Users\Raveendran Pirarthan\Downloads'
 npm run scraper -- --sp='MA--MG--REG--LAB-ACT-1990' --url='https://www.labuanfsa.gov.my/clients/asset_120A5FB8-61B6-45E8-93F0-3F79F86455C8/contentms/img/documents/Legislation_and_Guidelines/Legislation/Principal_Legislation/Labuan-Companies-Act-1990-Act-441.pdf' --path='C:\Users\raveendran.pira\Downloads'
