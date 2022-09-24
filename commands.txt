@@ -904,6 +904,8 @@ npm run scraper -- --sp='DO--SDMDVS--REG--AUT-EXT-AME-ADO-NEW' --url='https://si
 npm run scraper -- --sp='DO--SDMDVS--REG--AUT-REG-SEC-MAR-OPE' --url='https://simv.gob.do/download/95/siv/10479/r-simv-2022-24-fi.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='CA--CDI--REG--BUL-969-TAB-SEL-MOR' --url='http://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/life-insur-bulletins/bulletin-96-9.cfm' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='CA--CDI--REG--BUL-956-REC-IMM-PAY' --url='http://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/life-insur-bulletins/bulletin-95-6.cfm' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='IR--CBI--REG--COM-WIT-CRI-JUS-MON' --url='https://www.centralbank.ie/docs/default-source/regulation/how-we-regulate/anti-money-laundering-and-countering-the-financing-of-terrorism/legislation/aml-dear-ceo-letter.pdf?sfvrsn=3176d71d_6' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='CA--CDI--REG--BUL-20112-IMP-REI-PRO' --url='http://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/Bulletin-2011-2.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
 
 #venoli.gamage
 npm run scraper -- --sp='GR--BG--REG--DEC-CRE-ISS' --url='https://www.google.com/' --path='C:\Users\venoli.gamage\Downloads'
