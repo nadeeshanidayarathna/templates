@@ -776,7 +776,7 @@ npm run scraper -- --sp='SI--MASM--REG--SRD-TR-022013-MAS-CIR' --url='https://ww
 npm run scraper -- --sp='TE--TDB--REG--LEG' --url='https://txdob.ctspublish.com/texas/DocViewer.jsp?doccode=z20000270&z2collection=texas' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--SEC-FUT-EXE-PHI-FIN' --url='https://sso.agc.gov.sg/SL/SFA2001-S416-2004?DocDate=20040709' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--SEC-FUT-APP-HOL-COM' --url='https://sso.agc.gov.sg/SL/SFA2001-S365-2005?DocDate=20050614' --path='C:\Users\prabodha.lahiru\Downloads'
-npm run scraper -- --sp='SI--MASM--REG--SEC-FUT-CAP-MAR-SER' --url='https://sso.agc.gov.sg/SL/SFA2001-RG7?DocDate=20040229&WholeDoc=1#xv-' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='SI--MASM--REG--SEC-FUT-CAP-MAR-SER' --url='https://sso.agc.gov.sg/SL/SFA2001-RG7?DocDate=20040229&WholeDoc=1' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--SEC-FUT-EXE-FRO-REQ' --url='https://sso.agc.gov.sg/SL/SFA2001-RG13' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--TRU-COM-REG' --url='https://sso.agc.gov.sg/SL/TCA2005-RG4?DocDate=20061130' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--SEC-FUT-OFF-INV-DIS' --url='https://sso.agc.gov.sg/SL/SFA2001-S161-2009' --path='C:\Users\prabodha.lahiru\Downloads'
