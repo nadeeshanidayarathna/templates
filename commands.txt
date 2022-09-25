@@ -486,6 +486,7 @@ npm run scraper -- --sp='PE--LSDBSYA--REG--REG-SPE-SCH-WIN-UND' --url='https://i
 npm run scraper -- --sp='CH--CSRCC--REG--NOT-ISS-CON-REG-SET' --url='https://neris.csrc.gov.cn/falvfagui/rdqsHeader/mainbody?navbarId=1&secFutrsLawId=446fce115b3645bc9af59359c170cce6' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--ANT-GUI-JOI-STA-DIV' --url='https://www.ftc.gov/system/files/documents/public_statements/1253313/hurricanes_harvey_and_irma_ftc_doj_statement.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='TA--TSEC--REG--TWS-10800120321-AME-ART-751' --url='http://www.selaw.com.tw/LawContent.aspx?LawID=G0100106' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CA--CG--REG--INF-TEC-ACT-BAN-REG' --url='https://laws-lois.justice.gc.ca/eng/regulations/SOR-2003-61/FullText.html' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
