@@ -493,6 +493,7 @@ npm run scraper -- --sp='FR--FG--REG--ON-INF-NEE-DRA-UP' --url='https://www.legi
 npm run scraper -- --sp='FR--FG--REG--SPE-LIS-DAT-PRO-AUT' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044167586?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='FR--FG--REG--SPE-LIS-DAT-PRO-AUT-0' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044167586?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='FR--FG--REG--EST-AUT-PRO-PER-DAT' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043606048?datePublication=' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SI--MASM--REG--EXE-ISS-UND-S337-SFA-2Q2017' --url='https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Exemptions-issued-under-s3372-SFA-3Q-2021.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
