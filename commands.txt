@@ -1060,6 +1060,7 @@ npm run scraper -- --sp='AU--ACCCA--REG--TRA-PRA-COM-NEW-ZEA' --url='https://www
 npm run scraper -- --sp='IN--MF--REG--NOT-SEC-2CA-INS-ACT' --url='https://egazette.nic.in/WriteReadData/2022/237034.pdf' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-954' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/advisory-opinion-95-4' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-BEA-060998' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/advisory-opinion-beaudette-06-09-98' --path='C:\Users\mahidi.maduwage\Downloads\ease'
+npm run scraper -- --sp='UN--FTC--REG--INF-STA-ADV-OPI-011' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/informal-staff-advisory-opinion-01-1' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 
 # vinoo.jayakody
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-SOL-102397' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/advisory-opinion-solganik-10-23-97' --path='C:\Users\vinoo.jayakody\Downloads\ease'
