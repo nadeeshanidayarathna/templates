@@ -498,6 +498,7 @@ npm run scraper -- --sp='UN--FTC--REG--FED-TRA-COM-ENF-POL' --url='https://www.f
 npm run scraper -- --sp='CA--CDI--REG--BUL-NS3-ADV-MAI-FIL' --url='http://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/BULLETIN_NS_3_1956_RESTATEMENT.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='CA--CDI--REG--NOT-UKR-SOL-RUS-DIV' --url='http://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/Notice-on-Ukraine-Solidarity-and-Russia-Divestment.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='CA--CDI--REG--EXT-POL-DEA-THA-IMP' --url='http://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/ExtPolicyClaim-CvrgSOECovidNc.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CA--CDI--REG--60DAY-GRA-PER-INS-PRE' --url='http://www.insurance.ca.gov/0400-news/0100-press-releases/2020/upload/nr030-BillingGracePeriodNotice03182020.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
