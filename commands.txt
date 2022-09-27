@@ -497,6 +497,7 @@ npm run scraper -- --sp='SI--MASM--REG--EXE-ISS-UND-S337-SFA-2Q2017' --url='http
 npm run scraper -- --sp='UN--FTC--REG--FED-TRA-COM-ENF-POL' --url='https://www.ftc.gov/system/files/documents/public_statements/1266473/coppa_policy_statement_audiorecordings.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='CA--CDI--REG--BUL-NS3-ADV-MAI-FIL' --url='http://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/BULLETIN_NS_3_1956_RESTATEMENT.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='CA--CDI--REG--NOT-UKR-SOL-RUS-DIV' --url='http://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/Notice-on-Ukraine-Solidarity-and-Russia-Divestment.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CA--CDI--REG--EXT-POL-DEA-THA-IMP' --url='http://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/ExtPolicyClaim-CvrgSOECovidNc.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
