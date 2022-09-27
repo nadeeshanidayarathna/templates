@@ -791,6 +791,7 @@ npm run scraper -- --sp='SI--MASM--REG--SEC-FUT-TRA-REP-REG-2013' --url='https:/
 npm run scraper -- --sp='CA--CDI--REG--BUL-20002-VAL-LIF-INS-POL' --url='http://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/bulletin-2000-02.cfm' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='CO--CG--REG--RUL-CON-CAM-POL-FIN' --url='https://www.coloradosos.gov/CCR/GenerateRulePdf.do?ruleVersionId=9025' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='GE--OISFC--REG--BUL-20EX14-CIT-AFF-SUB-INS' --url='https://oci.georgia.gov/document/bulletin/bulletin-20-ex-14-citizenship-affidavit-submission-instructions/download' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='CA--CDI--REG--BUL-20072-IMP-AB-1586' --url='http://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/bulletin_2007_2.doc' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
