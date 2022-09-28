@@ -794,6 +794,7 @@ npm run scraper -- --sp='GE--OISFC--REG--BUL-20EX14-CIT-AFF-SUB-INS' --url='http
 npm run scraper -- --sp='CA--CDI--REG--BUL-20072-IMP-AB-1586' --url='http://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/bulletin_2007_2.doc' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='WY--WG--REG--WYO-CAM-GUI' --url='https://sos.wyo.gov/Elections/Docs/2022/2022_Campaign_Guide.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--SEC-FUT-CLE-FAC-REG-2013' --url='https://sso.agc.gov.sg/SL/SFA2001-S464-2013?DocDate=20190614&WholeDoc=1' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='IT--BI--REG--COM-REP-OBL-MON-POL' --url='https://www.bancaditalia.it/compiti/vigilanza/normativa/archivio-norme/circolari/c148/Com_19_luglio_2022.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
