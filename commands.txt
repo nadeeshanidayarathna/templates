@@ -503,6 +503,7 @@ npm run scraper -- --sp='CA--CDI--REG--SAL-ANN-OTH-LIF-INS' --url='http://www.in
 npm run scraper -- --sp='SU--EPC--REG--ON-ENI-EUR-UNI-AGE' --url='https://eur-lex.europa.eu/eli/reg/2019/881' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='NE--NYSDFS--REG--STA-REV-AFF-CAN-CON' --url='https://www.dfs.ny.gov/insurance/circltr/1989/cl1989_11.htm' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='CA--CDI--REG--BUL-9510-PRO-REQ-IMP' --url='http://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/bulletin-95-10.cfm' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CA--CDI--REG--COR-GOV-ANN-DIS-CGA' --url='http://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/CGAD_Notice_2020.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
