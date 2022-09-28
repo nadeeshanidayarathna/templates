@@ -1070,6 +1070,7 @@ npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-SMI-053195' --url='https://www.ft
 npm run scraper -- --sp='UN--FTC--REG--INF-STA-ADV-OPI-011' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/informal-staff-advisory-opinion-01-1' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='UN--FTC--REG--INF-STA-ADV-OPI-032' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/informal-staff-advisory-opinion-03-2' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='SI--MASM--REG--GUI-BAN-REG-23G' --url='https://www.mas.gov.sg/-/media/MAS/resource/legislation_guidelines/banks/guidelines/Reg_23G_7A_Guidelines_11Feb11.pdf' --path='C:\Users\mahidi.maduwage\Downloads\ease'
+npm run scraper -- --sp='SI--MASM--REG--GUI-MAI-REC-APP-ADV' --url='https://www.mas.gov.sg/-/media/MAS/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Securities-Futures-and-Fund-Management/Regulations-Guidance-and-Licensing/Guidelines-on-Maintaining-Records-of-Approval-for-Advertisements-or-Publications-SFA-13G16_8-Oct-18.pdf' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 
 # vinoo.jayakody
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-SOL-102397' --url='https://www.ftc.gov/legal-library/browse/advisory-opinions/advisory-opinion-solganik-10-23-97' --path='C:\Users\vinoo.jayakody\Downloads\ease'
