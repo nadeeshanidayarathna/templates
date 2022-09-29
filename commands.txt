@@ -508,6 +508,7 @@ npm run scraper -- --sp='UN--FTC--REG--TEX-CHA-EDI-RAM-RES' --url='https://www.f
 npm run scraper -- --sp='AR--AIDA--REG--RUL-POL-COM' --url='http://www.arkansasethics.com/wp-content/uploads/2019/12/Rules-on-Political-Committeess-2021-FINAL.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='CA--CDI--REG--BUL-20218-CAL-SUP-COU' --url='http://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/CDI-BULLETIN-2021-8-McHugh-Decision-Implementation-10-25-2021.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AU--AS--REG--ASI-MAR-INT-RUL-IMB-2010' --url='https://www.legislation.gov.au/Latest/F2022C00523' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--AP--REG--FIN-SEC-COL-DAT-REP' --url='https://www.legislation.gov.au/Latest/F2017L00728' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
