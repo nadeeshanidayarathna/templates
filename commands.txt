@@ -802,6 +802,7 @@ npm run scraper -- --sp='MI--MG--REG--2022-CAM-FIN-GUI' --url='https://www.sos.m
 npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-193' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FTA2018-25' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='CA--CDI--REG--NOT-HOL-COM-ACT-REV-STA' --url='http://www.insurance.ca.gov/0250-insurers/0300-insurers/0200-bulletins/bulletin-notices-commiss-opinion/upload/HoldingCompanyActServiceAgreements.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AU--ATRACA--REG--STR-ANA-BRI-BAN-DER' --url='https://www.austrac.gov.au/business/how-comply-guidance-and-resources/guidance-resources/strategic-analysis-brief-bank-de-risking-remittance-businesses-2015' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='SI--MASM--REG--MAS-NOT-626-AME-2009' --url='https://www.mas.gov.sg/-/media/MAS/resource/legislation_guidelines/aml/Amendment-Notice-_-Banks_GCO.pdf?la=en' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
