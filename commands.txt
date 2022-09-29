@@ -1153,3 +1153,7 @@ npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-952' --url='https://www.ftc.gov/p
 
 # Gayathri.Udara
 npm run scraper -- --sp='UN--USECS--REG--COM-GUI-REG-MAN-DIS' --url='https://www.sec.gov/rules/interp/33-8350.htm' --path='C:\Users\gayathri.udara\Downloads\ease'
+
+# Dilan.Ramanayaka
+npm run scraper -- --sp='UN--USECS--REG--COM-INT-REG-SOL-INC' --url='https://www.federalregister.gov/documents/2019/07/12/2019-12209/commission-interpretation-regarding-the-solely-incidental-prong-of-the-broker-dealer-exclusion-from' --path='C:\Users\dilan.ramanayaka\Documents\Insighture\output'
+npm run scraper -- --sp='AU--APRAA--REG--SIS-ACT-TFN-APP-OCT-2017' --url='https://www.apra.gov.au/tax-file-number-approvals' --path='C:\Users\dilan.ramanayaka\Documents\Insighture\output'
