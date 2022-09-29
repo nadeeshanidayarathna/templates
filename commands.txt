@@ -510,6 +510,7 @@ npm run scraper -- --sp='CA--CDI--REG--BUL-20218-CAL-SUP-COU' --url='http://www.
 npm run scraper -- --sp='AU--AS--REG--ASI-MAR-INT-RUL-IMB-2010' --url='https://www.legislation.gov.au/Latest/F2022C00523' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AU--AP--REG--FIN-SEC-COL-DAT-REP' --url='https://www.legislation.gov.au/Latest/F2017L00728' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='EG--EG--REG--LAW-NO-115-2008-AME' --url='https://www.cc.gov.eg/legislation_single?id=128994' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='IR--CBI--REG--EUR-COM-DIS-MAR-CON-0' --url='https://www.irishstatutebook.ie/eli/2004/si/853/made/en/print' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
