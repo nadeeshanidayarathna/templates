@@ -807,6 +807,7 @@ npm run scraper -- --sp='SI--MASM--REG--NOT-506-TEC-RIS-MAN' --url='https://www.
 npm run scraper -- --sp='UN--FTC--REG--INC-REQ-COM-STA-ADV' --url='https://www.ftc.gov/system/files/documents/advisory_opinions/letter-alden-f-abbott-associate-director-bureau-competition-alan-l-cohen-vice-president-general/170309_bbb_request_letter_1-19-2007.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--LET-FRO-STE-ROS-CHI' --url='https://www.ftc.gov/system/files/documents/advisory_opinions/letter-stephanie-rosenthal-chief-staff-division-financial-practices-bureau-consumer-protection-jeff.s.department-education/160407letter_dept_ed.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--INC-REQ-COM-STA-ADV-0' --url='https://www.ftc.gov/system/files/documents/advisory_opinions/letter-stephanie-rosenthal-chief-staff-division-financial-practices-bureau-consumer-protection-jeff.s.department-education/160407request_dept_ed.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='SI--MASM--REG--GUI-RIS-MAN-PRA-LIQ' --url='https://www.mas.gov.sg/regulation/guidelines/guidelines-on-risk-management-practices--liquidity-risk' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
