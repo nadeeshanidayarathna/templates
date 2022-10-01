@@ -835,6 +835,7 @@ npm run scraper -- --sp='UN--FTC--REG--INC-REQ-COM-STA-ADV-0' --url='https://www
 npm run scraper -- --sp='SI--MASM--REG--GUI-RIS-MAN-PRA-LIQ' --url='https://www.mas.gov.sg/regulation/guidelines/guidelines-on-risk-management-practices--liquidity-risk' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--MAS-127-NOT-TEC-RIS-MAN' --url='https://www.mas.gov.sg/regulation/notices/notice-127' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--OPI-091' --url='https://www.ftc.gov/sites/default/files/documents/advisory_opinions/opinion-09-1/opinion0901_1.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UN--FTC--REG--OPINION141' --url='https://www.ftc.gov/system/files/documents/advisory_opinions/opinion-14-1/opinion_14-1.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
