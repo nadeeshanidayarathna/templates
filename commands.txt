@@ -514,6 +514,7 @@ npm run scraper -- --sp='IR--CBI--REG--EUR-COM-DIS-MAR-CON-0' --url='https://www
 npm run scraper -- --sp='EG--EG--REG--MIN-FIN-DEC-NO-779' --url='https://www.cc.gov.eg/legislation_single?id=406630' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SP--SG--REG--ON-CLE-SET-REG-MAR' --url='https://www.boe.es/buscar/pdf/2015/BOE-A-2015-10637-consolidado.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IN--SEBI--REG--COM-PRO-ALL-SEC-RUL-2014' --url='https://www.sebi.gov.in/legal/rules/apr-2014/companies-prospectus-and-allotment-of-securities-rules-2014_34655.html' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--APRAA--REG--FIN-SEC-COL-DAT-REP' --url='https://www.legislation.gov.au/Details/F2013L00109' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
