@@ -837,6 +837,7 @@ npm run scraper -- --sp='SI--MASM--REG--MAS-127-NOT-TEC-RIS-MAN' --url='https://
 npm run scraper -- --sp='UN--FTC--REG--OPI-091' --url='https://www.ftc.gov/sites/default/files/documents/advisory_opinions/opinion-09-1/opinion0901_1.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--OPINION141' --url='https://www.ftc.gov/system/files/documents/advisory_opinions/opinion-14-1/opinion_14-1.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--CON-REN-8220RMB8221-BUS-SIN' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Commercial%20Banks/Regulations%20Guidance%20and%20Licensing/Circulars/Revised%20Circular%20on%20Conduct%20of%20Renminbi.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='SI--MASM--REG--MAS-CIR-CAN-2013' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Commercial%20Banks/Regulations%20Guidance%20and%20Licensing/Circulars/SRD%20TR%2002%202013%20MAS%20Circular%20Cancellation%202013.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
