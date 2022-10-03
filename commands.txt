@@ -852,6 +852,7 @@ npm run scraper -- --sp='SI--MASM--REG--FOR-EXC-CON-CHI-VIA' --url='https://www.
 npm run scraper -- --sp='SI--MASM--REG--MAS-NOT-650-COL-STA' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Commercial%20Banks/Regulations%20Guidance%20and%20Licensing/Notices/MAS%20Notice%20650.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--MAS-NOT-644-TEC-RIS-MAN' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Commercial%20Banks/Regulations%20Guidance%20and%20Licensing/Notices/Notice%20MAS%20644.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--NOT-644A-TEC-RIS-MAN' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Commercial%20Banks/Regulations%20Guidance%20and%20Licensing/Notices/Notice%20MAS%20644A.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='SI--MASM--REG--NOT-FAAN18-TEC-RIS-MAN' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Financial%20Advisers/Notices/Notice%20FAAN18.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
