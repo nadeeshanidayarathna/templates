@@ -1076,6 +1076,10 @@ npm run scraper -- --sp='IN--RBI--REG--GUI-REC-DUE-REL-NON-1' --url='https://www
 npm run scraper -- --sp='IN--RBI--REG--GUI-REC-DUE-REL-NON-2' --url='https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=211&Mode=0' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='IN--RBI--REG--MAS-CIR-DET-IMP-COU-NOT' --url='https://www.rbi.org.in/scripts/BS_ViewMasCirculardetails.aspx?id=11317' --path='C:\Users\venoli.gamage\Downloads'
 
+#Minila.Satharana
+npm run scraper -- --sp='IR--CBI--REG--ADD-COD-CON-MOR-ARR-2013' --url='https://www.centralbank.ie/docs/default-source/regulation/consumer-protection/other-codes-of-conduct/23-gns-4-2-7-mortgage-arrears-2013.pdf?sfvrsn=4' --path='C:\Users\minila.satharana\Downloads'
+npm run scraper -- --sp='IR--CBI--REG--FEB-2013-LET-RE-REP' --url='https://www.centralbank.ie/docs/default-source/regulation/industry-market-sectors/insurance-reinsurance/non-solvency-ii-(life)/requirements-and-guidance/correspondence-relevant-to-life-insurance-undertakings/gns-4-4-10-2-2---reports-underlying-sao---feb-2013.pdf?sfvrsn=' --path='C:\Users\minila.satharana\Downloads'
+
 # mahidi.maduwage
 npm run scraper -- --sp='CH--SAFES--REG--NOT-MIN-COM-STA-ADM-1' --url='https://www.safe.gov.cn/safe/2006/0602/5526.html' --path='C:\Users\mahidi.maduwage\Downloads\ease'
 npm run scraper -- --sp='IR--CBI--REG--NON-INS-PRO-INF-REN' --url='http://www.irishstatutebook.ie/eli/2007/si/74/made/en/print' --path='C:\Users\mahidi.maduwage\Downloads\ease'
