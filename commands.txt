@@ -871,6 +871,7 @@ npm run scraper -- --sp='IR--CBI--REG--DEC-2011-LET-RE-RIS' --url='https://www.c
 npm run scraper -- --sp='IR--CBI--REG--MAY-2015-LET-RE-FEE' --url='https://www.centralbank.ie/docs/default-source/regulation/industry-market-sectors/insurance-reinsurance/non-solvency-ii-(life)/requirements-and-guidance/correspondence-relevant-to-non-solvency-ii-undertakings/may-2015---letter-re-feedback-on-the-forward-looking-assessment-of-own-risk-(flaor).pdf?sfvrsn=6f98d11d_2' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--CLO-LET-DIR-REG-AFF' --url='https://www.ftc.gov/system/files/documents/closing_letters/nid/staff_lettertoaham-10-13-16.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--CFTCC--REG--TRE-FUN-HEL-CON-WIT-0' --url='https://www.cftc.gov/sites/default/files/idc/groups/public/@requestsandactions/documents/ifdocs/icecleareurope4dfcds040913.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='AU--ACCCA--REG--AUS-COM-CON-FED-TRA' --url='https://pdfconversionupload.z33.web.core.windows.net/word/bf2c31d8-ab76-434b-a15b-60e66aff05c7%20%20%20-ACCC%20%20USFTC%20mutual%20enforcement.docx' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
