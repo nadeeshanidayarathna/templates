@@ -537,6 +537,7 @@ npm run scraper -- --sp='SI--MASM--REG--NOT-PER-EXE-UND-REG' --url='https://www.
 npm run scraper -- --sp='SI--MASM--REG--ENH-ANT-LAU-COU-FIN-2' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Securities%20Futures%20and%20Fund%20Management/Regulations%20Guidance%20and%20Licensing/Circulars/SFA%20%20CMI%20022015%20%20Circular%20to%20broker%20dealers%20on%20enhancing%20AMLCFT%20measures%20and%20business%20conduct%20%208Oct2018.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--STA-OPI-LET-REL-P252RLIN8217S' --url='https://www.ftc.gov/system/files/documents/advisory_opinions/letter-jock-chung-staff-attorney-division-enforcement-bureau-consumer-protection/purlin_staff_opinion_letter_final.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--STA-ADV-OPI-LET-FRO' --url='https://www.ftc.gov/sites/default/files/documents/advisory_opinions/independent-connecticut-petroleum-association/120702petroleumstaffletter.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--FTC--REG--LET-FRO-MAR-H-MEI-0' --url='https://www.ftc.gov/sites/default/files/documents/advisory-opinions/generic-pharmaceutical-association/120808gphaopinion.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
