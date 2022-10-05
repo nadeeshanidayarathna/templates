@@ -538,6 +538,7 @@ npm run scraper -- --sp='SI--MASM--REG--ENH-ANT-LAU-COU-FIN-2' --url='https://ww
 npm run scraper -- --sp='UN--FTC--REG--STA-OPI-LET-REL-P252RLIN8217S' --url='https://www.ftc.gov/system/files/documents/advisory_opinions/letter-jock-chung-staff-attorney-division-enforcement-bureau-consumer-protection/purlin_staff_opinion_letter_final.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--STA-ADV-OPI-LET-FRO' --url='https://www.ftc.gov/sites/default/files/documents/advisory_opinions/independent-connecticut-petroleum-association/120702petroleumstaffletter.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--LET-FRO-MAR-H-MEI-0' --url='https://www.ftc.gov/sites/default/files/documents/advisory-opinions/generic-pharmaceutical-association/120808gphaopinion.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--FTC--REG--INC-LET-FRO-GEN-PHA' --url='https://www.ftc.gov/sites/default/files/documents/advisory-opinions/generic-pharmaceutical-association/120810gphapublicrecordletter.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
