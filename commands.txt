@@ -542,6 +542,7 @@ npm run scraper -- --sp='UN--FTC--REG--INC-LET-FRO-GEN-PHA' --url='https://www.f
 npm run scraper -- --sp='UN--FTC--REG--DEP-JUS-FED-TRA-COM' --url='https://www.ftc.gov/system/files/documents/public_statements/297681/140410ftcdojcyberthreatstmt.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--US-EU-MER-WOR-GRO' --url='https://www.ftc.gov/system/files/documents/public_statements/310481/111014eumerger.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='GU--GFSC--REG--THE-REG-FID-ACC-RUL-2001' --url='https://www.gfsc.gg/sites/default/files/Regulation-of-Fiduciaries-(Accounts)-Rules,-2001-(consolidated-text).pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--APRAA--REG--FIN-SEC-COL-DAT-REP-7' --url='https://www.legislation.gov.au/Details/F2020L01555' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
