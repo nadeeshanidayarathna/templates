@@ -550,6 +550,7 @@ npm run scraper -- --sp='IR--CBI--REG--COD-CON-SWI-CUR-ACC' --url='https://www.c
 npm run scraper -- --sp='IR--CBI--REG--JAN-2011-SOA-RES-REQ' --url='https://www.centralbank.ie/docs/default-source/regulation/industry-market-sectors/insurance-reinsurance/non-solvency-ii-(life)/requirements-and-guidance/correspondence-relevant-to-life-insurance-undertakings/gns-4-4-10-2-2---va-reqts-clarifications---jan-2011.pdf?sfvrsn=' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IR--CBI--REG--FEB-2013-LET-HIG-IMP' --url='https://www.centralbank.ie/docs/default-source/regulation/industry-market-sectors/insurance-reinsurance/non-solvency-ii-(life)/requirements-and-guidance/correspondence-specific-to-non-life-insurance-undertakings/gns-4-4-10-2-2---reports-nl-sao---feb-2013.pdf?sfvrsn=' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AU--ASICA--REG--ASI-CRE-UPD-DET-PRE' --url='https://www.legislation.gov.au/Details/F2016L00319/f22e9b92-e108-48c3-9cf0-d70723fcbc51' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--APRAA--REG--BAN-RES-WOR-OR-EXP' --url='https://www.legislation.gov.au/Details/F2015L01473/46541ea3-d318-469a-9025-78eae9d738a7' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
