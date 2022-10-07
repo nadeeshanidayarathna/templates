@@ -1276,8 +1276,10 @@ npm run scraper -- --sp='CA--PC--REG--CAN-PAY-ASS-BYL-NO-LYN' --url='https://law
 npm run scraper -- --sp='SA--GSA--REG--FIR-FOL-NAT-SEC-CIV' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/0657dfce-95f8-463a-9d87-aa3900ec7b51/1' --path='C:\Users\vinoo.jayakody\Downloads\ease'
 
 #Manisha
-npm run scraper -- --sp='UK--UG--REG--DGF-DEC-ABO-ORD-WHI' --url='https://zakon.rada.gov.ua/laws/show/en/z1314-12#Text' --path='C:\Users\manisha.meganathan\Documents\ease'
-npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-952' --url='https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-95-2' --path='C:\Users\manisha.meganathan\Documents\ease'
+npm run scraper -- --sp='UK--UG--REG--DGF-DEC-ABO-ORD-WHI' --url='https://zakon.rada.gov.ua/laws/show/en/z1314-12#Text' --path='C:\Users\manisha.meganathan\Documents\spider_ease'
+npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-952' --url='https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-95-2' --path='C:\Users\manisha.meganathan\Documents\spider_ease'
+npm run scraper -- --sp='IN--LPSL--REG--REP-IND-LAW-NO-92016' --url='https://lps.go.id/documents/10157/1242526/UU%20Nomor%209%20Tahun%202016%20tentang%20Pencegahan%20dan%20Penanganan%20Krisis%20Sistem%20Keuangan/67217c1f-f5b2-41b4-86f8-3ea3a064bf35' --path='C:\Users\manisha.meganathan\Documents\spider_ease'
+
 
 # Gayathri.Udara
 npm run scraper -- --sp='UN--USECS--REG--COM-GUI-REG-MAN-DIS' --url='https://www.sec.gov/rules/interp/33-8350.htm' --path='C:\Users\gayathri.udara\Downloads\ease'
