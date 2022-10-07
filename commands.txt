@@ -556,6 +556,7 @@ npm run scraper -- --sp='AU--ASICA--REG--ASI-COR-REG-SCH-FEE' --url='https://www
 npm run scraper -- --sp='AU--ASICA--REG--ASI-COR-DEB-PRO-INS-201675' --url='https://www.legislation.gov.au/Details/F2016L00343' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--GUI-CAL-COU-RIS-REQ' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Securities%20Futures%20and%20Fund%20Management/Regulations%20Guidance%20and%20Licensing/Guidelines/FMR%20N02pdf.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AU--ASICA--REG--ASI-COR-EXP-PER-INS-201674' --url='https://www.legislation.gov.au/Details/F2016L00347' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--ASICA--REG--ASI-COR-ELE-LOD-FIN' --url='https://www.legislation.gov.au/Details/F2016L00452' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
