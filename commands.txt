@@ -1279,6 +1279,7 @@ npm run scraper -- --sp='SA--GSA--REG--FIR-FOL-NAT-SEC-CIV' --url='https://laws.
 npm run scraper -- --sp='UK--UG--REG--DGF-DEC-ABO-ORD-WHI' --url='https://zakon.rada.gov.ua/laws/show/en/z1314-12#Text' --path='C:\Users\manisha.meganathan\Documents\spider_ease'
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-952' --url='https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-95-2' --path='C:\Users\manisha.meganathan\Documents\spider_ease'
 npm run scraper -- --sp='IN--LPSL--REG--REP-IND-LAW-NO-92016' --url='https://lps.go.id/documents/10157/1242526/UU%20Nomor%209%20Tahun%202016%20tentang%20Pencegahan%20dan%20Penanganan%20Krisis%20Sistem%20Keuangan/67217c1f-f5b2-41b4-86f8-3ea3a064bf35' --path='C:\Users\manisha.meganathan\Documents\spider_ease'
+npm run scraper -- --sp='SI--MASM--REG--BRI-LOA-PUR-IMM-PRO' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Insurance/Regulations%20Guidance%20and%20Licensing/Notices/Notices%20to%20All%20Insurers/MAS%20Notice%20116_29%20Nov%202013.pdf' --path='C:\Users\manisha.meganathan\Documents\spider_ease'
 
 
 # Gayathri.Udara
