@@ -1283,6 +1283,7 @@ npm run scraper -- --sp='IN--LPSL--REG--REP-IND-LAW-NO-92016' --url='https://lps
 
 # Gayathri.Udara
 npm run scraper -- --sp='UN--USECS--REG--COM-GUI-REG-MAN-DIS' --url='https://www.sec.gov/rules/interp/33-8350.htm' --path='C:\Users\gayathri.udara\Downloads\ease'
+npm run scraper -- --sp='AU--APRAA--REG--LRS-1143-OFF-SHE-BUS' --url='https://pdfconversionupload.z33.web.core.windows.net/pdfs/F2013L00371%20(1).pdf' --path='C:\Users\gayathri.udara\Downloads'
 
 # Dilan.Ramanayaka
 npm run scraper -- --sp='UN--USECS--REG--COM-INT-REG-SOL-INC' --url='https://www.federalregister.gov/documents/2019/07/12/2019-12209/commission-interpretation-regarding-the-solely-incidental-prong-of-the-broker-dealer-exclusion-from' --path='C:\Users\dilan.ramanayaka\Documents\Insighture\output'
