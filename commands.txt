@@ -902,6 +902,7 @@ npm run scraper -- --sp='UN--FTC--REG--CLO-LET-DIR-REG-AFF' --url='https://www.f
 npm run scraper -- --sp='UN--CFTCC--REG--TRE-FUN-HEL-CON-WIT-0' --url='https://www.cftc.gov/sites/default/files/idc/groups/public/@requestsandactions/documents/ifdocs/icecleareurope4dfcds040913.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AU--ACCCA--REG--AUS-COM-CON-FED-TRA' --url='https://pdfconversionupload.z33.web.core.windows.net/word/bf2c31d8-ab76-434b-a15b-60e66aff05c7%20%20%20-ACCC%20%20USFTC%20mutual%20enforcement.docx' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--BEBPRAP--REG--DER-CLE-OBL-MOD-REF' --url='https://www.bankofengland.co.uk/paper/2022/derivatives-clearing-obligation-modifications-reflect-usd-interest-rate-benchmark-reform-amendment' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='SI--MASM--REG--CFC-022022-DIS-REP-GUI' --url='https://www.mas.gov.sg/regulation/circulars/cfc-02-2022---disclosure-and-reporting-guidelines-for-retail-esg-funds' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
