@@ -905,6 +905,7 @@ npm run scraper -- --sp='UN--BEBPRAP--REG--DER-CLE-OBL-MOD-REF' --url='https://w
 npm run scraper -- --sp='SI--MASM--REG--CFC-022022-DIS-REP-GUI' --url='https://www.mas.gov.sg/regulation/circulars/cfc-02-2022---disclosure-and-reporting-guidelines-for-retail-esg-funds' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='DI--DCG--REG--FOR-MOR-EXT-REV-HOM-0' --url='https://lims.dccouncil.gov/downloads/LIMS/49864/Signed_Act/B24-0884-Signed_Act.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IR--CBI--REG--FEB-2014-LET-HIG-IMP' --url='https://www.centralbank.ie/docs/default-source/regulation/industry-market-sectors/insurance-reinsurance/non-solvency-ii-(life)/requirements-and-guidance/correspondence-specific-to-non-life-insurance-undertakings/gns-4-4-10-2-2---reports-underlying-saos-feb2014.pdf?sfvrsn=' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='DI--DCG--REG--FOR-MOR-EXT-REV-HOM-1' --url='https://lims.dccouncil.gov/downloads/LIMS/49863/Signed_Act/B24-0883-Signed_Act.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
