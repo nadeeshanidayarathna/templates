@@ -551,6 +551,18 @@ npm run scraper -- --sp='IR--CBI--REG--JAN-2011-SOA-RES-REQ' --url='https://www.
 npm run scraper -- --sp='IR--CBI--REG--FEB-2013-LET-HIG-IMP' --url='https://www.centralbank.ie/docs/default-source/regulation/industry-market-sectors/insurance-reinsurance/non-solvency-ii-(life)/requirements-and-guidance/correspondence-specific-to-non-life-insurance-undertakings/gns-4-4-10-2-2---reports-nl-sao---feb-2013.pdf?sfvrsn=' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AU--ASICA--REG--ASI-CRE-UPD-DET-PRE' --url='https://www.legislation.gov.au/Details/F2016L00319/f22e9b92-e108-48c3-9cf0-d70723fcbc51' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AU--APRAA--REG--BAN-RES-WOR-OR-EXP' --url='https://www.legislation.gov.au/Details/F2015L01473/46541ea3-d318-469a-9025-78eae9d738a7' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='IR--CBI--REG--FEB-2011-CEN-BAN-RES' --url='https://www.centralbank.ie/docs/default-source/regulation/industry-market-sectors/insurance-reinsurance/non-solvency-ii-(life)/requirements-and-guidance/correspondence-relevant-to-life-insurance-undertakings/gns-4-4-10-2-2---cb-response-to-soai---feb-2011.pdf?sfvrsn=' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--ASICA--REG--ASI-COR-REG-SCH-FEE' --url='https://www.legislation.gov.au/Details/F2017L00202' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--ASICA--REG--ASI-COR-DEB-PRO-INS-201675' --url='https://www.legislation.gov.au/Details/F2016L00343' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SI--MASM--REG--GUI-CAL-COU-RIS-REQ' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Securities%20Futures%20and%20Fund%20Management/Regulations%20Guidance%20and%20Licensing/Guidelines/FMR%20N02pdf.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--ASICA--REG--ASI-COR-EXP-PER-INS-201674' --url='https://www.legislation.gov.au/Details/F2016L00347' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--ASICA--REG--ASI-COR-ELE-LOD-FIN' --url='https://www.legislation.gov.au/Details/F2016L00452' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--ASICA--REG--ASI-COR-ASX-SCH-ONM' --url='https://www.legislation.gov.au/Details/F2016L01946' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--ASICA--REG--ASI-COR-CON-STA-INS-201672' --url='https://www.legislation.gov.au/Details/F2017C00928' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--ASICA--REG--ASI-COR-DEM-SEC-AUS' --url='https://www.legislation.gov.au/Details/F2016L01503' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--ASICA--REG--ASI-COR-CSS-FIN-SER' --url='https://www.legislation.gov.au/Details/F2022C00867' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--ASICA--REG--ASI-AME-REP-TRA-INS-2017839' --url='https://www.legislation.gov.au/Details/F2017L01269' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--ASICA--REG--ASI-COR-DAP-STR-BOT' --url='https://www.legislation.gov.au/Latest/F2017L01549' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
