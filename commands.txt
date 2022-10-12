@@ -925,6 +925,7 @@ npm run scraper -- --sp='UN--USECS--REG--INT-SEC8217S-WHI-RUL-UND' --url='https:
 npm run scraper -- --sp='AU--APRAA--REG--RES-PER-UND-PRU-STA' --url='https://www.apra.gov.au/sites/default/files/RF-520-0-Responsible-Persons-under-CPS-520-Instructions-May-2013_2.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IR--CBI--REG--LIF-ASS-PRO-INF-REG' --url='https://www.centralbank.ie/docs/default-source/regulation/consumer-protection/legislation/industry-guidance-letter---life-assurance-(provision-of-information)-regulations-(amendment)-regulations-2017.pdf?sfvrsn=4' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--CFTCC--REG--TRE-FUN-HEL-CON-WIT' --url='https://www.cftc.gov/sites/default/files/idc/groups/public/@newsroom/documents/file/icecreditclearorder011413.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UN--FTC--REG--LET-FRO-ELA-D-KOL-0' --url='https://www.ftc.gov/sites/default/files/documents/advisory_opinions/lands-end-inc./landsend.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
