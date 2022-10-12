@@ -567,6 +567,7 @@ npm run scraper -- --sp='AU--ASICA--REG--ASI-CLA-ORD-CO-131621' --url='https://w
 npm run scraper -- --sp='AU--ASICA--REG--CHA-RES-ENT' --url='https://www.legislation.gov.au/Details/F2013L01100' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AU--APRAA--REG--TRE-RUR-EXP-AS-COM' --url='https://www.apra.gov.au/treatment-of-rural-exposures-as-commercial-property-ars-2300-and-income-producing-real-estate-ipre' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AU--ASICA--REG--CO-13657-DIS-AFF-AMO' --url='https://www.legislation.gov.au/Details/F2013L00979' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--ASICA--REG--ASI-CLA-ORD-CO-13721' --url='https://www.legislation.gov.au/Details/F2021C00832' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
