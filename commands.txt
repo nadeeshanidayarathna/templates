@@ -564,6 +564,7 @@ npm run scraper -- --sp='AU--ASICA--REG--ASI-COR-CSS-FIN-SER' --url='https://www
 npm run scraper -- --sp='AU--ASICA--REG--ASI-AME-REP-TRA-INS-2017839' --url='https://www.legislation.gov.au/Details/F2017L01269' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AU--ASICA--REG--ASI-COR-DAP-STR-BOT' --url='https://www.legislation.gov.au/Latest/F2017L01549' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AU--ASICA--REG--ASI-CLA-ORD-CO-131621' --url='https://www.legislation.gov.au/Details/F2016C01088' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--ASICA--REG--CHA-RES-ENT' --url='https://www.legislation.gov.au/Details/F2013L01100' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
