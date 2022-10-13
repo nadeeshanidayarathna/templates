@@ -928,6 +928,7 @@ npm run scraper -- --sp='UN--CFTCC--REG--TRE-FUN-HEL-CON-WIT' --url='https://www
 npm run scraper -- --sp='UN--FTC--REG--LET-FRO-ELA-D-KOL-0' --url='https://www.ftc.gov/sites/default/files/documents/advisory_opinions/lands-end-inc./landsend.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--ENF-POL-STA-REG-CER' --url='https://www.ftc.gov/system/files/documents/public_statements/299821/guaranty_policy_statement.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--MAS-NOT-830-TEC-RIS-MAN' --url='https://www.mas.gov.sg/-/media/MAS/Notices/PDF/Notice-MAS-830.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='RU--TCBRF--REG--INF-BAN-RUS-DAT-30062022' --url='https://www.cbr.ru/press/event/?id=13976' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
