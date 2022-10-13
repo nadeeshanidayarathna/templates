@@ -931,6 +931,7 @@ npm run scraper -- --sp='SI--MASM--REG--MAS-NOT-830-TEC-RIS-MAN' --url='https://
 npm run scraper -- --sp='RU--TCBRF--REG--INF-BAN-RUS-DAT-30062022' --url='https://www.cbr.ru/press/event/?id=13976' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--DTU--REG--NOT-SEE-PUB-COM-ADD' --url='https://www.federalregister.gov/documents/2022/06/27/2022-13540/notice-seeking-public-comment-on-additional-transparency-for-secondary-market-transactions-of' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--FED-TRA-COM-DEP-JUS' --url='https://www.ftc.gov/system/files/documents/public_statements/300471/111028mssp-summary.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='IR--CBI--REG--LET-ISS-DEB-MAN-FIR' --url='https://www.centralbank.ie/docs/default-source/regulation/consumer-protection/5-gns-4-2-7-letter-debt-m.pdf?sfvrsn=4c5dd71d_6' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
