@@ -935,6 +935,7 @@ npm run scraper -- --sp='IR--CBI--REG--LET-ISS-DEB-MAN-FIR' --url='https://www.c
 npm run scraper -- --sp='IR--CBI--REG--CRI-JUS-ACT-2013-COM-ORD' --url='https://www.irishstatutebook.ie/eli/2013/si/196/made/en/pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--INS-APP-OFF-EXE-POW' --url='https://www.mas.gov.sg/-/media/MAS/resource/legislation_guidelines/insurance/Notifications/Insurance-Appointment-of-Officers-to-Exercise-Powers-to-Grant-Exemption-Notification-2015.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--NOT-1114-TEC-RIS-MAN-0' --url='https://www.mas.gov.sg/-/media/MAS/Notices/PDF/Notice-MAS-1114.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UN--FTC--REG--LET-FRO-MAR-J-HOR-1' --url='https://www.ftc.gov/sites/default/files/documents/advisory-opinions/benedictine-health-centers/3.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
