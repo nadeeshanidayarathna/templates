@@ -571,6 +571,7 @@ npm run scraper -- --sp='AU--ASICA--REG--ASI-CLA-ORD-CO-13721' --url='https://ww
 npm run scraper -- --sp='CZ--TOFPDP--REG--FRE-ASK-QUE-ABO-ACT' --url='https://www.uoou.cz/casto-kladene-otazky-k-zakonu-c-480-2004-sb/ds-5494/archiv=0' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='CH--SAFES--REG--ANN-NO-2022-PEO-BAN' --url='https://www.safe.gov.cn/safe/2022/0527/21019.html' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AR--MDTEYSS--REG--THE-AGR-CON-BET-BAN' --url='https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-550-2022-370759/texto' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SI--MASM--REG--CAP-TRE-CRE-DER' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Commercial%20Banks/Regulations%20Guidance%20and%20Licensing/Notices/MAS%20Notice%20627.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
