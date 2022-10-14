@@ -939,6 +939,7 @@ npm run scraper -- --sp='UN--FTC--REG--LET-FRO-MAR-J-HOR-1' --url='https://www.f
 npm run scraper -- --sp='SI--MASM--REG--FOR-APP-IMP-OR-CHA-0' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Securities%20Futures%20and%20Fund%20Management/IID%20Forms/CCP%20%20Form%2051Aug2013.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AU--APRAA--REG--APS-310-AUD-REL-MAT' --url='https://www.legislation.gov.au/Details/F2014L01657/9a5fee93-5f33-46ef-9afc-5334b119fc4a' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IR--CBI--REG--PRO-DIR-200371EC-AME-REG-2015' --url='https://www.irishstatutebook.ie/eli/2015/si/406/made/en/pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='IR--CBI--REG--PRO-DIR-200371EC-AME-NO' --url='https://www.irishstatutebook.ie/eli/2015/si/567/made/en/pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
