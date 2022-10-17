@@ -576,8 +576,9 @@ npm run scraper -- --sp='SI--MASM--REG--FOR-NOT-APP-TEM-REP' --url='https://www.
 npm run scraper -- --sp='SI--MASM--REG--GUI-ONL-DIS-LIF-POL-0' --url='https://www.mas.gov.sg/regulation/guidelines/guidelines-on-the-online-distribution-of-life-policies-with-no-advice' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--DUE-DIL-CHE-DOC-RES' --url='https://www.mas.gov.sg/-/media/MAS/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Financial-Advisers/Circulars/SFA-FAA--Circular-CMI-01-2011--Due-Diligence-checks-and-documentation-for-appointment-and-temp-reps.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--BOA-SEN-MAN' --url='https://www.mas.gov.sg/-/media/MAS/Regulations-and-Financial-Stability/Regulatory-and-Supervisory-Framework/Risk-Management/Board-and-Senior-Mgmt_01-Jul-2021.pdf' --path='C:\Users\raveendran.pira\Downloads'
-npm run scraper -- --sp='CO--CG--REG--D6OF1M30ITTSFTA' --url='http://www.suin-juriscol.gov.co/viewDocument.asp?id=1132325' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SI--MASM--REG--GUI-NO-FAAG04-STA-CON' --url='https://www.mas.gov.sg/regulation/guidelines/guidelines-on-standards-of-conduct-for-financial-advisers-and-representatives' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--GUI-NO-FAAG07-EXE-SPE' --url='https://www.mas.gov.sg/regulation/guidelines/guidelines-for-exemption-for-specialised-units-serving-high-net-worth-individuals' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AR--MDTEYSS--REG--AGR-CON-BET-TRA-UNI' --url='https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-1200-2022-371294/texto' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
