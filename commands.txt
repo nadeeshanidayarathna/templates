@@ -969,6 +969,7 @@ npm run scraper -- --sp='BR--BBBB--REG--GUI-NOT-MON-SOU-LOG' --url='https://www.
 npm run scraper -- --sp='UN--FRCF--REG--FRS-104-INT-FIN-REP' --url='https://www.frc.org.uk/getattachment/296bdec8-cc57-4546-878e-ad80b75a8cae/FRS-104-(January-2022)(1).pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='GU--GFSC--REG--THE-GUE-GRE-FUN-RUL-2018' --url='https://www.gfsc.gg/sites/default/files/20180709%20-%20Guernsey%20Green%20Fund%20Rules.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SU--ESMAE--REG--COM-GRO-TAX-CLI-CHA-MIT' --url='https://ec.europa.eu/info/sites/default/files/business_economy_euro/banking_and_finance/documents/211104-ipsf-common-ground-taxonomy-instruction-report-2021_en.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='SI--MASM--REG--NET-0' --url='https://www.mas.gov.sg/-/media/MAS/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Commercial-Banks/Regulations-Guidance-and-Licensing/Notices/MAS-Notice-653-effective-1-July-2022.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
