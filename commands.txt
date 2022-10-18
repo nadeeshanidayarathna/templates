@@ -583,6 +583,7 @@ npm run scraper -- --sp='UN--PSR--REG--MR2221-MAR-REV-UKE-CON' --url='https://ww
 npm run scraper -- --sp='IN--NSDL--REG--COR-INS-RES-PRO-YIE' --url='https://ibbi.gov.in/uploads/whatsnew/317ab3c35a84d4cfa9619bceda795d9b.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IN--NSDL--REG--COR-INS-RES-PRO-WIT' --url='https://ibbi.gov.in/uploads/whatsnew/3492c4d9c13a0f411b8571744da52cd6.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IN--NSDL--REG--COR-INS-RES-PRO-END' --url='https://ibbi.gov.in/uploads/whatsnew/9ef9fd83da744f5e99303217b2d97d27.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SI--MASM--REG--BUS-TRU-GUI-PER-OFF' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Securities%20Futures%20and%20Fund%20Management/Regulations%20Guidance%20and%20Licensing/Guidelines/Business%20Trust%20Guidelines%203.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
