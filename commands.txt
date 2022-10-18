@@ -967,6 +967,7 @@ npm run scraper -- --sp='AU--ASICA--REG--ASI-CRE-AFC-TRA-INS-2018448' --url='htt
 npm run scraper -- --sp='IN--SEBI--REG--SEC-10' --url='https://www.sebi.gov.in/legal/regulations/aug-2022/securities-and-exchange-board-of-india-intermediaries-regulations-2008-last-amended-on-august-1-2022-_61700.html' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='BR--BBBB--REG--GUI-NOT-MON-SOU-LOG' --url='https://www.b3.com.br/data/files/26/45/34/00/3B222810C493CD08AC094EA8/CE%20010-2022%20PRE%20+%20ANEXO%20-%20Nota%20de%20Orienta%C3%A7%C3%A3o%20sobre%20monitoramento%20da%20origem%20do%20registro%20de%20ordens%20e%20opera%C3%A7%C3%B5es%20(PT).pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--FRCF--REG--FRS-104-INT-FIN-REP' --url='https://www.frc.org.uk/getattachment/296bdec8-cc57-4546-878e-ad80b75a8cae/FRS-104-(January-2022)(1).pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='GU--GFSC--REG--THE-GUE-GRE-FUN-RUL-2018' --url='https://www.gfsc.gg/sites/default/files/20180709%20-%20Guernsey%20Green%20Fund%20Rules.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
