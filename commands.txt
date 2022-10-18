@@ -586,6 +586,7 @@ npm run scraper -- --sp='IN--NSDL--REG--COR-INS-RES-PRO-END' --url='https://ibbi
 npm run scraper -- --sp='SI--MASM--REG--BUS-TRU-GUI-PER-OFF' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Securities%20Futures%20and%20Fund%20Management/Regulations%20Guidance%20and%20Licensing/Guidelines/Business%20Trust%20Guidelines%203.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SR--FIUSL--REG--AME-LIS-DES-PER-UND' --url='http://fiusrilanka.gov.lk/docs/UNSCR/List/2291_02/2291-02_E.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IR--CBI--REG--NOV-2014-REQ-LIF-REI-UND' --url='https://www.centralbank.ie/docs/default-source/regulation/industry-market-sectors/insurance-reinsurance/non-solvency-ii-(life)/requirements-and-guidance/ongoing-requirements-guidance-specific-to-reinsurance-undertakings/gns-4-4-10-2-2---sprv---dec-2012.pdf?sfvrsn=' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SU--ESMAE--REG--ABL-BAN-AS-EN-LIQ' --url='https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62021CJ0202' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
