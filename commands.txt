@@ -985,6 +985,7 @@ npm run scraper -- --sp='IN--IG--REG--INF-TEC-QUA-EXP-ADJ' --url='https://upload
 npm run scraper -- --sp='IN--IG--REG--INF-TEC-OTH-STA-RUL-2003' --url='https://upload.indiacode.nic.in/showfile?actid=AC_CEN_45_76_00001_200021_1517807324077&type=rule&filename=Information%20Technology%20Other%20Standards%20Rules%202003.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IN--IG--REG--INF-TEC-GUI-CYB-CAF' --url='https://upload.indiacode.nic.in/showfile?actid=AC_CEN_45_76_00001_200021_1517807324077&type=rule&filename=Information%20TechnologyGuidelines%20for%20Cyber%20Cafe%20Rules)%20Rules,%202011%20.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AU--APRAA--REG--SPG-511-REM' --url='https://www.apra.gov.au/sites/default/files/prudential-practice-guide-spg-511-remuneration.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='GU--GFSC--REG--QUA-INV-FUN-GUI-8211' --url='https://www.gfsc.gg/sites/default/files/2021-10/Qualifying%20Investor%20Funds%20(QIF)%20Guidance%20Note.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
