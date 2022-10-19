@@ -589,6 +589,8 @@ npm run scraper -- --sp='IR--CBI--REG--NOV-2014-REQ-LIF-REI-UND' --url='https://
 npm run scraper -- --sp='SU--ESMAE--REG--ABL-BAN-AS-EN-LIQ' --url='https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62021CJ0202' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IR--CBI--REG--DEC-2012-REQ-SPE-PUR' --url='https://www.centralbank.ie/docs/default-source/Regulation/industry-market-sectors/insurance-reinsurance/non-solvency-ii-(life)/requirements-and-guidance/ongoing-requirements-guidance/guidelines-on-the-reinsurance-cover-of-primary-insurers-and-the-security-of-their-reinsurers.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='CA--CG--REG--GENERAL' --url='https://www.ontario.ca/laws/regulation/980175' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SU--EBA--REG--G20-SUS-FIN-WOR-GRO' --url='https://g20sfwg.org/wp-content/uploads/2022/07/Finance-for-a-Just-Transition-and-the-Role-of-Transition-Finance-ILO.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SI--MASM--REG--MON-POL-OPE-SIN' --url='https://www.mas.gov.sg/~/media/MAS/About%20MAS/Monographs%20and%20information%20papers/20130313%20Monetary%20Policy%20Operations%20Monograph.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
