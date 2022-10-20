@@ -596,6 +596,7 @@ npm run scraper -- --sp='AU--APRAA--REG--GRS-4400-CLA-DEV-TAB' --url='https://ww
 npm run scraper -- --sp='AU--ASICA--REG--ASI-CRE-FLE-COS-ARR' --url='https://www.legislation.gov.au/Details/F2018C00776/8633e7e8-5aa5-4832-9c64-ca3441a6cac8' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IR--CBI--REG--CRI-JUS-ACT-2013' --url='https://www.irishstatutebook.ie/eli/2013/act/19/enacted/en/pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--GUI-ADV-RES-SEC-272A' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Securities%20Futures%20and%20Fund%20Management/Regulations%20Guidance%20and%20Licensing/Guidelines/Guidelines_aggregation_of_offers_Div%201_15Oct_2005.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--FTC--REG--LET-FRO-DAV-R-PEN' --url='https://www.ftc.gov/sites/default/files/documents/advisory-opinions/suburban-health-organization/suburbanhealthorganizationstaffadvisoryopinion03282006.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
