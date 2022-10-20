@@ -999,6 +999,7 @@ npm run scraper -- --sp='AU--APRAA--REG--SPG-511-REM' --url='https://www.apra.go
 npm run scraper -- --sp='GU--GFSC--REG--QUA-INV-FUN-GUI-8211' --url='https://www.gfsc.gg/sites/default/files/2021-10/Qualifying%20Investor%20Funds%20(QIF)%20Guidance%20Note.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--OCCO--REG--FOREWORD' --url='https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/foreword/index-foreword.html' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IN--IG--REG--CER-AUT-AME-RUL-2009' --url='https://indiacode.nic.in/ViewFileUploaded?path=AC_CEN_45_76_00001_200021_1517807324077/rulesindividualfile/&file=%28Certifying+Authorities%29+Amendment+Rules%2C+2009.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='IN--IG--REG--THE-COM-ACC-AME-RUL-2014' --url='https://indiacode.nic.in/ViewFileUploaded?path=AC_CEN_22_29_00008_201318_1517807327856/rulesindividualfile/&file=The+Companies+%28Accounts%29.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
