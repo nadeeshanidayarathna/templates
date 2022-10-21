@@ -601,6 +601,7 @@ npm run scraper -- --sp='SI--MASM--REG--UNS-CRE-FAC-IND' --url='https://www.mas.
 npm run scraper -- --sp='SI--MASM--REG--GUI-APP-BAN-REG-ISL' --url='https://www.mas.gov.sg/-/media/MAS/resource/legislation_guidelines/banks/guidelines/Guidelines-on-the-Application-of-Banking-Regulations-to-Islamic-Banking_01-Jul-2021.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--ISS-COV-BON-BY-BAN' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Commercial%20Banks/Regulations%20Guidance%20and%20Licensing/Notices/MAS%20Notice%20648%20on%20Covered%20Bonds_4%20June%2015.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--GUI-SHO-SEL-DIS' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Securities%20Futures%20and%20Fund%20Management/IID%20Guidelines/SFA%2015G02Guidelines%20on%20Short%20Selling%20Disclosure_Amendment2014.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='IN--IG--REG--THE-COM-DEC-PAY-DIV' --url='https://upload.indiacode.nic.in/showfile?actid=AC_CEN_22_29_00008_201318_1517807327856&type=rule&filename=Decleration%20.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
