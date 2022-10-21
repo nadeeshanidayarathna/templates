@@ -1012,6 +1012,7 @@ npm run scraper -- --sp='IN--IG--REG--THE-COM-SPE-DEF-DET' --url='https://upload
 npm run scraper -- --sp='IN--IG--REG--THE-COM-AUD-AME-RUL' --url='https://upload.indiacode.nic.in/showfile?actid=AC_CEN_22_29_00008_201318_1517807327856&type=rule&filename=The%20Companies%20(Audit%20and%20Auditors)%20.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IN--IG--REG--SPE-WAR-CUS-HAN-GOO' --url='https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_196252_1534829466423&type=regulation&filename=cs-regu-splwarehouse-custody-handling-goods.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AU--APRAA--REG--ARS-3209-INT-REC-PAY' --url='https://www.legislation.gov.au/Details/F2018L00388/5828bcbc-8c29-4c7d-82b0-afd2686e5b5c' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='IN--IG--REG--THE-CYB-REG-APP-TRI' --url='https://upload.indiacode.nic.in/showfile?actid=AC_CEN_45_76_00001_200021_1517807324077&type=rule&filename=Cyber%20Regulations%20Appellate%20Tribunal%20Salaries,%20Allowances%20and%20other%20condition%20of%20Service%20of%20other%20Officers%20and%20Employees%20Rules,%202002.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
