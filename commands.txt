@@ -603,6 +603,7 @@ npm run scraper -- --sp='SI--MASM--REG--ISS-COV-BON-BY-BAN' --url='https://www.m
 npm run scraper -- --sp='SI--MASM--REG--GUI-SHO-SEL-DIS' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Securities%20Futures%20and%20Fund%20Management/IID%20Guidelines/SFA%2015G02Guidelines%20on%20Short%20Selling%20Disclosure_Amendment2014.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IN--IG--REG--THE-COM-DEC-PAY-DIV' --url='https://upload.indiacode.nic.in/showfile?actid=AC_CEN_22_29_00008_201318_1517807327856&type=rule&filename=Decleration%20.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IN--IG--REG--THE-COM-SHA-CAP-DEB' --url='https://upload.indiacode.nic.in/showfile?actid=AC_CEN_22_29_00008_201318_1517807327856&type=rule&filename=The%20Companies%20(Share%20capital%20and%20Debentures)%20.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='IS--FSA--REG--GUI-NOT-UK-UCI-OUT' --url='https://www.iomfsa.im/media/2323/outsourcingoffunctionstoanioml.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
