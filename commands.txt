@@ -1015,6 +1015,7 @@ npm run scraper -- --sp='AU--APRAA--REG--ARS-3209-INT-REC-PAY' --url='https://ww
 npm run scraper -- --sp='IN--IG--REG--THE-CYB-REG-APP-TRI' --url='https://upload.indiacode.nic.in/showfile?actid=AC_CEN_45_76_00001_200021_1517807324077&type=rule&filename=Cyber%20Regulations%20Appellate%20Tribunal%20Salaries,%20Allowances%20and%20other%20condition%20of%20Service%20of%20other%20Officers%20and%20Employees%20Rules,%202002.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='DE--MT--REG--PRO-GAI-TAX-ACT' --url='https://www.retsinformation.dk/eli/lta/2019/132' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='DE--MT--REG--DEC-TAX-PEN-SCH' --url='https://www.retsinformation.dk/eli/lta/2012/1370' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='DE--MT--REG--STO-SAV-ACC-ACT' --url='https://www.retsinformation.dk/eli/lta/2021/1852' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
