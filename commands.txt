@@ -1393,6 +1393,10 @@ npm run scraper -- --sp='DE--MT--REG--ORD-IDE-REP-FIN-ACC' --url='https://www.re
 npm run scraper -- --sp='AU--APRAA--REG--INS-PRU-STA-DET-NO' --url='https://www.legislation.gov.au/Latest/F2022L00882' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='AU--APRAA--REG--INS-PRU-STA-DET-NO-1' --url='https://www.legislation.gov.au/Latest/F2022L01248' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='AU--APRAA--REG--INS-PRU-STA-DET-NO-2' --url='https://www.legislation.gov.au/Latest/F2022L00881' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='DE--MT--REG--STU-LOA-ACT' --url='https://www.retsinformation.dk/eli/lta/2007/1240' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='AU--APRAA--REG--FIN-SEC-COL-DAT-REP-5' --url='https://www.legislation.gov.au/Details/F2013L02149/2bdb430c-1e91-4965-a72f-4b9657f99972' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='AR--AG--REG--POL-CON-ECO-COM-REG-1' --url='http://170.94.37.152/REGS/014.00.07-007F-9492.pdf' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='SI--MASM--REG--NOT-CMGN02-TEC-RIS-MAN' --url='https://www.mas.gov.sg/-/media/MAS/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Securities-Futures-and-Fund-Management/Regulations-Guidance-and-Licensing/Notices/Notice-on-Technology-Risk-Management-CMGN02.pdf' --path='C:\Users\venoli.gamage\Downloads'
 
 #Minila.Satharana
 npm run scraper -- --sp='IR--CBI--REG--ADD-COD-CON-MOR-ARR-2013' --url='https://www.centralbank.ie/docs/default-source/regulation/consumer-protection/other-codes-of-conduct/23-gns-4-2-7-mortgage-arrears-2013.pdf?sfvrsn=4' --path='C:\Users\minila.satharana\Downloads'
