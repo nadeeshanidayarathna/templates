@@ -1384,6 +1384,15 @@ npm run scraper -- --sp='AR--AG--REG--POL-CON-ECO-COM-REG-3' --url='http://170.9
 npm run scraper -- --sp='UG--BUB--REG--ADJ-CAS-RES-REQ-NET' --url='https://www.bou.or.ug/bou/bouwebsite/bouwebsitecontent/Supervision/Supervision-Guidelines-and-Circulars/2022/Adjustment-to-the-Cash-Reserve-Requirement-and-Net-Open-Position-in-Foreign-Currencies.pdf' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--SHA-DEB-GUI-PER-OFF' --url='http://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Securities%20Futures%20and%20Fund%20Management/Regulations%20Guidance%20and%20Licensing/Guidelines/Guidelines%20on%20Good%20Drafting%20Practices%20for%20Prospectuses.pdf' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='AU--APRAA--REG--LRS-1142-DER-ACT' --url='https://www.legislation.gov.au/Details/F2013L00369/8395a0c9-ccce-4844-875c-0dae4cc650b7' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='DE--MT--REG--ACT-ASS-INC-TAX-STA' --url='https://www.retsinformation.dk/eli/lta/2021/1735' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='DE--MT--REG--DEC-TAX-REP' --url='https://www.retsinformation.dk/eli/lta/2020/888' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='HO--HKAB--REG--PAY-ARR-PRO-TRA-PAP' --url='https://pdfconversionupload.z33.web.core.windows.net/pdfs/6c8bcbf5-5bbe-4619-b8a0-3f97878424d6.pdf' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='UN--CMEC--REG--CHA-TRA-QUA-PRA' --url='https://www.cmegroup.com/content/dam/cmegroup/rulebook/CBOT/I/5.pdf' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='DE--MT--REG--WIT-TAX-ACT' --url='https://www.retsinformation.dk/eli/lta/2021/824' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='DE--MT--REG--ORD-IDE-REP-FIN-ACC' --url='https://www.retsinformation.dk/eli/lta/2021/724' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='AU--APRAA--REG--INS-PRU-STA-DET-NO' --url='https://www.legislation.gov.au/Latest/F2022L00882' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='AU--APRAA--REG--INS-PRU-STA-DET-NO-1' --url='https://www.legislation.gov.au/Latest/F2022L01248' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='AU--APRAA--REG--INS-PRU-STA-DET-NO-2' --url='https://www.legislation.gov.au/Latest/F2022L00881' --path='C:\Users\venoli.gamage\Downloads'
 
 #Minila.Satharana
 npm run scraper -- --sp='IR--CBI--REG--ADD-COD-CON-MOR-ARR-2013' --url='https://www.centralbank.ie/docs/default-source/regulation/consumer-protection/other-codes-of-conduct/23-gns-4-2-7-mortgage-arrears-2013.pdf?sfvrsn=4' --path='C:\Users\minila.satharana\Downloads'
