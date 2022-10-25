@@ -607,6 +607,7 @@ npm run scraper -- --sp='IS--FSA--REG--GUI-NOT-UK-UCI-OUT' --url='https://www.io
 npm run scraper -- --sp='IR--CBI--REG--GUI-REI-COV-PRI-INS' --url='https://www.centralbank.ie/docs/default-source/regulation/industry-market-sectors/insurance-reinsurance/non-solvency-ii-(life)/requirements-and-guidance/ongoing-requirements-guidance-specific-to-non-life-insurance-undertakings/gns-4-4-10-2-2---guidance---captives---nov-2009.pdf?sfvrsn=' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--PRE-MON-LAU-COU-FIN-0' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Merchant%20Banks/Notices/MAS%201014%20%20July%202014.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--MIN-1' --url='https://www.mas.gov.sg/regulation/notices/notice-649' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-192' --url='http://www.nasdaqtrader.com/MicroNews.aspx?id=FRA2009-15' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
