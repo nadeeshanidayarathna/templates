@@ -1031,6 +1031,7 @@ npm run scraper -- --sp='AR--AG--REG--POL-CON-ECO-COM-REG-9' --url='http://170.9
 npm run scraper -- --sp='IN--CDSL--REG--PRO-UCC-DET-MAN-PAY-TRA' --url='https://www.cdslindia.com/common/DownLoadFile.aspx?eventid=DP2022-462&action=communique' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--NAS--REG--GUI-DOC-WAS-TRA-FAQ' --url='https://www.nasdaq.com/docs/98477_wash-trading-faq-.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--GUI-CRI-GRA-CAP-MAR' --url='https://www.mas.gov.sg/-/media/MAS/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Securities-Futures-and-Fund-Management/Regulations-Guidance-and-Licensing/Guidelines-on-Disclosure-of-Financial-Information-in-Prospectuses-SFA-13G18_8-Oct-2018.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='SI--MASM--REG--THE-SIN-GUI-CON-MAR' --url='https://www.sfemc.org/pdf/Blue%20Book_FINAL.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
