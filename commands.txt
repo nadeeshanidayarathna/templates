@@ -1582,3 +1582,8 @@ npm run scraper -- --sp='SI--MASM--REG--GUI-PRI-BAN-CON' --url='https://www.mas.
 npm run scraper -- --sp='IN--IG--REG--THE-INV-EDU-PRO-FUN' --url='https://upload.indiacode.nic.in/showfile?actid=AC_CEN_22_29_00008_201318_1517807327856&type=rule&filename=IEPF%20Authority%20appointment.pdf' --path='C:\Insighture\output'
 npm run scraper -- --sp='UN--FTC--REG--HOR-MER-GUI-UNI-STA' --url='https://www.ftc.gov/system/files/documents/public_statements/804291/100819hmg.pdf' --path='C:\Insighture\output'
 npm run scraper -- --sp='UN--FTC--REG--LET-FRO-STE-ECK-FED-1' --url='https://www.ftc.gov/sites/default/files/documents/advisory_opinions/sandler-travis-rosenberg/sandler.pdf' --path='C:\Insighture\output'
+npm run scraper -- --sp='AU--APRAA--REG--LRS-110-PRE-CAP-AMO' --url='https://www.legislation.gov.au/Details/F2013L00113' --path='C:\Insighture\output'
+npm run scraper -- --sp='AU--APRAA--REG--LRS-2000-CAP-ADE-SUP-INF' --url='https://www.legislation.gov.au/Details/F2013L00378' --path='C:\Insighture\output'
+npm run scraper -- --sp='PE--LSDBSYA--REG--ADO-RUL-PRO-NEG-ACC' --url='https://intranet2.sbs.gob.pe/dv_int_cn/918/v3.0/Adjuntos/1737-2006%20actualizado%20con%201299-2022.doc.pdf' --path='C:\Insighture\output'
+npm run scraper -- --sp='SI--MASM--REG--GUI-FIT-PRO-CRI' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Commercial%20Banks/Regulations%20Guidance%20and%20Licensing/Guidelines/Fit%20%20Proper%20Guidelines%20Admt%203%20September%202015.pdf' --path='C:\Insighture\output'
+npm run scraper -- --sp='SR--CBSLC--REG--DAI-REP-MOV-NOS-BAL' --url='https://pdfconversionupload.z33.web.core.windows.net/pdfs/79AC43BC-68E1-4D76-9572-46B448564B4D.pdf' --path='C:\Insighture\output'
