@@ -613,6 +613,7 @@ npm run scraper -- --sp='SI--MASM--REG--NOT-FUR-PRE-COM-TEL' --url='https://www.
 npm run scraper -- --sp='UN--FTC--REG--LET-FRO-CAR-M-THO' --url='https://www.ftc.gov/sites/default/files/documents/advisory-opinions/iowa-dental-association/42-1.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AR--AG--REG--NAT-HOL' --url='https://www.argentina.gob.ar/normativa/nacional/decreto-573-2022-370795/texto' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AR--BCDLRDAB--REG--REF-CIR-CAM-1934-ABR' --url='https://www.bcra.gob.ar/Pdfs/comytexord/A7601.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='IR--CBI--REG--NOV-2009-UPD-OPE-GUI' --url='https://www.centralbank.ie/docs/default-source/regulation/industry-market-sectors/insurance-reinsurance/non-solvency-ii-(life)/requirements-and-guidance/ongoing-requirements-guidance-specific-to-reinsurance-undertakings/gns-4-4-10-2-2---finre---december-2012.pdf?sfvrsn=' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
