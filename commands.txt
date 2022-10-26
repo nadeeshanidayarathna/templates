@@ -1042,6 +1042,7 @@ npm run scraper -- --sp='GB--GF--REG--GUI-NOT-OUT-FUN-BY' --url='https://www.gfs
 npm run scraper -- --sp='AR--AG--REG--INV-PRO-REG-EXP-KNO' --url='https://www.boletinoficial.gob.ar/detalleAviso/primera/273361/20221011' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='HA--BDLRDB--REG--ADD-NOTE2-CIR-881' --url='https://www.brh.ht/wp-content/uploads/Note-additionnelle-No2-Circulaire-88-1.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='HA--BDLRDB--REG--MOR-LOA' --url='https://www.brh.ht/wp-content/uploads/Circulaire-115-2.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='IN--SEBI--REG--SEB-8' --url='https://www.sebi.gov.in/legal/regulations/aug-2021/securities-and-exchange-board-of-india-mutual-funds-regulations-1996-last-amended-on-november-09-2021-_41350.html' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
