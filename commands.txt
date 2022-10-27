@@ -618,6 +618,7 @@ npm run scraper -- --sp='SI--MASM--REG--GUI-STA-CON-MAR-DIS-ACT' --url='https://
 npm run scraper -- --sp='IN--IG--REG--COM-RES-NUM-LAY-RUL-2017' --url='https://upload.indiacode.nic.in/showfile?actid=AC_CEN_22_29_00008_201318_1517807327856&type=rule&filename=CompaniesRestrictionOnNumberofLayersRule_22092017.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AR--MDTEYSS--REG--MIN-LAB-EMP-SOC-SEC-0' --url='https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-1530-2022-372902/texto' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SP--BS--REG--CIR-12013-MAY-BAN-SPA' --url='https://www.boe.es/buscar/act.php?id=BOE-A-2013-5720' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='IR--CBI--REG--DEC-2012-REQ-NON-FIN-REI' --url='https://www.centralbank.ie/docs/default-source/regulation/industry-market-sectors/insurance-reinsurance/non-solvency-ii-(life)/requirements-and-guidance/ongoing-requirements-guidance-specific-to-reinsurance-undertakings/gns-4-4-10-2-2---requirements-life-re-nov-2014.pdf?sfvrsn=' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
