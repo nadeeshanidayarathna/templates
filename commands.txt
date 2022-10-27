@@ -1411,6 +1411,11 @@ npm run scraper -- --sp='DE--MT--REG--STU-LOA-ACT' --url='https://www.retsinform
 npm run scraper -- --sp='AU--APRAA--REG--FIN-SEC-COL-DAT-REP-5' --url='https://www.legislation.gov.au/Details/F2013L02149/2bdb430c-1e91-4965-a72f-4b9657f99972' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='AR--AG--REG--POL-CON-ECO-COM-REG-1' --url='http://170.94.37.152/REGS/014.00.07-007F-9492.pdf' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--NOT-CMGN02-TEC-RIS-MAN' --url='https://www.mas.gov.sg/-/media/MAS/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Securities-Futures-and-Fund-Management/Regulations-Guidance-and-Licensing/Notices/Notice-on-Technology-Risk-Management-CMGN02.pdf' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='IN--NSEIL--REG--CLA-BRO-STA-REG-LEV' --url='https://archives.nseindia.com/content/circulars/INSP53297.pdf' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='SU--BDTDLCB--REG--LAY-DOW-TER-AUT-AS' --url='https://www.beac.int/wp-content/uploads/2020/02/INS-003_2020_modalit%C3%A9s_dagr%C3%A9ment_BIC.pdf' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='SU--BDTDLCB--REG--REG-NAT-MOD-CRE-INF' --url='https://www.beac.int/wp-content/uploads/2020/02/INS-014_2020_Modalit%C3%A9s_transmission_des_informations.pdf' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='PE--BCDRDPB--REG--BCR-PAY-SER-INT-REG' --url='https://www.bcrp.gob.pe/docs/Transparencia/Normas-Legales/Circulares/2022/circular-0024-2022-bcrp.pdf' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='AR--AG--REG--DEP-COM-SEC-TRU-POW' --url='http://170.94.37.152/REGS/003.02.07-002F-8790.pdf' --path='C:\Users\venoli.gamage\Downloads'
 
 #Minila.Satharana
 npm run scraper -- --sp='IR--CBI--REG--ADD-COD-CON-MOR-ARR-2013' --url='https://www.centralbank.ie/docs/default-source/regulation/consumer-protection/other-codes-of-conduct/23-gns-4-2-7-mortgage-arrears-2013.pdf?sfvrsn=4' --path='C:\Users\minila.satharana\Downloads'
