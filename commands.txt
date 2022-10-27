@@ -1045,6 +1045,7 @@ npm run scraper -- --sp='HA--BDLRDB--REG--MOR-LOA' --url='https://www.brh.ht/wp-
 npm run scraper -- --sp='IN--SEBI--REG--SEB-8' --url='https://www.sebi.gov.in/legal/regulations/aug-2021/securities-and-exchange-board-of-india-mutual-funds-regulations-1996-last-amended-on-november-09-2021-_41350.html' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='PE--BCDRDPB--REG--LIS-FIR-CAT-BAN' --url='https://www.bcrp.gob.pe/docs/Transparencia/Normas-Legales/Circulares/2022/circular-0023-2022-bcrp.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IN--IG--REG--SEC-EXC-BOA-IND-DEP' --url='https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_11_00014_199215_1517807319932&type=regulation&filename=SEBI%20(Depositories%20and%20Participants)%20Regulations%201996.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='CA--OSFIO--REG--RES-MOR-UND-PRA-PRO' --url='https://www.osfi-bsif.gc.ca/Eng/fi-if/rg-ro/gdn-ort/gl-ld/Pages/b20-nfo.aspx' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
