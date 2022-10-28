@@ -1060,6 +1060,7 @@ npm run scraper -- --sp='RU--TCBRF--REG--DEC-BOA-DIR-BAN-RUS' --url='https://www
 npm run scraper -- --sp='RU--TCBRF--REG--DEC-BOA-DIR-BAN-RUS-0' --url='https://www.cbr.ru/about_br/dir/rsd_2022-09-08_31_01/' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='RU--TCBRF--REG--HOW-INF-INV-ABO-NEW' --url='https://www.cbr.ru/press/event/?id=14144' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SU--EC--REG--COM-DEL-REG-EU-20222059' --url='https://eur-lex.europa.eu/eli/reg_del/2022/2059/' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='SU--EC--REG--COM-DEL-REG-EU-20221011' --url='https://eur-lex.europa.eu/eli/reg_del/2022/1011/' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
