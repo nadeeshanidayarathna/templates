@@ -1416,6 +1416,11 @@ npm run scraper -- --sp='SU--BDTDLCB--REG--LAY-DOW-TER-AUT-AS' --url='https://ww
 npm run scraper -- --sp='SU--BDTDLCB--REG--REG-NAT-MOD-CRE-INF' --url='https://www.beac.int/wp-content/uploads/2020/02/INS-014_2020_Modalit%C3%A9s_transmission_des_informations.pdf' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='PE--BCDRDPB--REG--BCR-PAY-SER-INT-REG' --url='https://www.bcrp.gob.pe/docs/Transparencia/Normas-Legales/Circulares/2022/circular-0024-2022-bcrp.pdf' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='AR--AG--REG--DEP-COM-SEC-TRU-POW' --url='http://170.94.37.152/REGS/003.02.07-002F-8790.pdf' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='SP--SG--REG--ORD-EHA14392006-MAY-REG-DEC' --url='https://www.boe.es/buscar/act.php?id=BOE-A-2006-8467' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='UN--FTC--REG--OPI-981' --url='https://www.ftc.gov/sites/default/files/documents/advisory_opinions/opinion-98-1/opinion98-1.pdf' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='SI--MASM--REG--SEC-FUT-ACT-CHA-289' --url='http://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Securities%20Futures%20and%20Fund%20Management/Regulations%20Guidance%20and%20Licensing/FAQs/FAQs%20on%20Offers%20of%20Shares%20and%20Debentures%20and%20CIS%208%20Oct%2018%20Revised.pdf' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='IN--NSEIL--REG--SUB-ANN-RET-FIN-YEA-202122' --url='https://archives.nseindia.com/content/circulars/COMP53647.pdf' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='AR--AG--REG--DEP-COM-CIR-REG-SAL' --url='http://170.94.37.152/REGS/003.11.06-004F-8438.pdf' --path='C:\Users\venoli.gamage\Downloads'
 
 #Minila.Satharana
 npm run scraper -- --sp='IR--CBI--REG--ADD-COD-CON-MOR-ARR-2013' --url='https://www.centralbank.ie/docs/default-source/regulation/consumer-protection/other-codes-of-conduct/23-gns-4-2-7-mortgage-arrears-2013.pdf?sfvrsn=4' --path='C:\Users\minila.satharana\Downloads'
