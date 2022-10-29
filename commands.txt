@@ -1212,6 +1212,10 @@ npm run scraper -- --sp='SI--MASM--REG--BOR-WHO-ARE-IND-OWN' --url='https://www.
 npm run scraper -- --sp='SI--MASM--REG--FRE-ASK-QUE-8220FAQS8221-ENT' --url='https://www.mas.gov.sg/regulation/faqs/faqs-on-exempt-persons' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='AU--APRAA--REG--ARS-7205-ABS-EQU-SEC-HEL' --url='https://www.legislation.gov.au/Details/F2019L00092/47dd1e09-0e23-47ac-a4bd-82a9a1588545' --path='C:\Users\binuri.perera\Desktop\NewIX'
 npm run scraper -- --sp='UN--FTC--REG--NEW-GEN-FIB-PET-FRO' --url='https://www.ftc.gov/sites/default/files/documents/advisory_opinions/new-generic-fiber-petition-dow-chemical-company/petition_dowsubclass.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='AU--APRAA--REG--LRS-3300-SUM-REV-EXP' --url='https://www.legislation.gov.au/Details/F2013L00141/205fde4b-a54d-4997-9730-7da3ccc653a7' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='EL--SDSFS--REG--CRE-RIS-MAN-CON-STA-NPB449' --url='https://ssf.gob.sv/wp-content/uploads//ssf2018/Normas_Prud_Bancos/NPB4-49.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='AU--APRAA--REG--LPG-270-GRO-INS-ARR' --url='https://www.apra.gov.au/sites/default/files/Prudential-Practice-Guide-LPG-270-Group-Insurance-Arrangements-October-2014.pdf' --path='C:\Users\binuri.perera\Desktop\NewIX'
+npm run scraper -- --sp='AU--APRAA--REG--ARS-3203-DEB-SEC-ISS' --url='https://www.legislation.gov.au/Details/F2018L00386/7d7ba56c-61f7-40d7-a7a6-47fd2733b92d' --path='C:\Users\binuri.perera\Desktop\NewIX'
 
 #venoli.gamage
 npm run scraper -- --sp='GR--BG--REG--DEC-CRE-ISS' --url='https://www.google.com/' --path='C:\Users\venoli.gamage\Downloads'
