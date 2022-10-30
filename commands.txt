@@ -626,6 +626,7 @@ npm run scraper -- --sp='SI--MASM--REG--GUI-APP-SEC-339-EXT' --url='https://www.
 npm run scraper -- --sp='SI--MASM--REG--FOR-NOT-CHA-PAR-REP' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Securities%20Futures%20and%20Fund%20Management/Regulations%20Guidance%20and%20Licensing/Forms/SF%20LCB_Form%2016_8%20Oct%202018.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--GUI-STA-CON-MAR-DIS' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Commercial%20Banks/Regulations%20Guidance%20and%20Licensing/Guidelines/Guidelines%20on%20Standards%20of%20Conduct%20for%20Marketing%20and%20Distribution%20Activities.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--FTC--REG--DEC-2008-LET-FRO-JAM' --url='https://www.ftc.gov/sites/default/files/documents/advisory_opinions/letter-james.kohm-associate-director-division-enforcement-bureau-consumer-protection/081208jameskohmletter.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='PA--BCDPB--REG--SPE-PRO-BOR-FIN-LON' --url='https://www.bcp.gov.py/userfiles/files/Resolucion%2017%20acta%2057%20de%20fecha%2007-10-2022.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
