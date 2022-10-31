@@ -1447,6 +1447,12 @@ npm run scraper -- --sp='UN--FTC--REG--OPI-981' --url='https://www.ftc.gov/sites
 npm run scraper -- --sp='SI--MASM--REG--SEC-FUT-ACT-CHA-289' --url='http://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Securities%20Futures%20and%20Fund%20Management/Regulations%20Guidance%20and%20Licensing/FAQs/FAQs%20on%20Offers%20of%20Shares%20and%20Debentures%20and%20CIS%208%20Oct%2018%20Revised.pdf' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='IN--NSEIL--REG--SUB-ANN-RET-FIN-YEA-202122' --url='https://archives.nseindia.com/content/circulars/COMP53647.pdf' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='AR--AG--REG--DEP-COM-CIR-REG-SAL' --url='http://170.94.37.152/REGS/003.11.06-004F-8438.pdf' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='LU--BCDLB--REG--ST220804-ADO-EUR-BY-CRO' --url='https://www.bcl.lu/en/Regulatory-reporting/Etablissements_credit/Statistiques-bancaires-et-monetaires/Reglements_circulaires_lettres-circulaires/Lettres_circulaires/ST_22_0804_Adoption_Euro_Croatia.pdf' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='AU--APRAA--REG--PRU-STA-APS-001-DEF' --url='https://www.legislation.gov.au/Latest/F2022L01254' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='IN--NSDL--REG--LAW-PAY-TRA' --url='https://narodne-novine.nn.hr/clanci/sluzbeni/2009_11_133_3247.html' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='IN--NSDL--REG--PER-DAT-PRO-ACT' --url='https://narodne-novine.nn.hr/clanci/sluzbeni/2012_09_106_2300.html' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='SI--MASM--REG--MAS-NOT-1113-MOT-VEH-LOA' --url='http://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Merchant%20Banks/Notices/MAS%20Notice%201113_MBs_260516_Final.pdf' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='AU--APRAA--REG--FIN-SEC-COL-DAT-REP-21' --url='https://www.legislation.gov.au/Latest/F2021L01106' --path='C:\Users\venoli.gamage\Downloads'
 
 #Minila.Satharana
 npm run scraper -- --sp='IR--CBI--REG--ADD-COD-CON-MOR-ARR-2013' --url='https://www.centralbank.ie/docs/default-source/regulation/consumer-protection/other-codes-of-conduct/23-gns-4-2-7-mortgage-arrears-2013.pdf?sfvrsn=4' --path='C:\Users\minila.satharana\Downloads'
