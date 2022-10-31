@@ -630,6 +630,7 @@ npm run scraper -- --sp='PA--BCDPB--REG--SPE-PRO-BOR-FIN-LON' --url='https://www
 npm run scraper -- --sp='HO--PCFPDHK--REG--GUI-NOT-DAT-SEC-MEA' --url='https://www.pcpd.org.hk/english/resources_centre/publications/files/guidance_datasecurity_e.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IN--SEBI--REG--SEC-CON-REG-APP-TRI' --url='https://www.sebi.gov.in/legal/rules/feb-2000/securities-contracts-regulations-appeal-to-securities-appellate-tribunal-rules-2000_34669.html' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--EPA-USE-PRO-GUI' --url='https://www.mas.gov.sg/regulation/guidelines/guidelines-for-e-payments-user-protection' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='IR--CBI--REG--DIR-EU-20161034-EUR-PAR' --url='https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2016:175:FULL&from=EN' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
