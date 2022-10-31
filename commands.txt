@@ -1075,6 +1075,7 @@ npm run scraper -- --sp='SU--EC--REG--SUP-REG-EU-NO-5752013' --url='https://eur-
 npm run scraper -- --sp='AU--ASICA--REG--RG-67' --url='https://asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-134-funds-management-constitutions/' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IN--IG--REG--COM-ARR-CON-WIT-INV' --url='https://upload.indiacode.nic.in/showfile?actid=AC_CEN_22_29_00008_201318_1517807327856&type=rule&filename=9.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IN--CCIC--REG--THE-FOR-REG-2004-AS' --url='https://www.ccilindia.com/Membership/ByLawsDocs/Forex%20Forward%20Segment%20Regulations%20(with%20effect%20from%20October%2010,%202022).pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='AU--APRAA--REG--ARS-7311-INT-BAN-STA' --url='https://www.legislation.gov.au/Details/F2017L01022/e258c64b-b407-4540-b2bc-12e79c74554f' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
