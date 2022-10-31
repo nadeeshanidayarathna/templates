@@ -628,6 +628,7 @@ npm run scraper -- --sp='SI--MASM--REG--GUI-STA-CON-MAR-DIS' --url='https://www.
 npm run scraper -- --sp='UN--FTC--REG--DEC-2008-LET-FRO-JAM' --url='https://www.ftc.gov/sites/default/files/documents/advisory_opinions/letter-james.kohm-associate-director-division-enforcement-bureau-consumer-protection/081208jameskohmletter.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='PA--BCDPB--REG--SPE-PRO-BOR-FIN-LON' --url='https://www.bcp.gov.py/userfiles/files/Resolucion%2017%20acta%2057%20de%20fecha%2007-10-2022.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='HO--PCFPDHK--REG--GUI-NOT-DAT-SEC-MEA' --url='https://www.pcpd.org.hk/english/resources_centre/publications/files/guidance_datasecurity_e.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='IN--SEBI--REG--SEC-CON-REG-APP-TRI' --url='https://www.sebi.gov.in/legal/rules/feb-2000/securities-contracts-regulations-appeal-to-securities-appellate-tribunal-rules-2000_34669.html' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
