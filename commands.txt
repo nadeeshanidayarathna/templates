@@ -635,6 +635,7 @@ npm run scraper -- --sp='IN--IG--REG--SEC-EXC-BOA-IND-PRO' --url='https://upload
 npm run scraper -- --sp='SI--TABISA--REG--COD-BAN-PRA-THE-PER' --url='https://abs.org.sg/docs/library/abs-code-banking-practices-pdpa4be4aa9f299c69658b7dff00006ed795.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IN--IG--REG--PEN-FUN-REG-DEV-AUT' --url='https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_45_00007_201323_1517807327819&type=regulation&filename=Pension%20Fund%20Regulatory%20and%20Development%20Authority%20(Central%20Recordkeeping%20Agency)%20(First%20Amendment)%20Regulations%202018.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IN--IG--REG--PEN-FUN-REG-DEV-AUT-0' --url='https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_45_00007_201323_1517807327819&type=regulation&filename=Pension%20Fund%20Regulatory%20and%20Development%20Authority%20(Trustee%20Bank)%20Regulations,%202015.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='IN--IG--REG--PLA-WAS-MAN-RUL-2016' --url='https://upload.indiacode.nic.in/showfile?actid=AC_CEN_16_18_00011_198629_1517807327582&type=rule&filename=PWM-Rules,-2016.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
