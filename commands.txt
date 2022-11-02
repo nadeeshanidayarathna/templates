@@ -1459,6 +1459,11 @@ npm run scraper -- --sp='IR--CBI--REG--ANT-LAU-BUL-CUS-DUE' --url='https://www.c
 npm run scraper -- --sp='SI--MASM--REG--GUI-FAI-DEA-BOA-SEN' --url='http://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Financial%20Advisers/Guidelines/Fair%20Dealing%20Guidelines%20%2020%20Feb%202013.pdf' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--FOR-APP-CHA-CHI-EXE-1' --url='http://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Securities%20Futures%20and%20Fund%20Management/IID%20Forms/4AHC%20%20Form%2041Aug2013.pdf' --path='C:\Users\venoli.gamage\Downloads'
 npm run scraper -- --sp='AR--AG--REG--POL-CON-ECO-COM-REG-23' --url='http://170.94.37.152/REGS/014.00.07-009F-9676.pdf' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='UN--FTC--REG--LET-FRO-JAM-A-KOH' --url='https://www.ftc.gov/sites/default/files/documents/advisory_opinions/letter-james.kohm-associate-director-division-enforcement-bureau-consumer-protection/120626crailar.pdf' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='AR--AG--REG--POL-CON-ECO-COM-REG-20' --url='http://170.94.37.152/REGS/014.09.17-002F-18181.pdf' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='IN--IG--REG--THE-NAT-FIN-REP-AUT' --url='https://indiacode.nic.in/ViewFileUploaded?path=AC_CEN_22_29_00008_201318_1517807327856/rulesindividualfile/&file=OCR21.03.2018.pdf' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='AU--APRAA--REG--ARS-3204-BIL-ACC-END' --url='https://www.legislation.gov.au/Details/F2018L00384' --path='C:\Users\venoli.gamage\Downloads'
+npm run scraper -- --sp='SI--MASM--REG--FAT-GUI-RIS-APP-SEC' --url='https://www.mas.gov.sg/regulation/external-publications/fatf-guidance-for-a-risk-based-approach-for-the-securities-sector' --path='C:\Users\venoli.gamage\Downloads'
 
 #Minila.Satharana
 npm run scraper -- --sp='IR--CBI--REG--ADD-COD-CON-MOR-ARR-2013' --url='https://www.centralbank.ie/docs/default-source/regulation/consumer-protection/other-codes-of-conduct/23-gns-4-2-7-mortgage-arrears-2013.pdf?sfvrsn=4' --path='C:\Users\minila.satharana\Downloads'
