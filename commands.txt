@@ -639,6 +639,7 @@ npm run scraper -- --sp='IN--IG--REG--PLA-WAS-MAN-RUL-2016' --url='https://uploa
 npm run scraper -- --sp='IN--IG--REG--CUS-TAR-IDE-ASS-COL' --url='https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_196252_1534829466423&type=rule&filename=customs_tariff_(identification,_assessment_and_collection_of_countervailing_duty_on_subsidized_articles_and_for_determination_of_injury)_rules,_1995_(1).pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IN--IG--REG--COP-RUL-1958' --url='https://upload.indiacode.nic.in/showfile?actid=AC_CEN_9_30_00006_195714_1517807321712&type=rule&filename=copyrightrules1958.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='GU--GFSC--REG--FIN-CRI-RIS-RET-GUI-FIR' --url='https://www.gfsc.gg/sites/default/files/2021-10/20211007%20-%202021%20FCRR%20Guidance.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SI--MASM--REG--MAS-APP-RES-FIN-INS-SIN' --url='https://www.mas.gov.sg/~/media/MAS/News%20and%20Publications/Monographs%20and%20Information%20Papers/Monograph%20%20MAS%20Approach%20to%20Resolution%20of%20FIs%20in%20Singapore.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
