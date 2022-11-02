@@ -1080,6 +1080,7 @@ npm run scraper -- --sp='EL--SDSFS--REG--LAW-AGA-USU' --url='https://www.asamble
 npm run scraper -- --sp='AU--APRAA--REG--ARS-7207-ABS-BIL-ACC-END' --url='https://www.legislation.gov.au/Details/F2019L00094/80d9d8df-6697-4da1-ba08-8900dc9431d8' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AR--AG--REG--POL-CON-ECO-COM-REG-6' --url='http://170.94.37.152/REGS/014.00.11-008F-13001.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='CA--CG--REG--HUM-RIG-COD' --url='https://www.ontario.ca/laws/statute/90h19' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='IN--CCIC--REG--THE-CLE-COR-IND-LIM' --url='https://www.ccilindia.com/Membership/ByLawsDocs/Securities%20Segment%20Regulations%20(with%20effect%20from%20October%2010,%202022).pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
