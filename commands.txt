@@ -641,6 +641,7 @@ npm run scraper -- --sp='IN--IG--REG--COP-RUL-1958' --url='https://upload.indiac
 npm run scraper -- --sp='GU--GFSC--REG--FIN-CRI-RIS-RET-GUI-FIR' --url='https://www.gfsc.gg/sites/default/files/2021-10/20211007%20-%202021%20FCRR%20Guidance.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--MAS-APP-RES-FIN-INS-SIN' --url='https://www.mas.gov.sg/~/media/MAS/News%20and%20Publications/Monographs%20and%20Information%20Papers/Monograph%20%20MAS%20Approach%20to%20Resolution%20of%20FIs%20in%20Singapore.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IN--IG--REG--THE-SMA-IND-DEV-BAN' --url='https://www.indiacode.nic.in/bitstream/123456789/1943/1/198939.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='EL--SDSFS--REG--CRE-CAR-SYS-ACT' --url='https://ssf.gob.sv/wp-content/uploads/2022/02/Ley-del-Sistema-de-Tarjetas-de-Credito.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
