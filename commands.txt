@@ -1097,6 +1097,7 @@ npm run scraper -- --sp='CA--CG--REG--HUM-RIG-COD' --url='https://www.ontario.ca
 npm run scraper -- --sp='IN--CCIC--REG--THE-CLE-COR-IND-LIM' --url='https://www.ccilindia.com/Membership/ByLawsDocs/Securities%20Segment%20Regulations%20(with%20effect%20from%20October%2010,%202022).pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IS--FSA--REG--FIN-SER-ACT-2008-GUI' --url='https://www.iomfsa.im/media/1519/rulebook2011guidance.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IR--CBI--REG--2013-COD-CON-MOR-ARR' --url='https://www.centralbank.ie/docs/default-source/regulation/consumer-protection/other-codes-of-conduct/24-gns-4-2-7-2013-ccma.pdf?sfvrsn=4' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UN--FCAF--REG--WOR-TEM-GUI-SPO-GOV' --url='https://www.gov.uk/government/publications/workers-and-temporary-workers-guidance-for-sponsors-sponsor-a-government-authorised-exchange-worker/workers-and-temporary-workers-guidance-for-sponsors-sponsor-a-government-authorised-exchange-worker-accessible-version' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
