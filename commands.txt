@@ -1102,6 +1102,7 @@ npm run scraper -- --sp='GU--GFSC--REG--THE-TER-CRI-BAI-GUE' --url='https://www.
 npm run scraper -- --sp='UN--FTC--REG--ANT-GUI-STA-ENF-POL' --url='https://www.ftc.gov/system/files/documents/public_statements/1049793/ip_guidelines_2017.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--TDTCD--REG--DTC-PRO-SET-SER-GUI' --url='https://www.dtcc.com/~/media/Files/Downloads/legal/service-guides/Settlement.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AR--AG--REG--ARK-ECO-DEV-COM-WEA' --url='http://170.94.37.152/REGS/168.00.14-003F-14358.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='GU--GFSC--REG--THE-LIC-CON-BUS-RUL-2016' --url='https://www.gfsc.gg/sites/default/files/Licensees%20Conduct%20of%20Business%20Rules%20-%202016.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
