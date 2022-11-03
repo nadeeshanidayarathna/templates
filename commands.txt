@@ -1099,6 +1099,7 @@ npm run scraper -- --sp='IS--FSA--REG--FIN-SER-ACT-2008-GUI' --url='https://www.
 npm run scraper -- --sp='IR--CBI--REG--2013-COD-CON-MOR-ARR' --url='https://www.centralbank.ie/docs/default-source/regulation/consumer-protection/other-codes-of-conduct/24-gns-4-2-7-2013-ccma.pdf?sfvrsn=4' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--FCAF--REG--WOR-TEM-GUI-SPO-GOV' --url='https://www.gov.uk/government/publications/workers-and-temporary-workers-guidance-for-sponsors-sponsor-a-government-authorised-exchange-worker/workers-and-temporary-workers-guidance-for-sponsors-sponsor-a-government-authorised-exchange-worker-accessible-version' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='GU--GFSC--REG--THE-TER-CRI-BAI-GUE' --url='https://www.gfsc.gg/sites/default/files/Terrorism%20and%20Crime%20(Bailiwick%20of%20Guernsey)%20Regulations,%202007%20(Consolidated%20text).pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UN--FTC--REG--ANT-GUI-STA-ENF-POL' --url='https://www.ftc.gov/system/files/documents/public_statements/1049793/ip_guidelines_2017.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
