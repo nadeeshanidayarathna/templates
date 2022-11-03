@@ -1911,3 +1911,12 @@ npm run scraper -- --sp='SI--MA--REG--FIN-ADV-ACT-CAP-110' --url='http://www.mas
 npm run scraper -- --sp='SI--MASM--REG--GUI-ALL-HOL-CAP-MAR' --url='https://www.mas.gov.sg/-/media/MAS/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Securities-Futures-and-Fund-Management/Regulations-Guidance-and-Licensing/Guidelines/SFA---Guidelines-to-REIT-Managers-Dec21.pdf' --path='C:\Insighture\output'
 npm run scraper -- --sp='SI--MASM--REG--GUI-DIS-FIN-INF-PRO' --url='https://www.mas.gov.sg/-/media/MAS/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Securities-Futures-and-Fund-Management/Regulations-Guidance-and-Licensing/Guidelines/SFA--SFA04G01--Guidelines-on-criteria-for-grant-of-CMSL-other-than-FMCs--8-Oct-2018.pdf' --path='C:\Insighture\output'
 npm run scraper -- --sp='SI--MASM--REG--RES-PRO-LOA-FAC-SHE' --url='https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulations%20Guidance%20and%20Licensing/Commercial%20Banks/Regulations%20Guidance%20and%20Licensing/Notices/20171212%20MAS%20NOTICE%20632A_HDB_digitalfactsheet.pdf' --path='C:\Insighture\output'
+
+# Ishara.Lakshitha
+npm run scraper -- --sp='CA--CG--REG--IMM-REF-PRO-ACT' --url='https://laws-lois.justice.gc.ca/eng/acts/I-2.5/FullText.html' --path=':\Users\%username%\Downloads'
+npm run scraper -- --sp='CA--CG--REG--CAN-LAB-COD'     --url='https://laws-lois.justice.gc.ca/eng/acts/L-2/FullText.html' --path=':\Users\%username%\Downloads'
+npm run scraper -- --sp='CA--CG--REG--IMM-REF-PRO-REG' --url='https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/FullText.html' --path=':\Users\%username%\Downloads'
+npm run scraper -- --sp='CA--CRAC--REG--CHI-0'         --url='https://laws-lois.justice.gc.ca/eng/acts/C-28.5/FullText.html' --path=':\Users\%username%\Downloads'
+npm run scraper -- --sp='CA--CRAC--REG--EMP'           --url='https://laws-lois.justice.gc.ca/eng/acts/E-5.6/FullText.html' --path=':\Users\%username%\Downloads'
+npm run scraper -- --sp='CA--CRAC--REG--CAN-0'         --url='https://laws-lois.justice.gc.ca/eng/acts/C-10.11/FullText.html' --path=':\Users\%username%\Downloads'
+npm run scraper -- --sp='CA--CRAC--REG--EXC-3'         --url='https://laws-lois.justice.gc.ca/eng/acts/E-14.1/FullText.html' --path=':\Users\%username%\Downloads'
