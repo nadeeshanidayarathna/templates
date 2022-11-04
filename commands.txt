@@ -650,6 +650,7 @@ npm run scraper -- --sp='UN--USECS--REG--SEC-GUI-UPD-NO-201302' --url='https://w
 npm run scraper -- --sp='UN--UG--REG--CHI-AND-ACT-2014' --url='https://www.legislation.gov.uk/ukpga/2014/6' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--FCAF--REG--THE-OPE-INV-COM-REG-2001' --url='https://www.legislation.gov.uk/uksi/2001/1228' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--UG--REG--THE-GUI-SAN-EU-EXI' --url='https://www.legislation.gov.uk/uksi/2019/1145' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--NAS--REG--NAS-FUT-INC-RUL-REF-194' --url='https://listingcenter.nasdaq.com/assets/rulebook/NFX/rules/NFX%20Combination%20%20Implied%20Orders%20Technical%20Reference%20Guide.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
