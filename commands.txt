@@ -1113,6 +1113,7 @@ npm run scraper -- --sp='IN--RBI--REG--CAR-TRA' --url='https://rbi.org.in/Script
 npm run scraper -- --sp='IN--RBI--REG--DEV-BAS-TOK-CAR-TRA' --url='https://rbi.org.in/Scripts/FAQView.aspx?Id=129' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IN--RBI--REG--CAS-WIT-FAC-AT-POI' --url='https://rbi.org.in/Scripts/FAQView.aspx?Id=135' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='DE--DG--REG--ORD-WOR-VIO-OUT-HOU' --url='https://www.retsinformation.dk/eli/lta/2015/1504' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='AU--APRAA--REG--BAN-PRU-STA-DET-NO-0' --url='https://www.legislation.gov.au/Latest/F2022L01104' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
