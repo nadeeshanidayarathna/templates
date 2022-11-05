@@ -660,6 +660,7 @@ npm run scraper -- --sp='IN--CDSL--REG--TIM-UPG-REL-CLI' --url='https://www.cdsl
 npm run scraper -- --sp='SR--CBSLC--REG--SUP-FIN-URG-FOR-EXC' --url='https://pdfconversionupload.z33.web.core.windows.net/pdfs/55D7C8A2-ADB1-417D-9326-AF625CA44E56.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SR--CBSLC--REG--REV-WEB-BAS-OFF-SUR-SYS' --url='https://pdfconversionupload.z33.web.core.windows.net/pdfs/ED26B2D1-86F0-4A12-91BD-DDE68A487CDE.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IN--SEBI--REG--TWO-AUT-TRA-UNI-MUT-FUN' --url='https://www.sebi.gov.in/legal/circulars/sep-2022/two-factor-authentication-for-transactions-in-units-of-mutual-funds_63557.html' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='IN--SEBI--REG--SUS-CAN-OR-SUR-CER' --url='https://www.sebi.gov.in/legal/circulars/oct-2022/suspension-cancellation-or-surrender-of-certificate-of-registration-of-a-credit-rating-agency_63998.html' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
