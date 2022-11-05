@@ -662,6 +662,7 @@ npm run scraper -- --sp='IN--SEBI--REG--TWO-AUT-TRA-UNI-MUT-FUN' --url='https://
 npm run scraper -- --sp='IN--SEBI--REG--SUS-CAN-OR-SUR-CER' --url='https://www.sebi.gov.in/legal/circulars/oct-2022/suspension-cancellation-or-surrender-of-certificate-of-registration-of-a-credit-rating-agency_63998.html' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SU--FATFF--REG--BES-PRA-TRA-BAS-MON-LAU' --url='https://www.fatf-gafi.org/media/fatf/documents/recommendations/BPP%20Trade%20Based%20Money%20Laundering%202012%20COVER.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='BR--BG--REG--DEC-NO-11109-JUN-2022' --url='http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/Decreto/D11109.htm' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--UG--REG--HUM-RIG-ACT-1998' --url='https://www.legislation.gov.uk/ukpga/1998/42#commentary-c11199621' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
