@@ -669,6 +669,7 @@ npm run scraper -- --sp='BR--BG--REG--LAW-NO-4728-JUL-1965' --url='http://www.pl
 npm run scraper -- --sp='SU--ESMAE--REG--QUE-REL-REG-EU-20192088' --url='https://www.esma.europa.eu/sites/default/files/library/c_2022_3051_f1_annex_en_v3_p1_1930070.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--FIN-STA-REV-DEC-2005' --url='https://www.mas.gov.sg/-/media/MAS/Regulations-and-Financial-Stability/Financial-Stabilty/FSR-Dec2005.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--OCCO--REG--INT-CON-LAW-REG-HOM' --url='https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/home-mortgage-disclosure/pub-ch-home-mortgage-disclosure.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SI--MASM--REG--GUI-COR-GOV-FIN-HOL' --url='https://www.mas.gov.sg/-/media/MAS/resource/legislation_guidelines/insurance/guidelines/Guidelines-on-Corporate-Governance-20130403.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
