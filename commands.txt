@@ -1134,6 +1134,7 @@ npm run scraper -- --sp='AU--APRAA--REG--BAN-PRU-STA-DET-NO-0' --url='https://ww
 npm run scraper -- --sp='UN--UG--REG--ACA-COD-PRA-DIS-GRI-PRO' --url='https://www.acas.org.uk/acas-code-of-practice-on-disciplinary-and-grievance-procedures' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--USECS--REG--FED-MUN-FUN-NOA-LET' --url='https://www.sec.gov/divisions/investment/noaction/2006/fmf112006.htm' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='JE--JFSC--REG--COM-UNC-SEC-JER-ORD-1999' --url='https://www.jerseylaw.je/laws/current/PDFs/13.125.90.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UA--DIFCD--REG--DIF-NOT-COM-DAT-PRO' --url='https://www.difc.ae/application/files/5516/5702/4162/DIFC-DP-GL-05_Rev.02_NOTIFYING_THE_COMMISSIONER_OF_DATA_PROTECTION_OF_A_PERSONAL_DATA_BREACH.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
