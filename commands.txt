@@ -1140,6 +1140,7 @@ npm run scraper -- --sp='UA--DIFCD--REG--DIF-FOR-MAJ-PRI-INS' --url='https://www
 npm run scraper -- --sp='UA--DIFCD--REG--DIF-GUI-REL-DAT-SUB-CON' --url='https://www.difc.ae/application/files/7116/5702/4154/DIFC-DP-GL-11_Rev.02_GUIDANCE_RELATING_TO_DATA_SUBJECT_CONSENT.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='JE--JFSC--REG--COM-UNC-SEC-JER-ORD-1999' --url='https://www.jerseylaw.je/laws/current/PDFs/13.125.90.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--TDTCD--REG--DTC-PRO-DEP-SER-GUI' --url='https://www.dtcc.com/~/media/Files/Downloads/legal/service-guides/Deposits.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='AR--AG--REG--POL-CON-ECO-COM-REG-24' --url='http://170.94.37.152/REGS/014.00.07-013F-9432.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
