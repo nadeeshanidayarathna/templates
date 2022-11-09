@@ -1142,6 +1142,7 @@ npm run scraper -- --sp='JE--JFSC--REG--COM-UNC-SEC-JER-ORD-1999' --url='https:/
 npm run scraper -- --sp='UN--TDTCD--REG--DTC-PRO-DEP-SER-GUI' --url='https://www.dtcc.com/~/media/Files/Downloads/legal/service-guides/Deposits.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AR--AG--REG--POL-CON-ECO-COM-REG-24' --url='http://170.94.37.152/REGS/014.00.07-013F-9432.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IR--CBI--REG--REP-EFF-CCM-CON-SAL' --url='https://www.centralbank.ie/docs/default-source/regulation/consumer-protection/report-on-the-effectiveness-of-the-ccma-in-the-context-of-the-sale-of-loans-by-regulated-lenders.pdf?sfvrsn=b54fb61d_6' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='IN--IG--REG--SOL-WAS-MAN-RUL-2016' --url='https://indiacode.nic.in/ViewFileUploaded?path=AC_CEN_16_18_00011_198629_1517807327582/rulesindividualfile/&file=SWM-2016.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
