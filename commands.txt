@@ -673,6 +673,7 @@ npm run scraper -- --sp='SI--MASM--REG--GUI-COR-GOV-FIN-HOL' --url='https://www.
 npm run scraper -- --sp='GU--GFSC--REG--THE-CRI-JUS-PRO-FIN' --url='https://www.gfsc.gg/sites/default/files/Criminal%20Justice%20(Proceeds%20of%20Crime)%20(Financial%20Services%20Businesses)%20(BoG)%20Regulations,%202007%20(Consolidated%20as%20at%202013).pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='GB--GF--REG--THE-CHA-NON-PRO-ORG' --url='https://www.guernseylegalresources.gg/CHttpHandler.ashx?id=71040&p=0' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IN--IG--REG--SEC-EXC-BOA-IND-COL' --url='https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_11_00014_199215_1517807319932&type=regulation&filename=collective_investment_schemes.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='GU--GFSC--REG--EGM-CAS-FIN-ANA-2011-2013' --url='https://www.gfsc.gg/sites/default/files/Egmont%20-%20Financial%20Analysis%20Cases%202011-2013.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
