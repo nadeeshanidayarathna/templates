@@ -1146,6 +1146,7 @@ npm run scraper -- --sp='IN--IG--REG--SOL-WAS-MAN-RUL-2016' --url='https://india
 npm run scraper -- --sp='IN--IG--REG--GOV-SEC-REG-2007' --url='https://indiacode.nic.in/ViewFileUploaded?path=AC_CEN_2_11_00005_200638_1517807318273/regulationindividualfile/&file=Govt.+Securities+Regulations+.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IN--IG--REG--THE-CAN-ACT-2006' --url='https://indiacode.nic.in/bitstream/123456789/2066/1/200641.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='GU--GFSC--REG--THE-CRI-JUS-PRO-LEG' --url='https://www.gfsc.gg/sites/default/files/Criminal%20Justice%20(Proceeds%20of%20Crime)(PB)(BoG)%20Regulations%202008%20(Consolidated%20text).pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='ZA--ZG--REG--THE-BAN-FIN-SER-ACT' --url='https://www.parliament.gov.zm/node/6360' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
