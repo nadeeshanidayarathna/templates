@@ -1163,6 +1163,7 @@ npm run scraper -- --sp='IN--IG--REG--THE-CAN-ACT-2006' --url='https://indiacode
 npm run scraper -- --sp='GU--GFSC--REG--THE-CRI-JUS-PRO-LEG' --url='https://www.gfsc.gg/sites/default/files/Criminal%20Justice%20(Proceeds%20of%20Crime)(PB)(BoG)%20Regulations%202008%20(Consolidated%20text).pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='ZA--ZG--REG--THE-BAN-FIN-SER-ACT' --url='https://www.parliament.gov.zm/node/6360' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='GU--GFSC--REG--THE-2' --url='https://www.guernseylegalresources.gg/CHttpHandler.ashx?id=71523&p=0' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='CH--PBCP--REG--WIT-REG-FUR-ISS-MAG' --url='http://shanghai.pbc.gov.cn/fzhshanghai/113577/114829/114895/3619982/index.html' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
