@@ -678,6 +678,7 @@ npm run scraper -- --sp='IN--IG--REG--CEN-GOO-SER-TAX-CGS' --url='https://upload
 npm run scraper -- --sp='GU--GFSC--REG--THE-BAN-SUP-BAI-GUE' --url='https://www.guernseylegalresources.gg/CHttpHandler.ashx?id=71524&p=0' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='GU--GFSC--REG--THE-REG-FID-ADM-BUS' --url='https://www.guernseylegalresources.gg/CHttpHandler.ashx?documentid=81773' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SI--MASM--REG--TRU' --url='https://www.mas.gov.sg/regulation/faqs/faqs-on-trust-companies-act-and-trust-companies-regulations' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SI--MASM--REG--SUB' --url='https://www.mas.gov.sg/regulation/notices/notice-1003' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
