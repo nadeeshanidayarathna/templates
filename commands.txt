@@ -1166,6 +1166,7 @@ npm run scraper -- --sp='GU--GFSC--REG--THE-2' --url='https://www.guernseylegalr
 npm run scraper -- --sp='CH--PBCP--REG--WIT-REG-FUR-ISS-MAG' --url='http://shanghai.pbc.gov.cn/fzhshanghai/113577/114829/114895/3619982/index.html' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='CH--PBCP--REG--NOT-PEO-BAN-CHI-STR' --url='http://www.pbc.gov.cn/tiaofasi/144941/3581332/3587453/index.html' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='CH--SAFES--REG--GUI-FOR-EXC-ADM-INS-BUS' --url='http://m.safe.gov.cn/safe/file/file/20180427/74e1666f7b57468daf530af473c19a4d.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UN--FTC--REG--STA-BAS-PUR-FIN-REV' --url='https://www.ftc.gov/system/files/documents/public_statements/1393857/g71001_jewelry_guides_statement_of_basis_and_purpose_final_8-8-18.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
