@@ -685,6 +685,12 @@ npm run scraper -- --sp='GU--GFSC--REG--HAN-0' --url='https://www.gfsc.gg/sites/
 npm run scraper -- --sp='AR--AG--REG--DEP-LAB-REG-ARK-AMU' --url='http://170.94.37.152/REGS/010.15.04-001F-7617.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='PA--SBPS--REG--SUB-DAT-PER-IMP' --url='https://pdfconversionupload.z33.web.core.windows.net/pdfs/5A46CEB5-4435-41E1-A2D3-44293C762863.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='IN--IG--REG--INV-EDU-PRO-FUN-AUT-1' --url='https://upload.indiacode.nic.in/showfile?actid=AC_CEN_22_29_00008_201318_1517807327856&type=rule&filename=Investor%20Education%20and%20Protection%20Fund%20Authority%20(Accounting,%20Audit,%20Transfer%20and%20Refund)%20Rules,%202016.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--BGFRS--REG--INT-STA-LIB-TRA' --url='https://www.federalreserve.gov/supervisionreg/srletters/SR2027.htm' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--CFTCC--REG--EXE-REL-USE-ADD-THI' --url='https://www.cftc.gov/csl/14-114/download' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CA--OAGO--REG--OPI-EDM-G-BRO-JR' --url='https://oag.ca.gov/system/files/opinions/pdfs/08-804.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AR--AJ--REG--OPI-NO-73255-HAY-V' --url='https://opinions.arcourts.gov/ark/supremecourt/en/item/248778/index.do' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='JA--JG--REG--YOU-EMP-PRO-ACT' --url='https://elaws.e-gov.go.jp/document?lawid=345AC0000000098' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SU--ESMAE--REG--QUE-ANS-MIF-II-MAR' --url='https://www.esma.europa.eu/document/qa-mifid-ii-and-mifir-market-structures-topics-0' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
