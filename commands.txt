@@ -690,6 +690,7 @@ npm run scraper -- --sp='UN--CFTCC--REG--EXE-REL-USE-ADD-THI' --url='https://www
 npm run scraper -- --sp='CA--OAGO--REG--OPI-EDM-G-BRO-JR' --url='https://oag.ca.gov/system/files/opinions/pdfs/08-804.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AR--AJ--REG--OPI-NO-73255-HAY-V' --url='https://opinions.arcourts.gov/ark/supremecourt/en/item/248778/index.do' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='JA--JG--REG--YOU-EMP-PRO-ACT' --url='https://elaws.e-gov.go.jp/document?lawid=345AC0000000098' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SU--ESMAE--REG--QUE-ANS-MIF-II-MAR' --url='https://www.esma.europa.eu/document/qa-mifid-ii-and-mifir-market-structures-topics-0' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
