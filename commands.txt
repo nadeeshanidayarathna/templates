@@ -1184,6 +1184,7 @@ npm run scraper -- --sp='AU--APRAA--REG--CLI-CHA-AWA-ACT-MAR-2019' --url='https:
 npm run scraper -- --sp='UN--CFTCC--REG--CEA-SEC-SEL-REG-NOA' --url='https://www.cftc.gov/csl/14-126/download' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='GU--GFSC--REG--THE-CRI-JUS-PRO-BAI' --url='https://www.guernseylegalresources.gg/CHttpHandler.ashx?documentid=56239' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='GU--GFSC--REG--THE-6' --url='http://www.guernseylegalresources.gg/CHttpHandler.ashx?id=71522&p=0' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='SU--EC--REG--2006638EC-COM-DEC-SEP-2005' --url='https://eur-lex.europa.eu/eli/dec/2006/638/' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
