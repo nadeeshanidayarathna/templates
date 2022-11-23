@@ -698,6 +698,7 @@ npm run scraper -- --sp='SU--EC--REG--COM-DEL-REG-EU-20212153' --url='https://eu
 npm run scraper -- --sp='SU--EC--REG--COM-DEL-REG-EU-20212155' --url='https://eur-lex.europa.eu/eli/reg_del/2021/2155' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='AU--ASICA--REG--INFO265-REP-SUS-ACT-FIC-MAR' --url='https://asic.gov.au/regulatory-resources/markets/report-suspicious-activity/reports-of-suspicious-activity-in-ficc-markets/' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--FIRAF--REG--TRE-ISS-FIN-SUS-ACT' --url='https://www.finra.org/rules-guidance/notices/02-47' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--FIRAF--REG--NAS-JOI-MEM-CHI-WAL' --url='https://www.finra.org/rules-guidance/notices/91-45' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
