@@ -1197,6 +1197,7 @@ npm run scraper -- --sp='SU--EC--REG--COM-DEL-REG-EU-2021528' --url='https://eur
 npm run scraper -- --sp='MI--MG--REG--MIS-ADM-COD-TIT-MOT' --url='https://www.sos.ms.gov/adminsearch/ACCode/00000152c.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='JA--JG--REG--RAI-MOR-LAW' --url='https://elaws.e-gov.go.jp/document?lawid=138AC0000000053' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--BEBPRAP--REG--PS1421-MAR-REQ-NON-CLE' --url='https://www.bankofengland.co.uk/prudential-regulation/publication/2021/march/margin-requirements-for-non-centrally-cleared-derivatives' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='SU--ESMAE--REG--UND-DEF-ADV-MIF' --url='https://www.esma.europa.eu/sites/default/files/library/2015/11/10_293.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
