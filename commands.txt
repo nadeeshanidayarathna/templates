@@ -701,6 +701,7 @@ npm run scraper -- --sp='UN--FIRAF--REG--TRE-ISS-FIN-SUS-ACT' --url='https://www
 npm run scraper -- --sp='UN--FIRAF--REG--NAS-JOI-MEM-CHI-WAL' --url='https://www.finra.org/rules-guidance/notices/91-45' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SU--ESMAE--REG--QUE-ANS-MIF-II-COM' --url='https://www.esma.europa.eu/sites/default/files/library/esma70-872942901-36_qas_commodity_derivatives.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SU--ESMAE--REG--GUI-PER-INF-BE-SUB' --url='https://www.esma.europa.eu/document/final-report-guidelines-submission-periodic-information-esma-credit-rating-agencies' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--USECS--REG--ORD-UND-SEC-EXC-ACT' --url='https://www.sec.gov/rules/exorders/2020/34-88465.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
