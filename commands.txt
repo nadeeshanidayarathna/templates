@@ -1212,6 +1212,7 @@ npm run scraper -- --sp='SU--ESMAE--REG--QUE-ANS-SEC-REG' --url='https://www.esm
 npm run scraper -- --sp='UN--NCUAN--REG--ORG-TRA-FAC-RUL-BOO' --url='http://www.gfigroup.com/wp-content/uploads/2018/01/GFI-SECURITIES-OTF-Rulebook-2021.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='BR--ANDPDDA--REG--GUI-PER-DAT-HAN-CHA-SET' --url='https://www.gov.br/anpd/pt-br/assuntos/noticias/inclusao-de-arquivos-para-link-nas-noticias/2021-05-27-guia-agentes-de-tratamento_final.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='DE--FIN--REG--ORD-AME-FIN-REP-INS-1' --url='https://www.retsinformation.dk/eli/lta/2020/1592' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='DE--FIN--REG--ORD-AME-FIN-REP-INS' --url='https://www.retsinformation.dk/eli/lta/2016/688' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
