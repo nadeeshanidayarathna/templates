@@ -708,6 +708,13 @@ npm run scraper -- --sp='AU--AG--REG--TRE-LAW-AME-DES-DIS' --url='https://www.le
 npm run scraper -- --sp='SI--MASM--REG--MIN-2' --url='https://www.mas.gov.sg/regulation/notices/notice-758' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--TRA--REG--REM-CER-OBL-TRA-SEF-0' --url='https://www.traditionsef.com/assets/regulatory/Notice-21-07.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='GU--GFSC--REG--THE-9' --url='https://www.guernseylegalresources.gg/CHttpHandler.ashx?id=70911&p=0' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--TRA--REG--REM-CER-OBL-TRA-SEF-1' --url='https://www.traditionsef.com/assets/regulatory/Notice-18-06.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='IN--IG--REG--THE-27' --url='https://www.indiacode.nic.in/bitstream/123456789/15689/1/a2017-12.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CA--CG--REG--PRO-CRI-MON-LAU-TER' --url='https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-184/FullText.html' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='JA--JG--REG--UNF-COM-PRE-ACT' --url='https://elaws.e-gov.go.jp/document?lawid=405AC0000000047' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SU--EC--REG--COM-DEL-REG-EU-2015942' --url='https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:JOL_2015_154_R_0001' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='DE--FIN--REG--ORD-PUB-NUM-REP-ACC' --url='https://www.retsinformation.dk/eli/lta/2021/1088' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='DE--FIN--REG--ORD-AME-FIN-REP-CRE-2' --url='https://www.retsinformation.dk/eli/lta/2020/1593' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
