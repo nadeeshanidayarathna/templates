@@ -1226,6 +1226,7 @@ npm run scraper -- --sp='DE--FIN--REG--ORD-AME-FIN-REP-CRE-1' --url='https://www
 npm run scraper -- --sp='TH--SECS--REG--GUI-FIL-INF-ABO-OFF' --url='https://publish.sec.or.th/nrs/7874a2.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='BA--BG--REG--PRE-BRI-ACT' --url='http://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1976/1976-0009/PreventionofBriberyAct_1.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='BA--BG--REG--ANT-TER-ACT-2018' --url='http://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2018/2018-0027/Anti-TerrorismAct2018_1.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UN--CBOEC--REG--DIS-TRA-PRA-0' --url='https://cdn.cboe.com/resources/regulation/circulars/regulatory/CFERG22-004-Disruptive-Trading-Practices.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
