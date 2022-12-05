@@ -717,6 +717,7 @@ npm run scraper -- --sp='DE--FIN--REG--ORD-PUB-NUM-REP-ACC' --url='https://www.r
 npm run scraper -- --sp='DE--FIN--REG--ORD-AME-FIN-REP-CRE-2' --url='https://www.retsinformation.dk/eli/lta/2020/1593' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SU--EIOPA--REG--DRA-AME-COM-IMP-REG' --url='https://www.eiopa.europa.eu/document-library/technical-standard/draft-implementing-technical-standards-solvency-ii' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='SU--EBA--REG--REG-TEC-STA-AME-RTS' --url='https://www.eba.europa.eu/sites/default/documents/files/documents/10180/1886768/d25ffdbc-b987-4996-ba57-b4844958e639/Amending%20RTS%20to%20RTS%20on%20proxy%20spread%20%28EBA-RTS-2017-07%29.pdf?retry=1' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SU--EPC--REG--DIR-2006114EC-EUR-PAR-COU' --url='https://eur-lex.europa.eu/eli/dir/2006/114/' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
