@@ -1230,6 +1230,7 @@ npm run scraper -- --sp='UN--CBOEC--REG--DIS-TRA-PRA-0' --url='https://cdn.cboe.
 npm run scraper -- --sp='SU--ESMAE--REG--GUI-MAR-COM-UND-REG' --url='https://www.esma.europa.eu/sites/default/files/library/esma34-45-1272_guidelines_on_marketing_communications.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IN--SEBI--REG--SEC' --url='https://www.sebi.gov.in/legal/regulations/jan-2022/securities-and-exchange-board-of-india-foreign-portfolio-investors-regulations-2019-last-amended-on-january-14-2022-_55375.html' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='BE--BG--REG--ROY-DEC-MOD-LIS-PER' --url='https://www.ejustice.just.fgov.be/eli/arrete/2020/11/08/2020043648/justel' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='BA--CBB--REG--BRP-CIR-NO-AGE-LIM' --url='https://www.bb.org.bd/mediaroom/circulars/brpd/jun232013brpd08.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
