@@ -1261,6 +1261,7 @@ npm run scraper -- --sp='IS--BI--REG--REP-TEC-FAI-EVE-CYB-INC' --url='https://ww
 npm run scraper -- --sp='IS--BI--REG--RE-RIS-MAN-MON-LAU' --url='https://www.boi.org.il/he/BankingSupervision/LettersAndCircularsSupervisorOfBanks/HozSup/h2677.pdf' --path='C:\Users\sithum.ranabahu\Downloads'
 npm run scraper -- --sp='TH--TBMAT--REG--CRE-VEN-REG-2ND-EDI' --url='http://www.thaibma.or.th/pdf/sro/announce/announce27_no2_8oct56.pdf' --path='C:\Users\sithum.ranabahu\Downloads'
 npm run scraper -- --sp='TH--SECS--REG--NOT-SEC-EXC-COM-NO' --url='https://publish.sec.or.th/nrs/8820s.pdf' --path='C:\Users\sithum.ranabahu\Downloads'
+npm run scraper -- --sp='TH--SECS--REG--NOT-CAP-MAR-SUP-BOA' --url='https://publish.sec.or.th/nrs/8871s.pdf' --path='C:\Users\sithum.ranabahu\Downloads'
 
 
 #mohamed.aadil
