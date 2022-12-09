@@ -1246,6 +1246,7 @@ npm run scraper -- --sp='NE--NYSDFS--REG--AME-NEW-YOR-INS-LAW' --url='https://ww
 npm run scraper -- --sp='UN--FTC--REG--ADV-OPI-NAD-121098' --url='https://www.ftc.gov/policy/advisory-opinions/advisory-opinion-nadell-12-10-98' --path='C:\Users\sithum.ranabahu\Downloads'
 npm run scraper -- --sp='FR--FG--REG--ORD-MAR-2020-GRA-STA' --url='https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041746813/#:~:text=2-,En%20application%20de%20l'article%206%20de%20la%20loi%20n,mentionn%C3%A9s%20%C3%A0%20l'article%20L' --path='C:\Users\sithum.ranabahu\Downloads'
 npm run scraper -- --sp='IS--BI--REG--REP-TEC-FAI-EVE-CYB-INC' --url='https://www.boi.org.il/he/BankingSupervision/LettersAndCircularsSupervisorOfBanks/HozSup/H2643.pdf' --path='C:\Users\sithum.ranabahu\Downloads'
+npm run scraper -- --sp='IS--BI--REG--RE-RIS-MAN-MON-LAU' --url='https://www.boi.org.il/he/BankingSupervision/LettersAndCircularsSupervisorOfBanks/HozSup/h2677.pdf' --path='C:\Users\sithum.ranabahu\Downloads'
 
 
 #mohamed.aadil
