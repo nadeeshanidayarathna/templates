@@ -723,6 +723,7 @@ npm run scraper -- --sp='SU--ECB--REG--REC-EUR-CEN-BAN-DEC' --url='https://www.b
 npm run scraper -- --sp='UN--UG--REG--SCO-PAR-REG-PEO-WIT' --url='https://www.legislation.gov.uk/uksi/2017/694' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--LG--REG--CFT-DIV-CLE-RIS-LET' --url='https://www.lch.com/system/files/media_root/Interest%20Rate%20Swaps.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--BEBPRAP--REG--OPE-RES' --url='https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2021/operational-resilience-march-2021.pdf?la=en&hash=908CF0854077E5F466D512BFB904C6EA4503F54B' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SU--ECB--REG--ECB-GUI-INT-CAP-ADE' --url='https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.icaap_guide_201811.en.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
