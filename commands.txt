@@ -715,6 +715,15 @@ npm run scraper -- --sp='JA--JG--REG--UNF-COM-PRE-ACT' --url='https://elaws.e-go
 npm run scraper -- --sp='SU--EC--REG--COM-DEL-REG-EU-2015942' --url='https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:JOL_2015_154_R_0001' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='DE--FIN--REG--ORD-PUB-NUM-REP-ACC' --url='https://www.retsinformation.dk/eli/lta/2021/1088' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='DE--FIN--REG--ORD-AME-FIN-REP-CRE-2' --url='https://www.retsinformation.dk/eli/lta/2020/1593' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SU--EIOPA--REG--DRA-AME-COM-IMP-REG' --url='https://www.eiopa.europa.eu/document-library/technical-standard/draft-implementing-technical-standards-solvency-ii' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SU--EBA--REG--REG-TEC-STA-AME-RTS' --url='https://www.eba.europa.eu/sites/default/documents/files/documents/10180/1886768/d25ffdbc-b987-4996-ba57-b4844958e639/Amending%20RTS%20to%20RTS%20on%20proxy%20spread%20%28EBA-RTS-2017-07%29.pdf?retry=1' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SU--EPC--REG--DIR-2006114EC-EUR-PAR-COU' --url='https://eur-lex.europa.eu/eli/dir/2006/114/' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SU--EBA--REG--FIN-DRA-RTS-LIQ-HOR-IMA' --url='https://www.eba.europa.eu/sites/default/documents/files/document_library//EBA-RTS-2020-%2001%20Final%20draft%20RTS%20on%20Liquidity%20Horizon%20for%20the%20IMA.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SU--ECB--REG--REC-EUR-CEN-BAN-DEC' --url='https://www.bankingsupervision.europa.eu/press/letterstobanks/shared/pdf/2015/ssm.ecb_2015_49_f_sign.en.pdf?4a8798d5d2ac15be10b71af1b133de92' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--UG--REG--SCO-PAR-REG-PEO-WIT' --url='https://www.legislation.gov.uk/uksi/2017/694' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--LG--REG--CFT-DIV-CLE-RIS-LET' --url='https://www.lch.com/system/files/media_root/Interest%20Rate%20Swaps.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--BEBPRAP--REG--OPE-RES' --url='https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2021/operational-resilience-march-2021.pdf?la=en&hash=908CF0854077E5F466D512BFB904C6EA4503F54B' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SU--ECB--REG--ECB-GUI-INT-CAP-ADE' --url='https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.icaap_guide_201811.en.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
