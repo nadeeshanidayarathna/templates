@@ -726,6 +726,7 @@ npm run scraper -- --sp='UN--BEBPRAP--REG--OPE-RES' --url='https://www.bankofeng
 npm run scraper -- --sp='SU--ECB--REG--ECB-GUI-INT-CAP-ADE' --url='https://www.bankingsupervision.europa.eu/ecb/pub/pdf/ssm.icaap_guide_201811.en.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='HO--CRC--REG--GUI-COM-ANT-LAU-COU' --url='https://www.cr.gov.hk/en/publications/docs/AntiMoneyGuide_e.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='CA--CG--REG--BAN-ACT' --url='https://laws-lois.justice.gc.ca/eng/acts/B-1.01/FullText.html' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AU--FSCF--REG--STANDARD-NO-0' --url='https://www.fsc.org.au/web-page-resources/fsc-standards/2329-fsc-s21' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
