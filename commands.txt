@@ -1252,6 +1252,7 @@ npm run scraper -- --sp='BA--CBB--REG--BRP-CIR-NO-POL-UNC' --url='https://www.bb
 npm run scraper -- --sp='BA--BFIU--REG--BFI-CIR-NO-MAS-REG' --url='https://www.bb.org.bd/mediaroom/circulars/aml/oct192015bfiu18.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='LE--CBL--REG--BAS-73' --url='http://www.bdl.gov.lb/circulars/download/529/ar' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='LE--CBL--REG--BAS-65' --url='http://www.bdl.gov.lb/circulars/download/528/ar' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='LE--CBL--REG--BAS-58' --url='http://www.bdl.gov.lb/circulars/download/15/ar' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
