@@ -1255,6 +1255,7 @@ npm run scraper -- --sp='LE--CBL--REG--BAS-65' --url='http://www.bdl.gov.lb/circ
 npm run scraper -- --sp='LE--CBL--REG--BAS-58' --url='http://www.bdl.gov.lb/circulars/download/15/ar' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='LE--CBL--REG--BAS-11' --url='http://www.bdl.gov.lb/circulars/download/48/ar' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='LE--CBL--REG--BAS-63' --url='http://www.bdl.gov.lb/circulars/download/132/ar' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UN--CFE--REG--NEW-REG-COM-TIP-REF-FOR' --url='https://cdn.cboe.com/resources/regulation/circulars/regulatory/CFE-RG20-002.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
