@@ -1280,6 +1280,7 @@ npm run scraper -- --sp='TH--SECS--REG--NOT-SEC-EXC-COM-NO' --url='https://publi
 npm run scraper -- --sp='TH--SECS--REG--NOT-CAP-MAR-SUP-BOA' --url='https://publish.sec.or.th/nrs/8871s.pdf' --path='C:\Users\sithum.ranabahu\Downloads'
 npm run scraper -- --sp='TH--SECS--REG--NOT-CAP-MAR-SUP-BOA-0' --url='https://publish.sec.or.th/nrs/8872s.pdf' --path='C:\Users\sithum.ranabahu\Downloads'
 npm run scraper -- --sp='TH--BTB--REG--ADD-DET-ONL-ACC-ELE' --url='https://www.bot.or.th/Thai/FIPCS/Documents/DDD/2552/ThaiPDF/25520105.pdf' --path='C:\Users\sithum.ranabahu\Downloads'
+npm run scraper -- --sp='BA--BFIU--REG--BFI-CIR-NO-INS-BE' --url='https://www.bb.org.bd/mediaroom/circulars/aml/sep172017bfiu19.pdf' --path='C:\Users\sithum.ranabahu\Downloads'
 
 
 #mohamed.aadil
