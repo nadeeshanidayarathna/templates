@@ -1258,6 +1258,7 @@ npm run scraper -- --sp='LE--CBL--REG--BAS-63' --url='http://www.bdl.gov.lb/circ
 npm run scraper -- --sp='UN--CFE--REG--NEW-REG-COM-TIP-REF-FOR' --url='https://cdn.cboe.com/resources/regulation/circulars/regulatory/CFE-RG20-002.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--CFE--REG--REC-CFE-BES-PRA-UPD' --url='https://cdn.cboe.com/resources/regulation/circulars/regulatory/RG-CFE-2017-009.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='LE--CBL--REG--BAS-62' --url='http://www.bdl.gov.lb/circulars/download/429/ar' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UN--CBOEC--REG--REQ-PRO-NOT-EXC-DIS-ACT' --url='https://cdn.cboe.com/resources/regulation/circulars/regulatory/RC22-013-Requirement-to-Provide-Notification-to-the-Exchange-of-Disciplinary-Action.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
