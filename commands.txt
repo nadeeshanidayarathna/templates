@@ -737,6 +737,7 @@ npm run scraper -- --sp='BR--CDVMC--REG--AME-CVM-RES-NO-MAR' --url='https://cont
 npm run scraper -- --sp='CO--SFDCS--REG--IT-REP-ASP-REL-FOR' --url='https://www.superfinanciera.gov.co/descargas/institucional/pubFile1063060/cc70_22.docx' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--FIRAF--REG--FIN-IND-REG-AUT-LET' --url='https://www.finra.org/sites/default/files/fda_documents/2016051156903%20Janney%20Montgomery%20Scott,%20LLC%20CRD%20463%20AWC%20geg.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='BR--CDVMC--REG--INV-FUN-ADM' --url='https://conteudo.cvm.gov.br/legislacao/oficios-circulares/sin/oc-sin-0822.html' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--FIRAF--REG--FIN-IND-REG-AUT-LET-3' --url='https://www.finra.org/sites/default/files/fda_documents/2020066233401%20Credit%20Suisse%20Securities%20(USA)%20LLC%20CRD%20816%20AWC%20lp.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
