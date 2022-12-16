@@ -1263,6 +1263,7 @@ npm run scraper -- --sp='LE--CBL--REG--AB-B-3' --url='http://www.bdl.gov.lb/circ
 npm run scraper -- --sp='CO--BDVDC--REG--HOU-END-YEA-0' --url='https://www.bvc.com.co/informes-y-boletines?tab=boletines_informativos-derivados' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SL--CB--REG--REQ-CON-SUP-FIN-URG' --url='https://pdfconversionupload.z33.web.core.windows.net/pdfs/E591C9F7-F486-C242-A94B-22265477238E.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='CO--BDVDC--REG--HOU-END-YEA-1' --url='https://www.bvc.com.co/informes-y-boletines?tab=boletines_informativos-bvc' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UN--FIRAF--REG--FIN-IND-REG-AUT-LET-2' --url='https://www.finra.org/sites/default/files/fda_documents/2019062118301%20Wedbush%20Securities%20Inc.%20CRD%20877%20AWC%20gg.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
