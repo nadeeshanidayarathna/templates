@@ -1288,6 +1288,7 @@ npm run scraper -- --sp='TH--SECS--REG--NOT-CAP-MAR-SUP-BOA-0' --url='https://pu
 npm run scraper -- --sp='TH--BTB--REG--ADD-DET-ONL-ACC-ELE' --url='https://www.bot.or.th/Thai/FIPCS/Documents/DDD/2552/ThaiPDF/25520105.pdf' --path='C:\Users\sithum.ranabahu\Downloads'
 npm run scraper -- --sp='BA--BFIU--REG--BFI-CIR-NO-INS-BE' --url='https://www.bb.org.bd/mediaroom/circulars/aml/sep172017bfiu19.pdf' --path='C:\Users\sithum.ranabahu\Downloads'
 npm run scraper -- --sp='ON--OSCO--REG--AME-OSC-RUL-13502-FEE' --url='https://www.osc.ca/en/securities-law/instruments-rules-policies/1/13-502/amendments-osc-rule-13-502-fees-osc-rule-13-503-commodity-futures-act-fees-changes-their-companion' --path='C:\Users\sithum.ranabahu\Downloads'
+npm run scraper -- --sp='NE--CADNL--REG--BIL-ACT-AME-CON-PRO' --url='https://www.assembly.nl.ca/HouseBusiness/Bills/ga50session2/bill2213.htm' --path='C:\Users\sithum.ranabahu\Downloads'
 
 
 #mohamed.aadil
