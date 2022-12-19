@@ -1286,6 +1286,7 @@ npm run scraper -- --sp='UN--FIRAF--REG--FIN-IND-REG-AUT-LET-1' --url='https://w
 npm run scraper -- --sp='CO--ML--REG--VAL-ELE-VOT-UNI-DEC' --url='https://www.mintrabajo.gov.co/documents/20147/67466765/Circular%20No.%200071.PDF/2b1d2b40-2921-a9ed-29c5-223d3b76f586?t=1669824268762' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='US--US--REG--COR-OFF-SEN-FRA-KIC' --url='https://www.sec.gov/litigation/litreleases/2016/lr23441.htm' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='AR--BCDLRDAB--REG--MON-ACC-INF-SYS-CAS' --url='https://www.bcra.gob.ar/Pdfs/comytexord/A7654.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='CO--ML--REG--PRE-CAR-CAS-VIO-HAR' --url='https://www.mintrabajo.gov.co/documents/20147/67466765/Circular%200069.PDF/5746e85e-77bd-ab37-5cdf-9409307a1cf2?t=1669155992953' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
