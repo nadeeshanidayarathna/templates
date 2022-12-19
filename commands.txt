@@ -742,6 +742,7 @@ npm run scraper -- --sp='TH--TCH--REG--NOT-THA-CLE-HOU-CO-0' --url='https://clas
 npm run scraper -- --sp='CH--CG--REG--DET-RUL-IMP-TAX-COL' --url='http://fgcx.bjcourt.gov.cn:4601/law?fn=chl253s105.txt' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='CO--BDLR--REG--ACT-VAL-UNI-UVR-EFF-0' --url='https://www.banrep.gov.co/sites/default/files/reglamentacion/archivos/bjd_52_2022.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UA--UG--REG--GUI-TAR-FIN-SAN-FIS-VAS' --url='https://www.uaeiec.gov.ae/API/Upload/DownloadFile?FileID=92e20976-eebc-4cbd-b6b9-e20ad532911f' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AR--BCDLRDAB--REG--ABR-EXC-ADJ' --url='https://www.bcra.gob.ar/Pdfs/comytexord/A7649.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
