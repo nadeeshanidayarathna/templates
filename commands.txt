@@ -1288,6 +1288,7 @@ npm run scraper -- --sp='US--US--REG--COR-OFF-SEN-FRA-KIC' --url='https://www.se
 npm run scraper -- --sp='AR--BCDLRDAB--REG--MON-ACC-INF-SYS-CAS' --url='https://www.bcra.gob.ar/Pdfs/comytexord/A7654.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='CO--ML--REG--PRE-CAR-CAS-VIO-HAR' --url='https://www.mintrabajo.gov.co/documents/20147/67466765/Circular%200069.PDF/5746e85e-77bd-ab37-5cdf-9409307a1cf2?t=1669155992953' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='SU--ISDAI--REG--ISD-BES-PRA-PRI-SWA' --url='https://www.isda.org/a/pKiDE/stp-wg-stp-general-principles-final.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='SU--ISDAI--REG--ISD-2021-SBS-PRO-SUP-II' --url='https://www.isda.org/a/4zGTE/SBS-Protocol-Supplement-II.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
