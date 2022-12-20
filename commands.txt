@@ -1316,6 +1316,7 @@ npm run scraper -- --sp='ON--OSCO--REG--AME-OSC-RUL-13502-FEE' --url='https://ww
 npm run scraper -- --sp='NE--CADNL--REG--BIL-ACT-AME-CON-PRO' --url='https://www.assembly.nl.ca/HouseBusiness/Bills/ga50session2/bill2213.htm' --path='C:\Users\sithum.ranabahu\Downloads'
 npm run scraper -- --sp='UN--FIRAF--REG--FIN-PRO-UPD-SWE-OPT' --url='https://www.finra.org/rules-guidance/guidance/targeted-examination-letters/sweep-update' --path='C:\Users\sithum.ranabahu\Downloads'
 npm run scraper -- --sp='UN--LCL--REG--EUR-MAR-TER-CON' --url='https://www.mtsmarkets.com/sites/default/files/content/EuroMTS Markets Tcs 01 04 2021 Clean_1.pdf' --path='C:\Users\sithum.ranabahu\Downloads'
+npm run scraper -- --sp='SU--ISDAI--REG--STA-ANA-DEF-SWA-EXE' --url='https://www.isda.org/a/TWiDE/final-sef-letter-100110.pdf' --path='C:\Users\sithum.ranabahu\Downloads'
 
 
 #mohamed.aadil
