@@ -739,6 +739,18 @@ npm run scraper -- --sp='UN--FIRAF--REG--FIN-IND-REG-AUT-LET' --url='https://www
 npm run scraper -- --sp='BR--CDVMC--REG--INV-FUN-ADM' --url='https://conteudo.cvm.gov.br/legislacao/oficios-circulares/sin/oc-sin-0822.html' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UN--FIRAF--REG--FIN-IND-REG-AUT-LET-3' --url='https://www.finra.org/sites/default/files/fda_documents/2020066233401%20Credit%20Suisse%20Securities%20(USA)%20LLC%20CRD%20816%20AWC%20lp.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='TH--TCH--REG--NOT-THA-CLE-HOU-CO-0' --url='https://classic.set.or.th/rulebook/#/regulation/content/36994?lang=th' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CH--CG--REG--DET-RUL-IMP-TAX-COL' --url='http://fgcx.bjcourt.gov.cn:4601/law?fn=chl253s105.txt' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CO--BDLR--REG--ACT-VAL-UNI-UVR-EFF-0' --url='https://www.banrep.gov.co/sites/default/files/reglamentacion/archivos/bjd_52_2022.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UA--UG--REG--GUI-TAR-FIN-SAN-FIS-VAS' --url='https://www.uaeiec.gov.ae/API/Upload/DownloadFile?FileID=92e20976-eebc-4cbd-b6b9-e20ad532911f' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='AR--BCDLRDAB--REG--ABR-EXC-ADJ' --url='https://www.bcra.gob.ar/Pdfs/comytexord/A7649.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='CO--BDLR--REG--ACT-VAL-UNI-UVR-EFF' --url='https://www.banrep.gov.co/sites/default/files/reglamentacion/archivos/bjd_50_2022_0.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--HMTHT--REG--THE-RUS-SAN-EU-EXI' --url='https://www.legislation.gov.uk/uksi/2022/801/made' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UN--HMTHT--REG--THE-RUS-SAN-EU-EXI-0' --url='https://www.legislation.gov.uk/uksi/2022/792/made' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='IN--FIUIF--REG--ALE-GOL-UNI-COM-CEL-FIN' --url='https://pdfconversionupload.z33.web.core.windows.net/pdfs/5053F08E-0C00-9847-889A-52B931CAE928.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='HO--HKMA--REG--CRE-RIS-MAN-PER-LEN-BUS' --url='https://www.hkma.gov.hk/media/eng/doc/key-information/guidelines-and-circular/2022/20221027e2.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='UA--DIFCD--REG--ETH-DAT-MAN-RIS-IND' --url='https://www.difc.ae/application/files/3116/6511/9808/DIFC-DP-GL-17_Rev._02_EDMRI_Guidance.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SU--ISDAI--REG--ISD-2021-SBS-PRO-SUP-I' --url='https://www.isda.org/a/NzGTE/SBS-Protocol-Supplement-I.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='BR--RFR--REG--IT-PRO-NAT-REG-LEG' --url='https://pdfconversionupload.z33.web.core.windows.net/pdfs/B707BBD3-0B03-534E-87A6-3910A88F9ACB.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
