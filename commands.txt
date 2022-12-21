@@ -1294,6 +1294,7 @@ npm run scraper -- --sp='SU--ISDAI--REG--ISD-2021-SBS-PRO-AGR' --url='https://ww
 npm run scraper -- --sp='IN--CDSL--REG--REG-REP-ENT-RES-FIN' --url='https://www.cdslindia.com/common/DownLoadFile.aspx?eventid=DP2022-648' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='IN--NSEIL--REG--REG-REP-ENT-RES-FIN' --url='https://archives.nseindia.com/content/circulars/COMP54354.pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 npm run scraper -- --sp='UN--FIRAF--REG--FIN-ADO-ENH-TRA-REP' --url='https://www.finra.org/rules-guidance/notices/22-27' --path='C:\Users\prabodha.lahiru\Downloads'
+npm run scraper -- --sp='UN--LCL--REG--LCH-LIM-SEL-CER-ENH' --url='https://www.lch.com/system/files/media_root/Enhancements%20to%20the%20trade%20registration%20process%20(15-08-16).pdf' --path='C:\Users\prabodha.lahiru\Downloads'
 
 #sithum.ranabahu
 npm run scraper -- --sp='SA--GS--REG--LAW-COM-BOO' --url='https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1#!' --path='C:\Users\sithum.ranabahu\Downloads'
