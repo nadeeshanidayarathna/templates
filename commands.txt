@@ -749,6 +749,7 @@ npm run scraper -- --sp='UN--HMTHT--REG--THE-RUS-SAN-EU-EXI-0' --url='https://ww
 npm run scraper -- --sp='IN--FIUIF--REG--ALE-GOL-UNI-COM-CEL-FIN' --url='https://pdfconversionupload.z33.web.core.windows.net/pdfs/5053F08E-0C00-9847-889A-52B931CAE928.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='HO--HKMA--REG--CRE-RIS-MAN-PER-LEN-BUS' --url='https://www.hkma.gov.hk/media/eng/doc/key-information/guidelines-and-circular/2022/20221027e2.pdf' --path='C:\Users\raveendran.pira\Downloads'
 npm run scraper -- --sp='UA--DIFCD--REG--ETH-DAT-MAN-RIS-IND' --url='https://www.difc.ae/application/files/3116/6511/9808/DIFC-DP-GL-17_Rev._02_EDMRI_Guidance.pdf' --path='C:\Users\raveendran.pira\Downloads'
+npm run scraper -- --sp='SU--ISDAI--REG--ISD-2021-SBS-PRO-SUP-I' --url='https://www.isda.org/a/NzGTE/SBS-Protocol-Supplement-I.pdf' --path='C:\Users\raveendran.pira\Downloads'
 
 # prabodha.lahiru
 npm run scraper -- --sp='AR--AG--REG--LAW-REP-JOI' --url='http://parliament.am/legislation.php?sel=show&ID=1276&lang=arm&enc=utf8#13' --path='C:\Users\prabodha.lahiru\Downloads'
