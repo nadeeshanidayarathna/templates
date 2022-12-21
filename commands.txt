@@ -1322,6 +1322,7 @@ npm run scraper -- --sp='UN--FIRAF--REG--FIN-PRO-UPD-SWE-OPT' --url='https://www
 npm run scraper -- --sp='UN--LCL--REG--EUR-MAR-TER-CON' --url='https://www.mtsmarkets.com/sites/default/files/content/EuroMTS Markets Tcs 01 04 2021 Clean_1.pdf' --path='C:\Users\sithum.ranabahu\Downloads'
 npm run scraper -- --sp='SU--ISDAI--REG--STA-ANA-DEF-SWA-EXE' --url='https://www.isda.org/a/TWiDE/final-sef-letter-100110.pdf' --path='C:\Users\sithum.ranabahu\Downloads'
 npm run scraper -- --sp='SU--ISDAI--REG--EUR-COR-DEB-PRI-PLA' --url='https://www.icmagroup.org/assets/documents/Regulatory/Private-placements/European-Corporate-Debt-Private-Placement-Market-Guide-October-2016.pdf' --path='C:\Users\sithum.ranabahu\Downloads'
+npm run scraper -- --sp='UN--LG--REG--DAN-LAW-LEG-OPI-GIV' --url='https://www.lch.com/system/files/media_root/201230%20Executed%20Opinion%20Denmark.pdf' --path='C:\Users\sithum.ranabahu\Downloads'
 
 
 #mohamed.aadil
